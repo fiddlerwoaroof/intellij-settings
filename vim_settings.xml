@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" timestamp="1536951755544">
@@ -10,14 +10,35 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="22" />
       </file>
+      <file name="$USER_HOME$/git_repos/insights/optimus-prime/test/optimus_prime/transform_test.clj" timestamp="1536957206244">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="106" column="82" />
+        <mark key="]" line="106" column="82" />
+        <mark key="." line="106" column="82" />
+        <mark key="^" line="106" column="43" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="10" filename="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" />
       <jump line="12" column="9" filename="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" />
+      <jump line="76" column="0" filename="$USER_HOME$/git_repos/insights/optimus-prime/test/optimus_prime/transform_test.clj" />
+      <jump line="174" column="20" filename="$USER_HOME$/git_repos/insights/optimus-prime/test/optimus_prime/transform_test.clj" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgezpuYW1lICJicm93c2VyLW5hbWUiIDp2YWx1ZSAiU2FmYXJpIn0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">KGRlZm4gYXNkZnNhZGYgW10KICBhc3NlcnQtdmFsaWQtZmRlY2xhc2RmYXMKICBhc2RmYXMKICBhc2RmYXNkZgogICkKCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name=":" type="4">
-        <text>action :cursive.actions.paredit/slurp-backwards</text>
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -38,10 +59,16 @@
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
         <entry>action :cursive.actions.paredit/barf-backwards</entry>
         <entry>action :cursive.actions.paredit/slurp-backwards</entry>
+        <entry>vsp</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
