@@ -1,4 +1,7 @@
 <application>
+  <component name="RelativeLineNumbersSettings">
+    <option name="enabled" value="false" />
+  </component>
   <component name="VimSettings">
     <state version="4" enabled="false" />
     <globalmarks />
