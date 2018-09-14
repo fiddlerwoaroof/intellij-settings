@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;bower_components;flex;src-target;test-target;vssver.scc;vssver2.scc;ztest-*;" />
+    <extensionMap>
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

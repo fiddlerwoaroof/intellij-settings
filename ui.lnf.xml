@@ -1,0 +1,10 @@
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value=".SFNSText-Regular" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="95" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1020" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+  </component>
+</application>

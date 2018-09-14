@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="jtest" value="@Test&#10;public void $TEST_NAME$() {&#10;    $END$&#10;}" description="Junit test" toReformat="false" toShortenFQNames="true">
+    <variable name="TEST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

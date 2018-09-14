@@ -1,0 +1,82 @@
+<keymap version="1" name="Lisp Editing" parent="Mac OS X 10.5+">
+  <action id=":cursive.actions.paredit/backward">
+    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-backwards">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="comma" />
+  </action>
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="period" />
+  </action>
+  <action id=":cursive.actions.paredit/forward">
+    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id=":cursive.actions.paredit/forward-up">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id=":cursive.actions.paredit/move-form-up">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-backwards">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="shift less" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="shift greater" />
+  </action>
+  <action id=":cursive.actions.paredit/splice">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="shift s" />
+  </action>
+  <action id=":cursive.actions.paredit/splice-killing-backwards">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="shift a" />
+  </action>
+  <action id=":cursive.actions.paredit/splice-killing-forwards">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="shift d" />
+  </action>
+  <action id=":cursive.actions.paredit/split">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="shift #100007c" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-curly">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="shift braceleft" />
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="shift braceright" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-paren">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="shift w" />
+  </action>
+  <action id=":cursive.actions.paredit/wrap-square">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="close_bracket" />
+  </action>
+  <action id=":cursive.repl.actions/run-top-sexp">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl c" />
+  </action>
+  <action id="CheckinFiles">
+    <keyboard-shortcut first-keystroke="meta alt 3" />
+  </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="ShowCursiveCheatSheet">
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="slash" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" />
+  </action>
+</keymap>
