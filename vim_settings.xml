@@ -3,19 +3,44 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" timestamp="1536950396960">
+      <file name="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" timestamp="1536951357962">
         <mark key="'" line="28" column="10" />
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="22" />
       </file>
     </filemarks>
     <jumps>
       <jump line="28" column="10" filename="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" />
     </jumps>
-    <registers />
+    <registers>
+      <register name=":" type="4">
+        <text>so ~/.ideavimrc</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>action :cursive.actions.paredit/barf-backwards</entry>
+        <entry>action :cursive.actions.paredit/slurp-backwards</entry>
+        <entry>action:cursive.actions.paredit/splice</entry>
+        <entry>action:cursive.actions.paredit/splice-killing-forwards</entry>
+        <entry>action:cursive.actions.paredit/splice-killing-backwards</entry>
+        <entry>action :cursive.actions.paredit/wrap-square</entry>
+        <entry>action :cursive.actions.paredit/wrap-curly</entry>
+        <entry>action :cursive.actions.paredit/wrap-paren</entry>
+        <entry>action split-vertically</entry>
+        <entry>action Split Vertically</entry>
+        <entry>so ~/.ideavimrc</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
