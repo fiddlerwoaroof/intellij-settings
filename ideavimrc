@@ -1,0 +1,20 @@
+set surround
+
+map <C-x>o <C-w><C-w>
+nmap <C-x>3 :action SplitVertically<CR>
+nmap <C-x>2  :action SplitHorizontally<CR>
+
+nmap ,W :action :cursive.actions.paredit/wrap-paren<CR>
+nmap ,w{ :action :cursive.actions.paredit/wrap-curly<CR>
+nmap ,w} :action :cursive.actions.paredit/wrap-curly<CR>
+nmap ,w[ :action :cursive.actions.paredit/wrap-square<CR>
+nmap ,w] :action :cursive.actions.paredit/wrap-square<CR>
+
+nmap ,, :action :cursive.actions.paredit/barf-backwards<CR>
+nmap ,. :action :cursive.actions.paredit/barf-forwards<CR>
+nmap ,< :action :cursive.actions.paredit/slurp-backwards<CR>
+nmap ,> :action :cursive.actions.paredit/slurp-forwards<CR>
+
+nmap ,S :action:cursive.actions.paredit/splice<CR>
+nmap ,A :action:cursive.actions.paredit/splice-killing-backwards<CR>
+nmap ,D :action:cursive.actions.paredit/splice-killing-forwards<CR>
