@@ -1,0 +1,14 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Clojure Deps Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
+    <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Indexing" />
+    <notification groupId="Plugins AutoSwitch" />
+    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
+    <notification groupId="Profiling" />
+    <notification groupId="Remote Desktop" />
+    <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
+  </component>
+</application>
