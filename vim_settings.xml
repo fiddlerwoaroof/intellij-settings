@@ -13,12 +13,12 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" timestamp="1540592167662">
-        <mark key="'" line="101" column="78" />
-        <mark key="[" line="102" column="62" />
-        <mark key="]" line="102" column="81" />
-        <mark key="." line="102" column="81" />
-        <mark key="^" line="102" column="81" />
+      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" timestamp="1540596496394">
+        <mark key="'" line="132" column="78" />
+        <mark key="[" line="65" column="74" />
+        <mark key="]" line="84" column="85" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="64" column="5" />
       </file>
       <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/ConsoleApplication.scala" timestamp="1540593277944" />
       <file name="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" timestamp="1536951755544">
@@ -35,19 +35,15 @@
         <mark key="." line="106" column="82" />
         <mark key="^" line="106" column="43" />
       </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540594821514">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="83" />
+      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="45" column="136" />
+        <mark key="]" line="45" column="136" />
+        <mark key="^" line="45" column="136" />
+        <mark key="." line="45" column="136" />
       </file>
       <file name="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" timestamp="1540594808236">
         <mark key="'" line="127" column="68" />
-        <mark key="[" line="150" column="50" />
-        <mark key="]" line="151" column="9" />
-        <mark key="." line="151" column="9" />
-        <mark key="^" line="151" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540594663035">
         <mark key="[" line="60" column="20" />
@@ -80,35 +76,47 @@
       <jump line="127" column="68" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID09</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ID09</text>
+      </register>
+      <register name="/" type="4">
+        <text>link</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBlbnRfYXBwbGljYXRpb25fY3JlZGVudGlhbHNAZW50X3NvdXJjZS5jai5jb20gbGluayB3aGVyZSBsaW5rLmFwcGxpY2F0aW9uX3VzZXIgPSAyMzMwODY3Owo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdCA9IG5ldyBNb2NrUmVxdWVzdChyZXNvdXJjZSwgdXJsLCBuZXcgUXVlcnkoImV4Y2x1ZGVMaW5rVXNlcnM9MSIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogYWRkIHF1ZXJ5cGFyYW0K</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>order by c desc;</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdCA9IG5ldyBNb2NrUmVxdWVzdChyZXNvdXJjZSwgdXJsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXhwZWN0ZWQgPSBzcGVjLnJlc3BvbnNlKCkucmVwcmVzZW50YXRpb24oKS5hc1RleHQoKQogICAgICAgIHZhbCBhY3R1YWwgPSBIdHRwT2JqZWN0QXNzZXJ0LmJvZHlPZihyZXNwb25zZSkuYXNTdHJpbmcKICAgICAgICBKU09OQXNzZXJ0LmFzc2VydEVxdWFscyhleHBlY3RlZCwgYWN0dWFsLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBfIDwtIHByaW50bG4oY29udGFjdC5nZXRVc2VyVHlwZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50bG4oY29udGFjdC5nZXRVc2VyVHlwZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyVHlwZSA8LSBjb250YWN0LmdldFVzZXJUeXBlKCkK</text>
+        <text encoding="base64">ICAgICAgICBfCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogYWRkIHF1ZXJ5cGFyYW0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZXhwZWN0ZWQgPSBzcGVjLnJlc3BvbnNlKCkucmVwcmVzZW50YXRpb24oKS5hc1RleHQoKQogICAgICAgIHZhbCBhY3R1YWwgPSBIdHRwT2JqZWN0QXNzZXJ0LmJvZHlPZihyZXNwb25zZSkuYXNTdHJpbmcKICAgICAgICBKU09OQXNzZXJ0LmFzc2VydEVxdWFscyhleHBlY3RlZCwgYWN0dWFsLCB0cnVlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyVHlwZSA8LSBjb250YWN0LmdldFVzZXJUeXBlKCkK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">KGRlZm4gYXNkZnNhZGYgW10KICBhc3NlcnQtdmFsaWQtZmRlY2xhc2RmYXMKICBhc2RmYXMKICBhc2RmYXNkZgogICkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>order by c desc;</text>
-      </register>
-      <register name="/" type="4">
-        <text>link</text>
       </register>
     </registers>
     <search>
