@@ -13,12 +13,12 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" timestamp="1540589593050">
-        <mark key="'" line="68" column="30" />
-        <mark key="[" line="108" column="23" />
-        <mark key="]" line="108" column="23" />
-        <mark key="." line="108" column="23" />
-        <mark key="^" line="132" column="54" />
+      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" timestamp="1540592167662">
+        <mark key="'" line="101" column="78" />
+        <mark key="[" line="102" column="62" />
+        <mark key="]" line="102" column="81" />
+        <mark key="." line="102" column="81" />
+        <mark key="^" line="102" column="81" />
       </file>
       <file name="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" timestamp="1536951755544">
         <mark key="'" line="12" column="9" />
@@ -34,12 +34,12 @@
         <mark key="." line="106" column="82" />
         <mark key="^" line="106" column="43" />
       </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540589511330">
+      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540592275372">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="45" column="45" />
-        <mark key="]" line="45" column="46" />
-        <mark key="." line="45" column="46" />
-        <mark key="^" line="48" column="7" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="83" />
       </file>
       <file name="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" timestamp="1540588381271">
         <mark key="'" line="114" column="27" />
@@ -48,11 +48,11 @@
         <mark key="." line="151" column="9" />
         <mark key="^" line="151" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540589847886">
-        <mark key="[" line="57" column="6" />
-        <mark key="]" line="57" column="13" />
-        <mark key="^" line="57" column="13" />
-        <mark key="." line="57" column="13" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540591027615">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="57" column="21" />
+        <mark key="." line="57" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -75,31 +75,35 @@
       <jump line="114" column="27" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
       <jump line="2" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f668050e-f48c-4920-b18a-ed203455177b/console.sql" />
       <jump line="68" column="30" filename="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" />
+      <jump line="101" column="78" filename="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBjb250YWN0IHdoZXJlIGNvbXBhbnkgPSAxNDI2MTc5Owo=</text>
+        <text encoding="base64">CiAgICAgICBpdCgic2hvdWxkIHJldHVybiB1bmF1dGhvcml6ZWQgZm9yIGxpbmsgdXNlcnMiKSB7CiAgICAgICAgdmFsIGNvbnRhY3QgPSBuZXcgQ29udGFjdEJ1aWxkZXIoKQogICAgICAgICAgLndpdGhJZCgxMjM0KQogICAgICAgICAgLndpdGhVc2VydHlwZShDb250YWN0LlVzZXJUeXBlLkdFVExJTktTLmdldFVzZXJUeXBlSWQpCiAgICAgICAgICAud2l0aEZpcnN0TmFtZSgiSm9obiIpCiAgICAgICAgICAud2l0aExhc3ROYW1lKCJTbWl0aCIpCiAgICAgICAgICAud2l0aEVtYWlsKCJqb2huLnNtaXRoQHRlc3QuY2ouY29tIikKICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgdmFsIGNvbXBhbnkxID0gbmV3IEFkdmVydGlzZXJCdWlsZGVyKCkKICAgICAgICAgIC53aXRoSWQoNTQzMjEpCiAgICAgICAgICAud2l0aFdlYnNpdGVOYW1lKCJmb28gYWR2ZXJ0aXNlciIpCiAgICAgICAgICAud2l0aEZ1bmN0aW9uYWxDdXJyZW5jeShDdXJyZW5jeS5nZXRJbnN0YW5jZSgiVVNEIikpCiAgICAgICAgICAuYnVpbGQoKQogICAgICAgIHZhbCBjb21wYW55MiA9IG5ldyBQdWJsaXNoZXJCdWlsZGVyKCkKICAgICAgICAgIC53aXRoSWQoNTQzMjIpCiAgICAgICAgICAud2l0aE9yZ2FuaXphdGlvbigiYmFyIHB1Ymxpc2hlciIpCiAgICAgICAgICAud2l0aEZ1bmN0aW9uYWxDdXJyZW5jeShDdXJyZW5jeS5nZXRJbnN0YW5jZSgiQ0hGIikpCiAgICAgICAgICAuYnVpbGQoKQogICAgICAgIHZhbCBlbXBsb3llZSA9IG5ldyBFbXBsb3llZUJ1aWxkZXIoKQogICAgICAgICAgLndpdGhJZCgxMjM0KQogICAgICAgICAgLndpdGhGaXJzdE5hbWUoIkpvaG4iKQogICAgICAgICAgLndpdGhMYXN0TmFtZSgiU21pdGgiKQogICAgICAgICAgLmJ1aWxkKCkKCiAgICAgICAgdmFsIHVzZXJJZCA9IGphdmEudXRpbC5VVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZwogICAgICAgIHZhbCB0b2tlbiA9IG5ldyBUb2tlbihPcHRpb25hbC5vZigiNjY2IiksIGphdmEudXRpbC5PcHRpb25hbC5vZih1c2VySWQpKQoKICAgICAgICB2YWwgb2F1dGhUb2tlbkV4dHJhY3RvciA9IG5ldyBPQXV0aFRva2VuRXh0cmFjdG9yRmFrZSh0b2tlbikKICAgICAgICB2YWwgY29udGFjdERhbyA9IG5ldyBDb250YWN0RGFvRmFrZShjb250YWN0KQogICAgICAgIHZhbCBsaW5rZWRDb21wYW5pZXNEYW8gPSBuZXcgTGlua2VkQ29tcGFuaWVzRGFvRmFrZShjb250YWN0LCBTZXEoY29tcGFueTEsIGNvbXBhbnkyKSkKICAgICAgICB2YWwgZW1wbG95ZWVEYW8gPSBuZXcgRW1wbG95ZWVEYW9GYWtlKGNvbnRhY3QuZ2V0SWQoKSwgZW1wbG95ZWUpCiAgICAgICAgdmFsIGlkUHJvdmlkZXJCYXNlVXJsID0gImh0dHBzOi8vaWQucHJvdmlkZXIuYmFzZSIKICAgICAgICB2YWwgaHR0cENsaWVudCA9IG1ha2VIdHRwQ2xpZW50KHMiJGlkUHJvdmlkZXJCYXNlVXJsL3VzZXJzLyR1c2VySWQvaW50ZXJuYWwtY29udGFjdC10aGF0LXdpbGwtYmUtcmVtb3ZlZCIsIE9LKEpzb24ocyIke2NvbnRhY3QuZ2V0SWR9IikpKQoKICAgICAgICB2YWwgcmVzb3VyY2UgPSBuZXcgVXNlclJlc291cmNlKG5ldyBNb2NrVHhEYXRhYmFzZSwgY29udGFjdERhbywgbGlua2VkQ29tcGFuaWVzRGFvLCBvYXV0aFRva2VuRXh0cmFjdG9yLCBpZFByb3ZpZGVyQmFzZVVybCwgaHR0cENsaWVudCwgZW1wbG95ZWVEYW8pCiAgICAgICAgdmFsIHNwZWMgPSBuZXcgUmVzdFNwZWMoIi9jb20vY2ovYWZmYXBpL3NwZWNzL29hdXRoL0dldFVzZXIuc3BlYy5qc29uIikKICAgICAgICB2YWwgdXJsID0gc3BlYy5nZXRQYXRoUmVwbGFjZWRXaXRoKE1hcCgie3VzZXJJZH0iIC0+IHVzZXJJZCkuYXNKYXZhKQogICAgICAgIHZhbCByZXF1ZXN0ID0gbmV3IE1vY2tSZXF1ZXN0KHJlc291cmNlLCB1cmwpCgogICAgICAgIC8vIFdIRU4KICAgICAgICB2YWwgcmVzcG9uc2UgPSByZXNvdXJjZS5nZXQocmVxdWVzdCkKCiAgICAgICAgLy8gVEhFTgogICAgICAgIHJlc3BvbnNlLmNvZGUoKSBzaG91bGRCZSBSZXNwb25zZUNvZGUuT0sKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXhwZWN0ZWQgPSBzcGVjLnJlc3BvbnNlKCkucmVwcmVzZW50YXRpb24oKS5hc1RleHQoKQogICAgICAgIHZhbCBhY3R1YWwgPSBIdHRwT2JqZWN0QXNzZXJ0LmJvZHlPZihyZXNwb25zZSkuYXNTdHJpbmcKICAgICAgICBKU09OQXNzZXJ0LmFzc2VydEVxdWFscyhleHBlY3RlZCwgYWN0dWFsLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogYWRkIHF1ZXJ5cGFyYW0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.value()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogYWRkIHF1ZXJ5cGFyYW0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZXhwZWN0ZWQgPSBzcGVjLnJlc3BvbnNlKCkucmVwcmVzZW50YXRpb24oKS5hc1RleHQoKQogICAgICAgIHZhbCBhY3R1YWwgPSBIdHRwT2JqZWN0QXNzZXJ0LmJvZHlPZihyZXNwb25zZSkuYXNTdHJpbmcKICAgICAgICBKU09OQXNzZXJ0LmFzc2VydEVxdWFscyhleHBlY3RlZCwgYWN0dWFsLCB0cnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyVHlwZSA8LSBjb250YWN0LmdldFVzZXJUeXBlKCkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyVHlwZSA8LSBjb250YWN0LmdldFVzZXJUeXBlKCkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">KGRlZm4gYXNkZnNhZGYgW10KICBhc3NlcnQtdmFsaWQtZmRlY2xhc2RmYXMKICBhc2RmYXMKICBhc2RmYXNkZgogICkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>.value()</text>
+        <text>||</text>
       </register>
       <register name="/" type="4">
         <text>link</text>
