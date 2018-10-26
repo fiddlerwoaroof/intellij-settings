@@ -13,6 +13,13 @@
         <mark key="^" line="14" column="31" />
         <mark key="." line="14" column="31" />
       </file>
+      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" timestamp="1540589593050">
+        <mark key="'" line="68" column="30" />
+        <mark key="[" line="108" column="23" />
+        <mark key="]" line="108" column="23" />
+        <mark key="." line="108" column="23" />
+        <mark key="^" line="132" column="54" />
+      </file>
       <file name="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" timestamp="1536951755544">
         <mark key="'" line="12" column="9" />
         <mark key="[" line="23" column="21" />
@@ -27,11 +34,12 @@
         <mark key="." line="106" column="82" />
         <mark key="^" line="106" column="43" />
       </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540587998296">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540589511330">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="45" column="45" />
+        <mark key="]" line="45" column="46" />
+        <mark key="." line="45" column="46" />
+        <mark key="^" line="48" column="7" />
       </file>
       <file name="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" timestamp="1540588381271">
         <mark key="'" line="114" column="27" />
@@ -40,7 +48,12 @@
         <mark key="." line="151" column="9" />
         <mark key="^" line="151" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540588679579" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540589847886">
+        <mark key="[" line="57" column="6" />
+        <mark key="]" line="57" column="13" />
+        <mark key="^" line="57" column="13" />
+        <mark key="." line="57" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="10" filename="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" />
@@ -61,28 +74,32 @@
       <jump line="136" column="64" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
       <jump line="114" column="27" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
       <jump line="2" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f668050e-f48c-4920-b18a-ed203455177b/console.sql" />
+      <jump line="68" column="30" filename="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBjb250YWN0IHdoZXJlIGNvbXBhbnkgPSAxNDI2MTc5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZXhwZWN0ZWQgPSBzcGVjLnJlc3BvbnNlKCkucmVwcmVzZW50YXRpb24oKS5hc1RleHQoKQogICAgICAgIHZhbCBhY3R1YWwgPSBIdHRwT2JqZWN0QXNzZXJ0LmJvZHlPZihyZXNwb25zZSkuYXNTdHJpbmcKICAgICAgICBKU09OQXNzZXJ0LmFzc2VydEVxdWFscyhleHBlY3RlZCwgYWN0dWFsLCB0cnVlKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>link.application_user,company.id AS id</text>
+        <text>.value()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyVHlwZSA8LSBjb250YWN0LmdldFVzZXJUeXBlKCkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyVHlwZSA8LSBjb250YWN0LmdldFVzZXJUeXBlKCkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">KGRlZm4gYXNkZnNhZGYgW10KICBhc3NlcnQtdmFsaWQtZmRlY2xhc2RmYXMKICBhc2RmYXMKICBhc2RmYXNkZgogICkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>link.application_user,company.id AS id</text>
+        <text>.value()</text>
       </register>
       <register name="/" type="4">
         <text>link</text>
@@ -121,6 +138,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
