@@ -6,7 +6,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f668050e-f48c-4920-b18a-ed203455177b/console.sql" timestamp="1542830519734">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f668050e-f48c-4920-b18a-ed203455177b/console.sql" timestamp="1543255249985">
         <mark key="'" line="2" column="27" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -19,6 +19,9 @@
         <mark key="]" line="84" column="85" />
         <mark key="." line="84" column="0" />
         <mark key="^" line="64" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1543255351533">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" timestamp="1536951755544">
         <mark key="'" line="12" column="9" />
