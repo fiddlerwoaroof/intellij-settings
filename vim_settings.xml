@@ -23,20 +23,6 @@
       <file name="/Dummy.txt" timestamp="1543270912495">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/insights/optimus-prime/src/optimus_prime/data_source/platform_data.clj" timestamp="1536951755544">
-        <mark key="'" line="12" column="9" />
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="23" column="23" />
-        <mark key="^" line="23" column="23" />
-        <mark key="." line="23" column="22" />
-      </file>
-      <file name="$USER_HOME$/git_repos/insights/optimus-prime/test/optimus_prime/transform_test.clj" timestamp="1536957206244">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="106" column="82" />
-        <mark key="]" line="106" column="82" />
-        <mark key="." line="106" column="82" />
-        <mark key="^" line="106" column="43" />
-      </file>
       <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="45" column="136" />
