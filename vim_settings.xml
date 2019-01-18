@@ -6,28 +6,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1543270912495">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="45" column="136" />
-        <mark key="]" line="45" column="136" />
-        <mark key="^" line="45" column="136" />
-        <mark key="." line="45" column="136" />
-      </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" timestamp="1540594808236">
-        <mark key="'" line="127" column="68" />
-      </file>
-      <file name="$USER_HOME$/git_repos/insights/insights-app/src/insights_server/component/storage/user_settings.clj" timestamp="1544132004268">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f668050e-f48c-4920-b18a-ed203455177b/console.sql" timestamp="1543255249985">
         <mark key="'" line="2" column="27" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1543270912495">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" timestamp="1540596496394">
         <mark key="'" line="132" column="78" />
@@ -36,14 +23,37 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="64" column="5" />
       </file>
+      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="45" column="136" />
+        <mark key="]" line="45" column="136" />
+        <mark key="^" line="45" column="136" />
+        <mark key="." line="45" column="136" />
+      </file>
+      <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
+        <mark key="[" line="0" column="20" />
+      </file>
       <file name="/REPL.clj" timestamp="1544135519876">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" timestamp="1540594808236">
+        <mark key="'" line="127" column="68" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540594663035">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="60" column="20" />
         <mark key="^" line="60" column="34" />
         <mark key="." line="60" column="20" />
+      </file>
+      <file name="$USER_HOME$/git_repos/insights/insights-app/src/insights_server/component/storage/user_settings.clj" timestamp="1544132004268">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/demos/jenum_match/src/com/company/FooEnum.java" timestamp="1547842164130" />
+      <file name="$USER_HOME$/demos/jenum_match/src/FooEnum.java" timestamp="1547841922480">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="7" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -71,11 +81,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/git_repos/insights/insights-app/src/insights_server/component/storage/user_settings.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGFzc3dvcmQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>FOO_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09</text>
+        <text>FOO_</text>
       </register>
       <register name="/" type="4">
         <text>link</text>
@@ -84,31 +94,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdCA9IG5ldyBNb2NrUmVxdWVzdChyZXNvdXJjZSwgdXJsLCBuZXcgUXVlcnkoImV4Y2x1ZGVMaW5rVXNlcnM9MSIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFzc3dvcmQ7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdCA9IG5ldyBNb2NrUmVxdWVzdChyZXNvdXJjZSwgdXJsKQo=</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfIDwtIHByaW50bG4oY29udGFjdC5nZXRVc2VyVHlwZSkK</text>
+        <text encoding="base64">ICAgIGZpbmFsIExvbmcgaWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByaW50bG4oY29udGFjdC5nZXRVc2VyVHlwZSkK</text>
+        <text encoding="base64">ICAgIEZvb0VudW0oSW50ZWdlciBpKSB7CiAgICAgICAgdGhpcy5pZCA9IGk7CiAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBfCg==</text>
+        <text encoding="base64">cGFzc3dvcmQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTogYWRkIHF1ZXJ5cGFyYW0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVxdWVzdCA9IG5ldyBNb2NrUmVxdWVzdChyZXNvdXJjZSwgdXJsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXhwZWN0ZWQgPSBzcGVjLnJlc3BvbnNlKCkucmVwcmVzZW50YXRpb24oKS5hc1RleHQoKQogICAgICAgIHZhbCBhY3R1YWwgPSBIdHRwT2JqZWN0QXNzZXJ0LmJvZHlPZihyZXNwb25zZSkuYXNTdHJpbmcKICAgICAgICBKU09OQXNzZXJ0LmFzc2VydEVxdWFscyhleHBlY3RlZCwgYWN0dWFsLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBfIDwtIHByaW50bG4oY29udGFjdC5nZXRVc2VyVHlwZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByaW50bG4oY29udGFjdC5nZXRVc2VyVHlwZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyVHlwZSA8LSBjb250YWN0LmdldFVzZXJUeXBlKCkK</text>
+        <text encoding="base64">ICAgICAgICBfCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -153,6 +163,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
