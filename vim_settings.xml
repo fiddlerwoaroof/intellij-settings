@@ -3,13 +3,18 @@
     <option name="enabled" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1550013571419">
+      <file name="/Dummy.txt" timestamp="1550014434099">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550012533010" />
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550014865904">
+        <mark key="[" line="217" column="9" />
+        <mark key="]" line="149" column="26" />
+        <mark key="^" line="149" column="26" />
+        <mark key="." line="149" column="26" />
+      </file>
       <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="45" column="136" />
@@ -31,7 +36,7 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" timestamp="1550012460848" />
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" timestamp="1550013784762" />
       <file name="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" timestamp="1547941623903">
         <mark key="[" line="64" column="24" />
         <mark key="]" line="64" column="24" />
@@ -69,11 +74,12 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" timestamp="1549920143731">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="9" column="47" />
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" timestamp="1550014753417">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="8" column="64" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
       </file>
       <file name="$USER_HOME$/git_repos/3dp/abcl/examples/cltest/Scratch.java" timestamp="1547937983000">
         <mark key="'" line="20" column="0" />
@@ -162,21 +168,25 @@
       <jump line="107" column="44" filename="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" />
       <jump line="63" column="11" filename="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" />
       <jump line="67" column="0" filename="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" />
-      <jump line="7" column="9" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
       <jump line="8" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="9" column="12" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8KLy8K</text>
+      <register name="&quot;" type="4">
+        <text>get(Parameter param);</text>
       </register>
       <register name="-" type="4">
-        <text>ValidateCustomParameters</text>
+        <text>get(Parameter param);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNeVJ1bm5hYmxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNeVJ1bm5hYmxlKCkge30K</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdHJpbmc+IGdldChQYXJhbWV0ZXIgcGFyYW0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8KLy8K</text>
