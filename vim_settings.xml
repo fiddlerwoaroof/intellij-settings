@@ -3,46 +3,16 @@
     <option name="enabled" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1550014434099">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550014865904">
-        <mark key="[" line="217" column="9" />
-        <mark key="]" line="149" column="26" />
-        <mark key="^" line="149" column="26" />
-        <mark key="." line="149" column="26" />
-      </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="45" column="136" />
-        <mark key="]" line="45" column="136" />
-        <mark key="^" line="45" column="136" />
-        <mark key="." line="45" column="136" />
-      </file>
       <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
         <mark key="[" line="0" column="20" />
       </file>
       <file name="/a.dummy" timestamp="1547938218458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" timestamp="1540594808236">
-        <mark key="'" line="127" column="68" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ValidateCustomParameters.java" timestamp="1549911084096">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" timestamp="1550013784762" />
-      <file name="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" timestamp="1547941623903">
-        <mark key="[" line="64" column="24" />
-        <mark key="]" line="64" column="24" />
-        <mark key="^" line="64" column="29" />
-        <mark key="." line="64" column="24" />
-      </file>
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/foo.json" timestamp="1550096890535" />
       <file name="$USER_HOME$/git_repos/insights/insights-app/src/insights_server/component/storage/user_settings.clj" timestamp="1544132004268">
         <mark key="'" line="0" column="0" />
       </file>
@@ -53,18 +23,6 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" timestamp="1540596496394">
-        <mark key="'" line="132" column="78" />
-        <mark key="[" line="65" column="74" />
-        <mark key="]" line="84" column="85" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="64" column="5" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Scratch.java" timestamp="1547936687079">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="16" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="/REPL.clj" timestamp="1544135519876">
         <mark key="[" line="0" column="0" />
       </file>
@@ -74,12 +32,18 @@
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" timestamp="1550014753417">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="8" column="64" />
-        <mark key="]" line="8" column="63" />
-        <mark key="." line="8" column="63" />
-        <mark key="^" line="8" column="63" />
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/pom.xml" timestamp="1550098178743">
+        <mark key="'" line="80" column="25" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" timestamp="1550098340482">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="38" column="15" />
       </file>
       <file name="$USER_HOME$/git_repos/3dp/abcl/examples/cltest/Scratch.java" timestamp="1547937983000">
         <mark key="'" line="20" column="0" />
@@ -88,18 +52,68 @@
         <mark key="." line="33" column="83" />
         <mark key="^" line="33" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540594663035">
-        <mark key="[" line="60" column="20" />
-        <mark key="]" line="60" column="20" />
-        <mark key="^" line="60" column="34" />
-        <mark key="." line="60" column="20" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1547936544491">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="58" column="52" />
         <mark key="]" line="58" column="55" />
         <mark key="." line="58" column="55" />
         <mark key="^" line="58" column="55" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1550014434099">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550099077003">
+        <mark key="'" line="207" column="70" />
+        <mark key="[" line="207" column="115" />
+        <mark key="]" line="208" column="49" />
+        <mark key="." line="208" column="49" />
+        <mark key="^" line="208" column="49" />
+      </file>
+      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="45" column="136" />
+        <mark key="]" line="45" column="136" />
+        <mark key="^" line="45" column="136" />
+        <mark key="." line="45" column="136" />
+      </file>
+      <file name="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" timestamp="1540594808236">
+        <mark key="'" line="127" column="68" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ValidateCustomParameters.java" timestamp="1549911084096">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" timestamp="1547941623903">
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="64" column="24" />
+        <mark key="^" line="64" column="29" />
+        <mark key="." line="64" column="24" />
+      </file>
+      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" timestamp="1540596496394">
+        <mark key="'" line="132" column="78" />
+        <mark key="[" line="65" column="74" />
+        <mark key="]" line="84" column="85" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="64" column="5" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/34f68fba-86ba-408c-a024-e341ec1882c8/console.sql" timestamp="1550096856546">
+        <mark key="[" line="0" column="70" />
+        <mark key="]" line="0" column="95" />
+        <mark key="^" line="0" column="95" />
+        <mark key="." line="0" column="95" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Scratch.java" timestamp="1547936687079">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="16" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/net/URLDecoder.java" timestamp="1550098085800" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540594663035">
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="34" />
+        <mark key="." line="60" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1548788315691">
         <mark key="[" line="0" column="0" />
@@ -174,55 +188,73 @@
       <jump line="6" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
       <jump line="1" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
       <jump line="7" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="16" column="75" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="6835" column="2" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/foo.json" />
+      <jump line="113" column="35" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="13" column="4" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="80" column="25" filename="$USER_HOME$/git_repos/cj/pixel-parameters/pom.xml" />
+      <jump line="176" column="8" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="247" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="190" column="80" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="8" column="25" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="203" column="1" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="194" column="98" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="207" column="70" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get(Parameter param);</text>
+        <text>flat</text>
       </register>
       <register name="-" type="4">
-        <text>get(Parameter param);</text>
+        <text>flat</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNeVJ1bm5hYmxlXD4=</text>
+        <text>Pixel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdHJpbmc+IGdldChQYXJhbWV0ZXIgcGFyYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEFycmF5TGlzdDxQYWlyPFN0cmluZywgU3RyaW5nPj4gcXVlcnlNYXA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8KLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">TWFwPFN0cmluZywgU3RyaW5nPigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBpbnQgc2l6ZSgpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiTm90IEltcGxlbWVudGVkISIpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gaXNFbXB0eSgpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiTm90IEltcGxlbWVudGVkISIpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGJvb2xlYW4gY29udGFpbnNLZXkoT2JqZWN0IGtleSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBjb250YWluc1ZhbHVlKE9iamVjdCB2YWx1ZSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgU3RyaW5nIGdldChPYmplY3Qga2V5KSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBJbXBsZW1lbnRlZCEiKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgcHV0KFN0cmluZyBrZXksIFN0cmluZyB2YWx1ZSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgU3RyaW5nIHJlbW92ZShPYmplY3Qga2V5KSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBJbXBsZW1lbnRlZCEiKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHB1dEFsbChNYXA8PyBleHRlbmRzIFN0cmluZywgPyBleHRlbmRzIFN0cmluZz4gbSkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBjbGVhcigpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiTm90IEltcGxlbWVudGVkISIpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIFNldDxTdHJpbmc+IGtleVNldCgpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiTm90IEltcGxlbWVudGVkISIpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIENvbGxlY3Rpb248U3RyaW5nPiB2YWx1ZXMoKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBJbXBsZW1lbnRlZCEiKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBTZXQ8RW50cnk8U3RyaW5nLCBTdHJpbmc+PiBlbnRyeVNldCgpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiTm90IEltcGxlbWVudGVkISIpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gcXVlcnlQYXJhbXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgTXlzeW50aGV0aWNwYXJhbWV0ZXIoZm9vKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IoU3RyaW5nIHBhcmFtIGluIHBhcmFtcykgewogICAgICAgICAgICBpZihub3JtYWxpemVyW3BhcmFtc10pIHsKICAgICAgICAgICAgICAgIG5vcm1hbGl6ZWQgPSBub3JtYWxpZXJbcGFyYW1dKHZhbHVlKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG5vcm1hbGl6ZWQgPSB2YWx1ZTsKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5lY2xpcHNlLnN3dC53aWRnZXRzLkRpc3BsYXk7CmltcG9ydCBvcmcuZWNsaXBzZS5zd3Qud2lkZ2V0cy5TaGVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgTGlzdDxQYWlyPFBhcmFtZXRlciBTdHJpbmc+PgoKICAgICAgICBhbGwoKSB7CiAgICAgICAgICAgIHJldHVybiBxdWVyeU1hcAogICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5tYXAocCAtPiBuZXcgUGFpcjw+KG5ldyBQYXJhbWV0ZXIpKQogICAgICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdC5zZXRDb250ZXh0Q2xhc3NMb2FkZXIoY2xhc3NMb2FkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgTGlzdDxQYWlyPFBhcmFtZXRlciBTdHJpbmc+PgoKICAgICAgICBhbGwoKSB7CiAgICAgICAgICAgIHJldHVybiBxdWVyeU1hcAogICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5tYXAocCAtPiBuZXcgUGFpcjw+KG5ldyBQYXJhbWV0ZXIpKQogICAgICAgIH0KCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBjbGFzcyBNeUNsYXNzbG9hZGVyIGV4dGVuZHMgVVJMQ2xhc3NMb2FkZXIgewogICAgICAgIHB1YmxpYyBNeUNsYXNzbG9hZGVyKFVSTFtdIHVybHMsIENsYXNzTG9hZGVyIHBhcmVudCkgewogICAgICAgICAgICBzdXBlcih1cmxzLCBwYXJlbnQpOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgYWRkVVJMKFVSTCB1cmwpIHsKICAgICAgICAgICAgc3VwZXIuYWRkVVJMKHVybCk7CiAgICAgICAgfQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZmluYWwgIHF1ZXJ5TWFwOwoK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBydW5uYWJsZUNsYXNzCiAgICAgICAgICAgICAgICAgICAgLmdldERlY2xhcmVkQ29uc3RydWN0b3IoTXlSdW5uYWJsZS5jbGFzcykKICAgICAgICAgICAgICAgICAgICAubmV3SW5zdGFuY2UoKQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEFycmF5TGlzdDxQYWlyPFN0cmluZywgU3RyaW5nPj4gcXVlcnlNYXA7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgQ2xhc3MgcnVubmFibGVDbGFzcyA9IGNsYXNzTG9hZGVyLmxvYWRDbGFzcygib3JnLmFybWVkYmVhci5saXNwLk15UnVubmFibGUiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNeVJ1bm5hYmxlXD4=</last-search>
+      <last-search>Pixel</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNeVJ1bm5hYmxlXD4=</last-pattern>
+      <last-pattern>Pixel</last-pattern>
+      <last-replace>Computed</last-replace>
+      <last-substitute>Pixel</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -233,6 +265,7 @@
         <entry>pub</entry>
         <entry>public</entry>
         <entry encoding="base64">XDxNeVJ1bm5hYmxlXD4=</entry>
+        <entry>Pixel</entry>
       </history-search>
       <history-cmd>
         <entry>action:cursive.actions.paredit/splice-killing-forwards</entry>
@@ -247,6 +280,7 @@
         <entry>vsp</entry>
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
         <entry>action:cursive.actions.paredit/splice</entry>
+        <entry>s/Pixel/Computed</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -267,6 +301,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
