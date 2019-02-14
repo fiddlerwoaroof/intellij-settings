@@ -62,12 +62,11 @@
       <file name="/Dummy.txt" timestamp="1550014434099">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550101900657">
-        <mark key="'" line="203" column="61" />
-        <mark key="[" line="199" column="44" />
-        <mark key="]" line="199" column="78" />
-        <mark key="." line="199" column="78" />
-        <mark key="^" line="199" column="78" />
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550104819352">
+        <mark key="[" line="214" column="31" />
+        <mark key="]" line="214" column="38" />
+        <mark key="^" line="214" column="38" />
+        <mark key="." line="214" column="38" />
       </file>
       <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
         <mark key="'" line="71" column="0" />
@@ -212,13 +211,14 @@
       <jump line="219" column="16" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="234" column="55" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="207" column="61" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="205" column="18" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>parseQueryString</text>
+        <text encoding="base64">bmV3IFBhaXI8PihtYXliZUNvbW1pc3Npb25EZXRhaWxOYW1lLmdldCgpLCByYXdQYXJhbS5zbmQp</text>
       </register>
       <register name="-" type="4">
-        <text>parseQueryString</text>
+        <text encoding="base64">bmV3IFBhaXI8PihtYXliZUNvbW1pc3Npb25EZXRhaWxOYW1lLmdldCgpLCByYXdQYXJhbS5zbmQp</text>
       </register>
       <register name="/" type="4">
         <text>Pixel</text>
@@ -227,31 +227,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0LmFkZChuZXcgUGFpcjw+KG1heWJlQ29tbWlzc2lvbkRldGFpbE5hbWUuZ2V0KCksIHJhd1BhcmFtLnNuZCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGkga25vdyB0aGlzIGlzIEJTLCBidXQgd2UgY2FsbCB0aGUgY29uc3RydWN0b3IgaW4gYSB0cnkgYmxvY2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RhY2s8U3RyaW5nPj4gcnJyTm9uU3RhbmRhcmQgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgICAgIE1hcDxTdHJpbmcsIFN0YWNrPFN0cmluZz4+IHJyclJlc3VsdCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMucmV2ZXJzZShxdWVyeU1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9uU3RhbmRhcmQuYWRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub25TdGFuZGFyZC5hZGQocmF3UGFyYW0pOwogICAgICAgICAgICAgICAgICAgIHJyck5vblN0YW5kYXJkLmNvbXB1dGUocmF3UGFyYW0uZnN0LCAgLT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlMaXN0PFBhaXI8U3RyaW5nLCBTdHJpbmc+PiBub25TdGFuZGFyZCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICBBcnJheUxpc3Q8UGFpcjxTdHJpbmcsIFN0cmluZz4+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYWRkKG5ldyBQYWlyPD4obWF5YmVDb21taXNzaW9uRGV0YWlsTmFtZS5nZXQoKSwgcmF3UGFyYW0uc25kKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKHMgLT4gcy5zbmQpCiAgICAgICAgICAgICAgICAgICAgLmZpbmRGaXJzdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYXJhbWV0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3RyZWFtKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZEFsbChub25TdGFuZGFyZCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMucmV2ZXJzZShyZXN1bHQpOwogICAgICAgICAgICBDb2xsZWN0aW9ucy5yZXZlcnNlKG5vblN0YW5kYXJkKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
