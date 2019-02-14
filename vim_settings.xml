@@ -62,12 +62,12 @@
       <file name="/Dummy.txt" timestamp="1550014434099">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550099077003">
-        <mark key="'" line="207" column="70" />
-        <mark key="[" line="207" column="115" />
-        <mark key="]" line="208" column="49" />
-        <mark key="." line="208" column="49" />
-        <mark key="^" line="208" column="49" />
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550101900657">
+        <mark key="'" line="203" column="61" />
+        <mark key="[" line="199" column="44" />
+        <mark key="]" line="199" column="78" />
+        <mark key="." line="199" column="78" />
+        <mark key="^" line="199" column="78" />
       </file>
       <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
         <mark key="'" line="71" column="0" />
@@ -203,44 +203,52 @@
       <jump line="8" column="25" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="203" column="1" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="194" column="98" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="207" column="70" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="204" column="29" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="217" column="39" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="280" column="51" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="284" column="31" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="216" column="74" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="215" column="1" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="219" column="16" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="234" column="55" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="207" column="61" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>flat</text>
+        <text>parseQueryString</text>
       </register>
       <register name="-" type="4">
-        <text>flat</text>
+        <text>parseQueryString</text>
       </register>
       <register name="/" type="4">
         <text>Pixel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEFycmF5TGlzdDxQYWlyPFN0cmluZywgU3RyaW5nPj4gcXVlcnlNYXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0LmFkZChuZXcgUGFpcjw+KG1heWJlQ29tbWlzc2lvbkRldGFpbE5hbWUuZ2V0KCksIHJhd1BhcmFtLnNuZCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGkga25vdyB0aGlzIGlzIEJTLCBidXQgd2UgY2FsbCB0aGUgY29uc3RydWN0b3IgaW4gYSB0cnkgYmxvY2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gcXVlcnlQYXJhbXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgTXlzeW50aGV0aWNwYXJhbWV0ZXIoZm9vKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMucmV2ZXJzZShxdWVyeU1hcCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9uU3RhbmRhcmQuYWRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgTGlzdDxQYWlyPFBhcmFtZXRlciBTdHJpbmc+PgoKICAgICAgICBhbGwoKSB7CiAgICAgICAgICAgIHJldHVybiBxdWVyeU1hcAogICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5tYXAocCAtPiBuZXcgUGFpcjw+KG5ldyBQYXJhbWV0ZXIpKQogICAgICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgTGlzdDxQYWlyPFBhcmFtZXRlciBTdHJpbmc+PgoKICAgICAgICBhbGwoKSB7CiAgICAgICAgICAgIHJldHVybiBxdWVyeU1hcAogICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5tYXAocCAtPiBuZXcgUGFpcjw+KG5ldyBQYXJhbWV0ZXIpKQogICAgICAgIH0KCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYWRkKG5ldyBQYWlyPD4obWF5YmVDb21taXNzaW9uRGV0YWlsTmFtZS5nZXQoKSwgcmF3UGFyYW0uc25kKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZmluYWwgIHF1ZXJ5TWFwOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYXJhbWV0ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEFycmF5TGlzdDxQYWlyPFN0cmluZywgU3RyaW5nPj4gcXVlcnlNYXA7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
