@@ -9,12 +9,12 @@
       <file name="/Dummy.txt" timestamp="1550170896002">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550172499436">
-        <mark key="'" line="218" column="66" />
-        <mark key="[" line="209" column="16" />
-        <mark key="]" line="209" column="21" />
-        <mark key="^" line="209" column="21" />
-        <mark key="." line="209" column="21" />
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550173182678">
+        <mark key="'" line="214" column="49" />
+        <mark key="[" line="252" column="12" />
+        <mark key="]" line="252" column="0" />
+        <mark key="^" line="239" column="25" />
+        <mark key="." line="251" column="0" />
       </file>
       <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
         <mark key="[" line="0" column="20" />
@@ -124,7 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" />
       <jump line="64" column="0" filename="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" />
       <jump line="138" column="19" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
       <jump line="107" column="23" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
@@ -224,10 +223,11 @@
       <jump line="205" column="16" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="206" column="35" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="218" column="66" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="214" column="49" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZEFsbChub25TdGFuZGFyZCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -247,40 +247,40 @@
         <text encoding="base64">ZGYgRjw7cA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IFN0YWNrPD4oKQ==</text>
+        <text>nonStandard</text>
       </register>
       <register name="/" type="4">
         <text>Pixel</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZyA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9uU3RhbmRhcmQuY29tcHV0ZShrZXksIChzLCB2YWx1ZXMpIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh2YWx1ZXMgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlcy5wdXNoKHJhd1BhcmFtLnNuZCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHZhbHVlczsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RhY2s8U3RyaW5nPiB0bXAgPSBuZXcgU3RhY2s8PigpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRtcC5wdXNoKHJhd1BhcmFtLnNuZCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRtcDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YWNrPFN0cmluZz4gY3VycmVudCA9ICFyZXN1bHQuY29udGFpbnNLZXkocmF3UGFyYW0uZnN0KQogICAgICAgICAgICAgICAgICAgICAgICA/IG5vblN0YW5kYXJkLmdldChyYXdQYXJhbS5mc3QpOwogICAgICAgICAgICAgICAgICAgICAgICA6IHJlc3VsdC5nZXQocmF3UGFyYW0uZnN0KTsKICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZEFsbChub25TdGFuZGFyZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBuYW1lID0gCiAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMucmV2ZXJzZShyZXN1bHQpOwogICAgICAgICAgICBDb2xsZWN0aW9ucy5yZXZlcnNlKG5vblN0YW5kYXJkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocmVzdWx0LmNvbnRhaW5zS2V5KGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3RhY2s8U3RyaW5nPiB0bXAgPSBuZXcgU3RhY2s8PigpOwogICAgICAgICAgICAgICAgICAgICAgICB0bXAucHVzaChyYXdQYXJhbS5zbmQpOwogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQucHV0KGtleSwgdG1wKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBTdGFjazxTdHJpbmc+IHRtcCA9IHJlc3VsdC5nZXQoa2V5KTsKICAgICAgICAgICAgICAgICAgICAgICAgdG1wLnB1c2gocmF3UGFyYW0uc25kKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdGFjazxTdHJpbmc+IHRtcCA9IG5ldyBTdGFjazw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG1wLnB1c2gocmF3UGFyYW0uc25kKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQucHV0KGtleSwgdG1wKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQuYWRkKHJhd1BhcmFtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQucHV0KGtleSwgdG1wKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXN1bHQucHV0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9uU3RhbmRhcmQuYWRkKG5ldyBQYWlyPD4obWF5YmVDb21taXNzaW9uRGV0YWlsTmFtZS5nZXQoKSwgcmF3UGFyYW0uc25kKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdGFjazxTdHJpbmc+PgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHRoaXNPbmVJc0Nhbm9uaWNhbCkgewogICAgICAgICAgICAgICAgICAgIHB1dCBpdCBhdCB0aGUgZnJvbnQgb2YgdGhlIGxpc3QKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgc3BsaWNlIGl0IHNlY29uZCBpbiB0aGUgbGlzdAogICAgICAgICAgICAgICAgfQoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgSGFzaE1hcDxTdHJpbmcsIFBhcmFtZXRlcj4gcmVzdWx0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIGZvciAoUGFyYW1ldGVyIHBhcmFtIDogUGFyYW1ldGVyLnZhbHVlcygpKSB7CiAgICAgICAgICAgIHJlc3VsdC5wdXQocGFyYW0uY29tbWlzc2lvbkRldGFpbE5hbWUsIHBhcmFtKTsKICAgICAgICAgICAgZm9yIChTdHJpbmcgYWxpYXMgOiBwYXJhbS5hbGlhc2VzKSB7CiAgICAgICAgICAgICAgICByZXN1bHQucHV0KGFsaWFzLCBwYXJhbSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgY2Fub24gPSByZXN1bHQ7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -341,6 +341,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
