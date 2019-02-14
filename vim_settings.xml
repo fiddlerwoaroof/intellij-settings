@@ -6,45 +6,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1550170896002">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550173182678">
-        <mark key="'" line="214" column="49" />
-        <mark key="[" line="252" column="12" />
-        <mark key="]" line="252" column="0" />
-        <mark key="^" line="239" column="25" />
-        <mark key="." line="251" column="0" />
-      </file>
       <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
         <mark key="[" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="45" column="136" />
-        <mark key="]" line="45" column="136" />
-        <mark key="^" line="45" column="136" />
-        <mark key="." line="45" column="136" />
-      </file>
       <file name="/a.dummy" timestamp="1547938218458">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" timestamp="1540594808236">
-        <mark key="'" line="127" column="68" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ValidateCustomParameters.java" timestamp="1549911084096">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" timestamp="1547941623903">
-        <mark key="[" line="64" column="24" />
-        <mark key="]" line="64" column="24" />
-        <mark key="^" line="64" column="29" />
-        <mark key="." line="64" column="24" />
-      </file>
-      <file name="$USER_HOME$/git_repos/insights/insights-app/src/insights_server/component/storage/user_settings.clj" timestamp="1544132004268">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f668050e-f48c-4920-b18a-ed203455177b/console.sql" timestamp="1543255249985">
         <mark key="'" line="2" column="27" />
@@ -53,23 +19,8 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" timestamp="1540596496394">
-        <mark key="'" line="132" column="78" />
-        <mark key="[" line="65" column="74" />
-        <mark key="]" line="84" column="85" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="64" column="5" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/34f68fba-86ba-408c-a024-e341ec1882c8/console.sql" timestamp="1550096856546">
-        <mark key="[" line="0" column="70" />
-        <mark key="]" line="0" column="95" />
-        <mark key="^" line="0" column="95" />
-        <mark key="." line="0" column="95" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Scratch.java" timestamp="1547936687079">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="16" />
-        <mark key="." line="52" column="0" />
+      <file name="/Dummy.scala" timestamp="1550181034206">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/REPL.clj" timestamp="1544135519876">
         <mark key="[" line="0" column="0" />
@@ -100,12 +51,6 @@
         <mark key="." line="33" column="83" />
         <mark key="^" line="33" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540594663035">
-        <mark key="[" line="60" column="20" />
-        <mark key="]" line="60" column="20" />
-        <mark key="^" line="60" column="34" />
-        <mark key="." line="60" column="20" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1547936544491">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="58" column="52" />
@@ -113,7 +58,66 @@
         <mark key="." line="58" column="55" />
         <mark key="^" line="58" column="55" />
       </file>
-      <file name="/fragment.java" timestamp="1548788315691">
+      <file name="/Dummy.txt" timestamp="1550170896002">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550181579014">
+        <mark key="'" line="253" column="28" />
+        <mark key="[" line="281" column="27" />
+        <mark key="]" line="282" column="19" />
+        <mark key="^" line="282" column="19" />
+        <mark key="." line="282" column="19" />
+      </file>
+      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="45" column="136" />
+        <mark key="]" line="45" column="136" />
+        <mark key="^" line="45" column="136" />
+        <mark key="." line="45" column="136" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ValidateCustomParameters.java" timestamp="1549911084096">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" timestamp="1550181473164">
+        <mark key="'" line="58" column="23" />
+        <mark key="[" line="45" column="36" />
+        <mark key="]" line="45" column="36" />
+        <mark key="^" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+      </file>
+      <file name="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" timestamp="1547941623903">
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="64" column="24" />
+        <mark key="^" line="64" column="29" />
+        <mark key="." line="64" column="24" />
+      </file>
+      <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" timestamp="1540596496394">
+        <mark key="'" line="132" column="78" />
+        <mark key="[" line="65" column="74" />
+        <mark key="]" line="84" column="85" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="64" column="5" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/34f68fba-86ba-408c-a024-e341ec1882c8/console.sql" timestamp="1550096856546">
+        <mark key="[" line="0" column="70" />
+        <mark key="]" line="0" column="95" />
+        <mark key="^" line="0" column="95" />
+        <mark key="." line="0" column="95" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Scratch.java" timestamp="1547936687079">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="16" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540594663035">
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="34" />
+        <mark key="." line="60" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1550181030067">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/demos/jenum_match/src/FooEnum.java" timestamp="1547841922480">
@@ -124,21 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" />
-      <jump line="138" column="19" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
-      <jump line="107" column="23" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
-      <jump line="108" column="35" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
-      <jump line="109" column="32" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
-      <jump line="110" column="27" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
-      <jump line="112" column="35" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
-      <jump line="113" column="32" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
-      <jump line="137" column="32" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
-      <jump line="136" column="64" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
-      <jump line="114" column="27" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
-      <jump line="2" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f668050e-f48c-4920-b18a-ed203455177b/console.sql" />
-      <jump line="68" column="30" filename="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" />
-      <jump line="101" column="78" filename="$USER_HOME$/git_repos/main/cjo/api-int-server/src/test/scala/com/cj/apiserver/endpoints/api/oauth/UserResourceTest.scala" />
-      <jump line="127" column="68" filename="$USER_HOME$/git_repos/main/cjo/domain/src/main/java/cj/accounts/dao/LinkedCompaniesDaoImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/git_repos/insights/insights-app/src/insights_server/component/storage/user_settings.clj" />
       <jump line="47" column="0" filename="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" />
       <jump line="72" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
@@ -224,10 +213,25 @@
       <jump line="206" column="35" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="218" column="66" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="214" column="49" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="253" column="28" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="75" column="26" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="76" column="55" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="77" column="55" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="43" column="59" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="86" column="10" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="87" column="69" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="100" column="70" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="101" column="70" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="102" column="65" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="112" column="56" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="113" column="56" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="123" column="66" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="45" column="23" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
+      <jump line="58" column="23" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZEFsbChub25TdGFuZGFyZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.orElse(null)</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -244,52 +248,78 @@
         </keys>
       </register>
       <register name="e" type="4">
-        <text encoding="base64">ZGYgRjw7cA==</text>
+        <keys>
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="79" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>nonStandard</text>
+        <text>.orElse(null)</text>
       </register>
       <register name="/" type="4">
-        <text>Pixel</text>
+        <text>.orElse</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9uU3RhbmRhcmQuY29tcHV0ZShrZXksIChzLCB2YWx1ZXMpIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICh2YWx1ZXMgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlcy5wdXNoKHJhd1BhcmFtLnNuZCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHZhbHVlczsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU3RhY2s8U3RyaW5nPiB0bXAgPSBuZXcgU3RhY2s8PigpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRtcC5wdXNoKHJhd1BhcmFtLnNuZCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRtcDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>params.get(customPixelBookingStatus)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFkZEFsbChub25TdGFuZGFyZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YWx1ZVN0YWNrLmVsZW1lbnRzKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMucmV2ZXJzZShyZXN1bHQpOwogICAgICAgICAgICBDb2xsZWN0aW9ucy5yZXZlcnNlKG5vblN0YW5kYXJkKTsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZm9vKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAocmVzdWx0LmNvbnRhaW5zS2V5KGtleSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3RhY2s8U3RyaW5nPiB0bXAgPSBuZXcgU3RhY2s8PigpOwogICAgICAgICAgICAgICAgICAgICAgICB0bXAucHVzaChyYXdQYXJhbS5zbmQpOwogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQucHV0KGtleSwgdG1wKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBTdGFjazxTdHJpbmc+IHRtcCA9IHJlc3VsdC5nZXQoa2V5KTsKICAgICAgICAgICAgICAgICAgICAgICAgdG1wLnB1c2gocmF3UGFyYW0uc25kKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4gZm9vOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdGFjazxTdHJpbmc+IHRtcCA9IG5ldyBTdGFjazw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG1wLnB1c2gocmF3UGFyYW0uc25kKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQucHV0KGtleSwgdG1wKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih2YWx1ZVN0YWNrLmVsZW1lbnRzKCkuKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQucHV0KGtleSwgdG1wKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBBcnJheUxpc3Q8PihxdWVyeU1hcCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9uU3RhbmRhcmQuYWRkKG5ldyBQYWlyPD4obWF5YmVDb21taXNzaW9uRGV0YWlsTmFtZS5nZXQoKSwgcmF3UGFyYW0uc25kKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKHMgLT4gcGFyYW0uY29tbWlzc2lvbkRldGFpbE5hbWUuZXF1YWxzKHMuZnN0KSkKICAgICAgICAgICAgICAgICAgICAubWFwKHMgLT4gcy5zbmQpCiAgICAgICAgICAgICAgICAgICAgLmZpbmRGaXJzdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHRoaXNPbmVJc0Nhbm9uaWNhbCkgewogICAgICAgICAgICAgICAgICAgIHB1dCBpdCBhdCB0aGUgZnJvbnQgb2YgdGhlIGxpc3QKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgc3BsaWNlIGl0IHNlY29uZCBpbiB0aGUgbGlzdAogICAgICAgICAgICAgICAgfQoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Pixel</last-search>
+      <last-search>.orElse</last-search>
       <last-offset />
-      <last-pattern>Pixel</last-pattern>
+      <last-pattern>.orElse</last-pattern>
       <last-replace>Computed</last-replace>
       <last-substitute>Pixel</last-substitute>
       <last-dir>1</last-dir>
@@ -303,6 +333,7 @@
         <entry>public</entry>
         <entry encoding="base64">XDxNeVJ1bm5hYmxlXD4=</entry>
         <entry>Pixel</entry>
+        <entry>.orElse</entry>
       </history-search>
       <history-cmd>
         <entry>action:cursive.actions.paredit/splice-killing-forwards</entry>
