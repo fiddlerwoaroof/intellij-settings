@@ -11,12 +11,12 @@
         <mark key="]" line="0" column="60" />
         <mark key="." line="0" column="60" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550253900746">
-        <mark key="'" line="90" column="16" />
-        <mark key="[" line="69" column="53" />
-        <mark key="]" line="69" column="53" />
-        <mark key="^" line="235" column="31" />
-        <mark key="." line="69" column="53" />
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550255144187">
+        <mark key="'" line="70" column="8" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="70" column="85" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
         <mark key="[" line="0" column="20" />
@@ -122,10 +122,12 @@
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/resources/parameter-mapping-spec.yaml" timestamp="1550254275663">
-        <mark key="[" line="220" column="6" />
-        <mark key="]" line="220" column="6" />
-        <mark key="." line="220" column="6" />
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/resources/parameter-mapping-spec.yaml" timestamp="1550255125440">
+        <mark key="'" line="224" column="0" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="12" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="220" column="10" />
       </file>
       <file name="$USER_HOME$/demos/jenum_match/src/FooEnum.java" timestamp="1547841922480">
         <mark key="[" line="1" column="11" />
@@ -135,9 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="1" filename="$USER_HOME$/git_repos/3dp/abcl/examples/cltest/Scratch.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/git_repos/3dp/abcl/examples/cltest/Scratch.java" />
-      <jump line="5" column="41" filename="$USER_HOME$/git_repos/3dp/abcl/examples/cltest/Scratch.java" />
       <jump line="27" column="0" filename="$USER_HOME$/git_repos/3dp/abcl/examples/cltest/Scratch.java" />
       <jump line="38" column="0" filename="$USER_HOME$/git_repos/3dp/abcl/examples/cltest/Scratch.java" />
       <jump line="35" column="8" filename="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" />
@@ -235,10 +234,13 @@
       <jump line="235" column="16" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="205" column="50" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="90" column="16" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
+      <jump line="217" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/resources/parameter-mapping-spec.yaml" />
+      <jump line="224" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/resources/parameter-mapping-spec.yaml" />
+      <jump line="70" column="8" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjdXN0b21QaXhlbERlc3RpbmF0aW9uSWQoImRlc3RpbmF0aW9uaWQiLCAiZGVzdGluYXRpb25faWQiLCAiZGVzdGlkIiwgImRlc3RfaWQiKSwK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -284,52 +286,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAg</text>
+        <text>ion</text>
       </register>
       <register name="/" type="4">
-        <text>destination_id</text>
+        <text>city</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdGFjazxTdHJpbmc+PiBjYW5vbmljYWxpemVLZXlzKExpc3Q8UGFpcjxTdHJpbmcsIFN0cmluZz4+IHF1ZXJ5UGFyYW1zKSB7Cg==</text>
+        <text encoding="base64">ICAgIC0gZGVzdGlkCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjdXN0b21QaXhlbERlc3RpbmF0aW9uSWQoImRlc3RpbmF0aW9uaWQiLCAiZGVzdGluYXRpb25faWQiLCAiZGVzdGlkIiwgImRlc3RfaWQiKSwK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0gZGVzdGlkCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC0gZGVzdGluYXRpb25pZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gZ2Vvbm9kZQogICAgLSB0cmF2ZWxfZGVzdGluYXRpb24K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgLSBkZXN0aW5hdGlvbl9pZAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>Optional
                     .ofNullable(queryMap.get(param.commissionDetailName))</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKFN0YWNrOjpwZWVrKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5xdWVyeU1hcCA9IHF1ZXJ5TWFwOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CiAgICAgICAgTWFwPFN0cmluZywgVmVjdG9yPFN0cmluZz4+IGNhbm9uaWNhbGl6ZUtleXMoTGlzdDxQYWlyPFN0cmluZywgU3RyaW5nPj4gcXVlcnlQYXJhbXMpIHsKICAgICAgICAgICAgTWFwPFN0cmluZywgU3RhY2s8U3RyaW5nPj4gZm9vID0gY2Fub25pY2FsaXplS2V5cyhxdWVyeVBhcmFtcyk7CiAgICAgICAgICAgIHJldHVybiBmb287CiAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Zm9yRWFjaCgoa2V5LCB2YWx1ZVN0YWNrKSAtPiByZXN1bHQuY29tcHV0ZShrZXksIChzLCBzdHJpbmdzKSAtPiB7CiAgICAgICAgICAgICAgICBpZiAoc3RyaW5ncyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsdWVTdGFjay5hZGRBbGwoc3RyaW5ncyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gdmFsdWVTdGFjazsKICAgICAgICAgICAgfSkp</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9uU3RhbmRhcmQuZm9yRWFjaCgoa2V5LCB2YWx1ZVN0YWNrKSAtPiByZXN1bHQuY29tcHV0ZShrZXksIChzLCBzdHJpbmdzKSAtPiB7CiAgICAgICAgICAgICAgICBpZiAoc3RyaW5ncyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgdmFsdWVTdGFjay5hZGRBbGwoc3RyaW5ncyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gdmFsdWVTdGFjazsKICAgICAgICAgICAgfSkpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/city/id/g</text>
       </register>
     </registers>
     <search>
-      <last-search>destination_id</last-search>
+      <last-search>city</last-search>
       <last-offset />
-      <last-pattern>destination_id</last-pattern>
-      <last-replace>Computed</last-replace>
-      <last-substitute>Pixel</last-substitute>
+      <last-pattern>city</last-pattern>
+      <last-replace>id</last-replace>
+      <last-substitute>city</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -344,6 +346,7 @@
         <entry>.orElse</entry>
         <entry encoding="base64">XDx1cGRhdGVTdGFja0ZvcktleVw+</entry>
         <entry>destination_id</entry>
+        <entry>city</entry>
       </history-search>
       <history-cmd>
         <entry>action:cursive.actions.paredit/splice-killing-forwards</entry>
@@ -360,6 +363,8 @@
         <entry>action:cursive.actions.paredit/splice</entry>
         <entry>s/Pixel/Computed</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2NpdHkvaWQvZw==</entry>
+        <entry>s/city/id/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
