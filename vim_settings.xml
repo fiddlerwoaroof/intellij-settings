@@ -63,11 +63,11 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="64" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/34f68fba-86ba-408c-a024-e341ec1882c8/console.sql" timestamp="1550263878990">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="6" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/34f68fba-86ba-408c-a024-e341ec1882c8/console.sql" timestamp="1550267030156">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="75" />
         <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="." line="0" column="75" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Scratch.java" timestamp="1547936687079">
         <mark key="[" line="52" column="0" />
@@ -244,7 +244,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>to_ar</text>
+        <text encoding="base64">b3Ig</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -290,7 +290,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>to_ar</text>
+        <text encoding="base64">b3Ig</text>
       </register>
       <register name="/" type="4">
         <text>city</text>
