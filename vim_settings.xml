@@ -12,12 +12,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550275788005">
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550280074098">
         <mark key="'" line="308" column="42" />
-        <mark key="[" line="306" column="131" />
-        <mark key="]" line="306" column="149" />
-        <mark key="^" line="306" column="82" />
-        <mark key="." line="306" column="131" />
+        <mark key="[" line="323" column="37" />
+        <mark key="]" line="323" column="37" />
+        <mark key="^" line="324" column="31" />
+        <mark key="." line="323" column="37" />
       </file>
       <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
         <mark key="[" line="0" column="20" />
@@ -244,7 +244,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\tdest_state: %20s</text>
+        <text>,</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -290,7 +290,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\tdest_state: %20s</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>city</text>
