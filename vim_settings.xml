@@ -74,12 +74,12 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550520981414">
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550525487241">
         <mark key="'" line="276" column="79" />
-        <mark key="[" line="276" column="80" />
-        <mark key="]" line="276" column="80" />
-        <mark key="^" line="276" column="79" />
-        <mark key="." line="276" column="80" />
+        <mark key="[" line="302" column="73" />
+        <mark key="]" line="302" column="83" />
+        <mark key="^" line="302" column="83" />
+        <mark key="." line="302" column="83" />
       </file>
       <file name="$USER_HOME$/git_repos/main/cjo/api-int-server/src/main/scala/com/cj/apiserver/endpoints/api/oauth/UserResource.scala" timestamp="1540596643653">
         <mark key="'" line="71" column="0" />
@@ -246,7 +246,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.peek());</text>
+        <text encoding="base64">IG5ldyBTdHJpbmdCdWlsZGVyKCkuZm9y</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -292,7 +292,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.peek());</text>
+        <text encoding="base64">IG5ldyBTdHJpbmdCdWlsZGVyKCkuZm9y</text>
       </register>
       <register name="/" type="4">
         <text>java.lang.String</text>
