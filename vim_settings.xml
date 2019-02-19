@@ -119,11 +119,11 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="64" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/34f68fba-86ba-408c-a024-e341ec1882c8/console.sql" timestamp="1550534257749">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/34f68fba-86ba-408c-a024-e341ec1882c8/console.sql" timestamp="1550600025948">
         <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="75" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="75" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Scratch.java" timestamp="1547936687079">
         <mark key="[" line="52" column="0" />
