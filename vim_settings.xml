@@ -13,12 +13,12 @@
       <file name="/a.dummy" timestamp="1547938218458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" timestamp="1550538734767">
-        <mark key="'" line="17" column="64" />
-        <mark key="[" line="22" column="115" />
-        <mark key="]" line="10" column="115" />
-        <mark key="." line="10" column="115" />
-        <mark key="^" line="10" column="115" />
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" timestamp="1550540651407">
+        <mark key="'" line="19" column="75" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f668050e-f48c-4920-b18a-ed203455177b/console.sql" timestamp="1543255249985">
         <mark key="'" line="2" column="27" />
@@ -46,12 +46,12 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" timestamp="1550538767088">
-        <mark key="'" line="22" column="111" />
-        <mark key="[" line="54" column="9" />
-        <mark key="]" line="55" column="29" />
-        <mark key="." line="55" column="29" />
-        <mark key="^" line="55" column="29" />
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" timestamp="1550540818947">
+        <mark key="'" line="27" column="84" />
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/git_repos/3dp/abcl/examples/cltest/Scratch.java" timestamp="1547937983000">
         <mark key="'" line="20" column="0" />
@@ -100,7 +100,7 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" timestamp="1550258055774">
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" timestamp="1550540533731">
         <mark key="[" line="64" column="40" />
         <mark key="]" line="64" column="58" />
         <mark key="." line="64" column="40" />
@@ -150,18 +150,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
-      <jump line="6835" column="2" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/foo.json" />
-      <jump line="113" column="35" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="13" column="4" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
-      <jump line="80" column="25" filename="$USER_HOME$/git_repos/cj/pixel-parameters/pom.xml" />
-      <jump line="176" column="8" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="247" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="28" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
       <jump line="190" column="80" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="8" column="25" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="203" column="1" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
@@ -250,10 +240,20 @@
       <jump line="10" column="48" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
       <jump line="22" column="111" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
       <jump line="16" column="64" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
+      <jump line="17" column="77" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
+      <jump line="24" column="40" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
+      <jump line="29" column="77" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
+      <jump line="8" column="73" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
+      <jump line="22" column="86" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
+      <jump line="14" column="37" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
+      <jump line="31" column="80" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
+      <jump line="19" column="75" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
+      <jump line="21" column="10" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="26" column="84" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>isEmpty</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -299,40 +299,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>parameters</text>
+        <text>isEmpty</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBub3JtYWxpemVkUGFyYW1ldGVycyA9IG5vcm1hbGl6ZXIubm9ybWFsaXplKHBhcmFtZXRlcnMpCg==</text>
+      <register name="0" type="4">
+        <text>normalizedParameters.get(Parameter.customPixelDestCity).get()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odHJhdmVsVHlwZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChtYXliZVBhcmFtZXRlcnMuaXNQcmVzZW50ID09PSB0cnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgdmFsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAogICAgdmFsIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5mb3JtYXQoIiVzLCAlcywgJXNcbiIsIG1heWJlVHJhdmVsVHlwZSwgaW4sIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQuZm9ybWF0KCIlcywgJXMsICVzXG4iLCBtYXliZVRyYXZlbFR5cGUsIGluLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5mb3JtYXQoIiVzLCAlcywgJXNcbiIsIG1heWJlVHJhdmVsVHlwZSwgaW4sIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
