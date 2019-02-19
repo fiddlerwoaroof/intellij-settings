@@ -13,6 +13,13 @@
       <file name="/a.dummy" timestamp="1547938218458">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" timestamp="1550538734767">
+        <mark key="'" line="17" column="64" />
+        <mark key="[" line="22" column="115" />
+        <mark key="]" line="10" column="115" />
+        <mark key="." line="10" column="115" />
+        <mark key="^" line="10" column="115" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f668050e-f48c-4920-b18a-ed203455177b/console.sql" timestamp="1543255249985">
         <mark key="'" line="2" column="27" />
         <mark key="[" line="18" column="0" />
@@ -39,12 +46,12 @@
         <mark key="." line="78" column="0" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" timestamp="1550535729989">
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" timestamp="1550538767088">
         <mark key="'" line="22" column="111" />
-        <mark key="[" line="66" column="210" />
-        <mark key="]" line="66" column="167" />
-        <mark key="." line="66" column="147" />
-        <mark key="^" line="87" column="90" />
+        <mark key="[" line="54" column="9" />
+        <mark key="]" line="55" column="29" />
+        <mark key="." line="55" column="29" />
+        <mark key="^" line="55" column="29" />
       </file>
       <file name="$USER_HOME$/git_repos/3dp/abcl/examples/cltest/Scratch.java" timestamp="1547937983000">
         <mark key="'" line="20" column="0" />
@@ -143,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="11" filename="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" />
       <jump line="67" column="0" filename="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" />
       <jump line="1" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
       <jump line="7" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
@@ -243,10 +249,11 @@
       <jump line="14" column="34" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
       <jump line="10" column="48" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
       <jump line="22" column="111" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="16" column="64" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\traw destcity: %20s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -292,40 +299,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>City</text>
+        <text>parameters</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
       </register>
-      <register name="0" type="4">
-        <text>\traw destcity: %20s</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBub3JtYWxpemVkUGFyYW1ldGVycyA9IG5vcm1hbGl6ZXIubm9ybWFsaXplKHBhcmFtZXRlcnMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5mb3JtYXQoIiVzLCAlcywgJXNcbiIsIG1heWJlVHJhdmVsVHlwZSwgaW4sIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgIAogICAgdmFsIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQuZm9ybWF0KCIlcywgJXMsICVzXG4iLCBtYXliZVRyYXZlbFR5cGUsIGluLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odHJhdmVsVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5mb3JtYXQoIiVzLCAlcywgJXNcbiIsIG1heWJlVHJhdmVsVHlwZSwgaW4sIHJlc3VsdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWF5YmVUcmF2ZWxUeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWVsZHNbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQuZm9ybWF0KCIlcywgJXMsICVzXG4iLCBtYXliZVRyYXZlbFR5cGUsIGluLCByZXN1bHQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
