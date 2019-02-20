@@ -137,6 +137,13 @@
         <mark key="^" line="60" column="34" />
         <mark key="." line="60" column="20" />
       </file>
+      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" timestamp="1550701668904">
+        <mark key="'" line="104" column="20" />
+        <mark key="[" line="146" column="80" />
+        <mark key="]" line="146" column="31" />
+        <mark key="." line="146" column="31" />
+        <mark key="^" line="146" column="31" />
+      </file>
       <file name="/fragment.java" timestamp="1550535767648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -150,21 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="170" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="169" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="162" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="155" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="141" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="146" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="152" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="188" column="31" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="206" column="35" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="218" column="66" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="214" column="49" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
-      <jump line="253" column="28" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" />
       <jump line="75" column="26" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
       <jump line="76" column="55" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
       <jump line="77" column="55" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
@@ -250,10 +242,25 @@
       <jump line="26" column="0" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
       <jump line="29" column="41" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
       <jump line="38" column="4" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
+      <jump line="16" column="12" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="61" column="12" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="62" column="12" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="59" column="8" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="81" column="17" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="95" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="83" column="24" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="96" column="7" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="102" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="108" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="97" column="33" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="99" column="16" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="104" column="20" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>ear</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -299,60 +306,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>ear</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXREZXBlbmRzT25cPg==</text>
+        <text>Foo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKHJhdywgaW4pIC0+IHsKICAgICAgICAgICAgICAgIE9wdGlvbmFsPFN0cmluZz4gbWF5YmVUcmF2ZWxUeXBlID0gcmF3LmdldChDdXN0b21QaXhlbFBhcmFtZXRlcnMuUGFyYW1ldGVyLmN1c3RvbVBpeGVsVHJhdmVsVHlwZSk7CiAgICAgICAgICAgICAgICBPcHRpb25hbDxDdXN0b21QaXhlbFBhcmFtZXRlcnMuUGFpcjxTdHJpbmcsIFN0cmluZz4+IHJlc3VsdCA9IE9wdGlvbmFsLm9mKGluKTsKICAgICAgICAgICAgICAgIGlmIChtYXliZVRyYXZlbFR5cGUuaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdHJhdmVsVHlwZSA9IG1heWJlVHJhdmVsVHlwZS5nZXQoKS50b0xvd2VyQ2FzZSgpOwogICAgICAgICAgICAgICAgICAgIE9wdGlvbmFsPFN0cmluZz4gZGVzdENpdHkgPSByYXcuZ2V0KEN1c3RvbVBpeGVsUGFyYW1ldGVycy5QYXJhbWV0ZXIuY3VzdG9tUGl4ZWxEZXN0Q2l0eSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFkZXN0Q2l0eS5pc1ByZXNlbnQoKSAmJiAodHJhdmVsVHlwZS5lcXVhbHMoImhvdGVsIikgfHwgdHJhdmVsVHlwZS5lcXVhbHMoImV2ZW50cyIpKSkgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoQ3VzdG9tUGl4ZWxQYXJhbWV0ZXJzLlBhcmFtZXRlci5jdXN0b21QaXhlbENpdHkuY29tbWlzc2lvbkRldGFpbE5hbWUuZXF1YWxzKGluLmZzdCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdCA9IE9wdGlvbmFsLm9mKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZXcgQ3VzdG9tUGl4ZWxQYXJhbWV0ZXJzLlBhaXI8PigKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBDdXN0b21QaXhlbFBhcmFtZXRlcnMuUGFyYW1ldGVyLmN1c3RvbVBpeGVsRGVzdENpdHkuY29tbWlzc2lvbkRldGFpbE5hbWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW4uc25kKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoQ3VzdG9tUGl4ZWxQYXJhbWV0ZXJzLlBhcmFtZXRlci5jdXN0b21QaXhlbERlc3RDaXR5LmVxdWFscyhpbi5mc3QpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXN1bHQgPSBPcHRpb25hbC5lbXB0eSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgICAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>R</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">dG9uKCkpOwogICAgfQp9Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text>(
-                
-        )</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMZW5zLmNvbXBvc2UobWVMZW5zLCBiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMZW5zPEZvbywgRm9vLCBSZWxhdGlvbnNoaXAsIFJlbGF0aW9uc2hpcD4gbWVMZW5zID0gUmVsYXRpb25zaGlwLm1lTGVuczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgRGVzdENpdHlOb3JtYWxpemVyIGltcGxlbWVudHMgTm9ybWFsaXplclJ1bGUgewogICAgQE92ZXJyaWRlCiAgICBTZXQ8U3RyaW5nPiBnZXREZXBlbmRzT24oKSB7CiAgICAgICAgCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICBMZW5zLmNvbXBvc2UoZm9vTmFtZUxlbnMsIFJlbGF0aW9uc2hpcC55b3VMZW5zKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGb29OYW1lTGVucyBuYW1lTGVucyA9IG5ldyBGb29OYW1lTGVucygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgR3JhcGggewogICAgcHJpdmF0ZSBNYXA8U3RyaW5nLCBTZXQ8U3RyaW5nPj4gYWRqTGlzdCA9IG5ldyBIYXNoTWFwPFN0cmluZywgU2V0PFN0cmluZz4+KCk7CgogICAgdm9pZCBhZGQoU3RyaW5nIGZyb20sIFN0cmluZy4uLnRvKSB7CiAgICAgICAgaWYgKCFhZGpMaXN0LmNvbnRhaW5zS2V5KGZyb20pKSB7CiAgICAgICAgICAgIGFkakxpc3QucHV0KGZyb20sIG5ldyBIYXNoU2V0PFN0cmluZz4oKSk7CiAgICAgICAgfQoKICAgICAgICBmb3IgKFN0cmluZyB0IDogdG8pIHsKICAgICAgICAgICAgYWRqTGlzdC5nZXQoZnJvbSkuYWRkKHQpOwogICAgICAgIH0KICAgIH0KCiAgICBNYXA8U3RyaW5nLCBTZXQ8U3RyaW5nPj4gZ2V0QWRqTGlzdCgpIHsKICAgICAgICByZXR1cm4gYWRqTGlzdDsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIH17Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgVG9wb2xvZ2ljYWxTb3J0IHsKICAgIHByaXZhdGUgR3JhcGggZzsKICAgIHByaXZhdGUgSGFzaE1hcDxTdHJpbmcsIEludGVnZXI+IGluY29taW5nRWRnZXM7CiAgICBwcml2YXRlIFNldDxTdHJpbmc+IG9ubHlOb0luY29taW5nRWRnZXM7CgogICAgVG9wb2xvZ2ljYWxTb3J0KEdyYXBoIGcpIHsKICAgICAgICB0aGlzLmcgPSBnOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBjb21wdXRlSW5jb21pbmdFZGdlc0xvb2t1cCgpIHsKICAgICAgICBpbmNvbWluZ0VkZ2VzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIG9ubHlOb0luY29taW5nRWRnZXMgPSBuZXcgSGFzaFNldDw+KCk7CgogICAgICAgIE1hcDxTdHJpbmcsIFNldDxTdHJpbmc+PiBhID0gZy5nZXRBZGpMaXN0KCk7CgogICAgICAgIGZvciAoTWFwLkVudHJ5PFN0cmluZywgU2V0PFN0cmluZz4+IGUgOiBhLmVudHJ5U2V0KCkpIHsKICAgICAgICAgICAgU3RyaW5nIGN1ciA9IGUuZ2V0S2V5KCk7CgogICAgICAgICAgICAvLyB0aGlzIG5vZGUgaXMgbm90IHlldCBpbiB0aGUgbGlzdCBvZiBub2RlcyB0aGF0IGhhdmUgaW5jb21pbmcgZWRnZXMKICAgICAgICAgICAgLy8gc28gd2UgYXNzdW1lIGl0IG1heWJlIGhhcyBubyBpbmNvbWluZyBlZGdlcwogICAgICAgICAgICBpZiAoIWluY29taW5nRWRnZXMuY29udGFpbnNLZXkoY3VyKSkgewogICAgICAgICAgICAgICAgb25seU5vSW5jb21pbmdFZGdlcy5hZGQoY3VyKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZm9yIChTdHJpbmcgaSA6IGEuZ2V0KGN1cikpIHsKICAgICAgICAgICAgICAgIC8vIHdlIGZvdW5kIGFuIGluY29taW5nIGVkZ2Uge2N1ciwgaX0gZm9yIGksCiAgICAgICAgICAgICAgICAvLyBzbyB3ZSBuZWVkIHRvIHJlbW92ZSBpdCBmcm9tIHRoZSBsaXN0IG9mIG5vZGVzIHRoYXQgaGF2ZSBubyBpbmNvbWluZwogICAgICAgICAgICAgICAgLy8gZWRnZSwgaWYgd2UgcHV0IGl0IHRoZXJlIGluIGEgcHJldmlvdXMgaXRlcmF0aW9uIChzZWUgYWJvdmUpCiAgICAgICAgICAgICAgICBvbmx5Tm9JbmNvbWluZ0VkZ2VzLnJlbW92ZShpKTsKCiAgICAgICAgICAgICAgICBpZiAoIWluY29taW5nRWRnZXMuY29udGFpbnNLZXkoaSkpIHsKICAgICAgICAgICAgICAgICAgICBpbmNvbWluZ0VkZ2VzLnB1dChpLCAxKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgaW5jb21pbmdFZGdlcy5wdXQoaSwgaW5jb21pbmdFZGdlcy5nZXQoaSkgKyAxKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBMaXN0PFN0cmluZz4gZ2V0U29ydGluZygpIHsKICAgICAgICBjb21wdXRlSW5jb21pbmdFZGdlc0xvb2t1cCgpOwoKICAgICAgICBpZiAob25seU5vSW5jb21pbmdFZGdlcy5zaXplKCkgPT0gMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiR3JhcGggaGFzIGN5Y2xlcyAtIG5vIG5vZGVzIGZvdW5kIHdpdGhvdXQgaW5jb21pbmcgZWRnZXMuIik7CiAgICAgICAgfQoKICAgICAgICBNYXA8U3RyaW5nLCBTZXQ8U3RyaW5nPj4gYSA9IGcuZ2V0QWRqTGlzdCgpOwogICAgICAgIExpc3Q8U3RyaW5nPiBsID0gbmV3IExpbmtlZExpc3Q8PigpOwoKICAgICAgICB3aGlsZSAoIW9ubHlOb0luY29taW5nRWRnZXMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgIC8vIHBvcCBhbnkgZW50cnkgb2ZmIGZyb20gc2V0IG9mIG5vZGVzIHRoYXQgaGF2ZSBubyBpbmNvbWluZyBlZGdlcwogICAgICAgICAgICBTdHJpbmcgY3VyID0gb25seU5vSW5jb21pbmdFZGdlcy5pdGVyYXRvcigpLm5leHQoKTsKICAgICAgICAgICAgb25seU5vSW5jb21pbmdFZGdlcy5yZW1vdmUoY3VyKTsKCiAgICAgICAgICAgIGwuYWRkKGN1cik7CgogICAgICAgICAgICBmb3IgKFN0cmluZyBpIDogYS5nZXQoY3VyKSkgewogICAgICAgICAgICAgICAgLy8gZ2V0IGNvdW50IG9mIGluY29taW5nIGVkZ2VzIGZvciBlYWNoIG5laWdoYm9yIG9mIGN1cgogICAgICAgICAgICAgICAgaW50IGNudCA9IGluY29taW5nRWRnZXMuZ2V0KGkpOwoKICAgICAgICAgICAgICAgIC8vIHNpbmNlIHdlICJyZW1vdmUiIHRoZSBlZGdlIHtjdXIsIGl9IChhcyB3ZSByZW1vdmUgY3VyIGZyb20gRyksCiAgICAgICAgICAgICAgICAvLyBpIGhhcyBvbmUgaW5jb21pbmdFZGdlcyBsZXNzCiAgICAgICAgICAgICAgICBpbnQgbmV3Q250ID0gY250IC0gMTsKICAgICAgICAgICAgICAgIGluY29taW5nRWRnZXMucHV0KGksIG5ld0NudCk7CgogICAgICAgICAgICAgICAgLy8gaWYgaSBoYXMgbm8gbW9yZSBpbmNvbWluZyBlZGdlcywgd2UgY2FuIGFkZCBpdCB0byB0aGUgc29ydGluZyBsaXN0CiAgICAgICAgICAgICAgICBpZiAobmV3Q250ID09IDApIHsKICAgICAgICAgICAgICAgICAgICBvbmx5Tm9JbmNvbWluZ0VkZ2VzLmFkZChpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgaWYgKGwuc2l6ZSgpICE9IGEuc2l6ZSgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJHcmFwaCBoYXMgY3ljbGVzIC0gY291bGRuJ3QgcmVtb3ZlIGFsbCBub2RlcyBmcm9tIEcuIik7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gbDsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgRm9vIHNldChGb28gcmVjLCBTdHJpbmcgdmFsdWUpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldChGb28gcmVjKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiTm90IEltcGxlbWVudGVkISIpOwogICAgICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>{
+
+        }</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/Foo/String/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXREZXBlbmRzT25cPg==</last-search>
+      <last-search>Foo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXREZXBlbmRzT25cPg==</last-pattern>
+      <last-pattern>Foo</last-pattern>
       <last-replace>String</last-replace>
-      <last-substitute>Integer</last-substitute>
+      <last-substitute>Foo</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaW5rXD4=</entry>
-        <entry>link</entry>
         <entry>pub</entry>
         <entry>public</entry>
         <entry encoding="base64">XDxNeVJ1bm5hYmxlXD4=</entry>
@@ -369,15 +374,12 @@
         <entry>Integer</entry>
         <entry encoding="base64">XDxOb3JtYWxpemVyUnVsZVw+</entry>
         <entry encoding="base64">XDxnZXREZXBlbmRzT25cPg==</entry>
+        <entry>name</entry>
+        <entry>me</entry>
+        <entry>you</entry>
+        <entry>Foo</entry>
       </history-search>
       <history-cmd>
-        <entry>action:cursive.actions.paredit/splice-killing-backwards</entry>
-        <entry>action :cursive.actions.paredit/wrap-square</entry>
-        <entry>action :cursive.actions.paredit/wrap-curly</entry>
-        <entry>action split-vertically</entry>
-        <entry>action Split Vertically</entry>
-        <entry>so ~/.ideavimrc</entry>
-        <entry>action :cursive.actions.paredit/barf-backwards</entry>
         <entry>action :cursive.actions.paredit/slurp-backwards</entry>
         <entry>vsp</entry>
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
@@ -390,7 +392,14 @@
         <entry>s/state/country/g</entry>
         <entry>s/Integer/String/g</entry>
         <entry>s</entry>
+        <entry>s/name/status/g</entry>
+        <entry>s/me/you/g</entry>
+        <entry>s//description/g</entry>
+        <entry>s/Foo/Relationship/g</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL21lL3lvdS9n</entry>
+        <entry encoding="base64">JzwsJz5zL3lvdS9kZXNjcmlwdGlvbi9n</entry>
+        <entry>s/Foo/String/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
