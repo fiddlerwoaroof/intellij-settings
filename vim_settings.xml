@@ -53,6 +53,9 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
       </file>
+      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" timestamp="1550717366205">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/git_repos/3dp/abcl/examples/cltest/Scratch.java" timestamp="1547937983000">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="4" column="0" />
@@ -137,12 +140,12 @@
         <mark key="^" line="60" column="34" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" timestamp="1550716278938">
-        <mark key="'" line="17" column="3" />
-        <mark key="[" line="169" column="78" />
-        <mark key="]" line="169" column="78" />
-        <mark key="." line="169" column="78" />
-        <mark key="^" line="169" column="78" />
+      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" timestamp="1550717319292">
+        <mark key="'" line="177" column="8" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="174" column="0" />
+        <mark key="^" line="169" column="59" />
       </file>
       <file name="/fragment.java" timestamp="1550535767648">
         <mark key="[" line="0" column="0" />
@@ -157,11 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="10" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
-      <jump line="87" column="69" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
-      <jump line="100" column="70" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
-      <jump line="101" column="70" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
-      <jump line="102" column="65" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
       <jump line="112" column="56" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
       <jump line="113" column="56" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
       <jump line="123" column="66" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
@@ -257,10 +255,15 @@
       <jump line="141" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
       <jump line="169" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
       <jump line="17" column="3" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="176" column="32" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="177" column="8" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Foo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9vLmdldCh1cykpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmb28uZ2V0KHVwZGF0ZWRfdXMpKTsKCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -306,57 +309,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Foo</text>
+        <text encoding="base64">TGVuczxTdHJpbmcsID8sIEZvbywgRm9vPg==</text>
       </register>
       <register name="/" type="4">
-        <text>compose</text>
+        <text>foo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYS5zZXQocmVjLCBiLnNldChhLmdldChyZWMpLCB2YWx1ZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZm9vLmdldCh1cykpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmb28uZ2V0KHVwZGF0ZWRfdXMpKTsKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gYS5zZXQocmVjLCBiLnNldChhLmdldChyZWMpLCB2YWx1ZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFJlbGF0aW9uc2hpcCBnZXRHZW9yZ2Vfd2FzaGluZ3RvbihSZWxhdGlvbnNoaXAgdXMsIExlbnM8Rm9vLCBGb28sIFJlbGF0aW9uc2hpcCwgUmVsYXRpb25zaGlwPiB5b3VMZW5zLCBMZW5zPFN0cmluZywgPywgRm9vLCBGb28+IGIpIHsKICAgICAgICByZXR1cm4geW91TGVucy5zZXQodXMsIGIuc2V0KHlvdUxlbnMuZ2V0KHVzKSwgIkdlb3JnZSBXYXNoaW5ndG9uIikpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMZW5zPFN0cmluZywgU3RyaW5nLCBGb28sIEZvbz4geW91TGVucyA9IFJlbGF0aW9uc2hpcC55b3VMZW5zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBWIG9yaWdpbmFsX2FfcmVjID0gYS5nZXQocmVjKTsKICAgICAgICAgICAgICAgICAgICBiLnNldCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBMZW5zPFN0cmluZywgU3RyaW5nLCBGb28sIEZvbz4gZm9vTmFtZUxlbnMgPSBuZXcgTGVuczxTdHJpbmcsIFN0cmluZywgRm9vLCBGb28+KCkgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBGb28gc2V0KEZvbyByZWMsIFN0cmluZyB2YWx1ZSkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgRm9vIHJlc3VsdCA9IChGb28pIHJlYy5jbG9uZSgpOwogICAgICAgICAgICAgICAgcmVzdWx0Lm5hbWUgPSB2YWx1ZTsKICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyBnZXQoRm9vIHJlYykgewogICAgICAgICAgICByZXR1cm4gcmVjLm5hbWU7CiAgICAgICAgfQogICAgfTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gYS5zZXQocmVjLCBiLnNldChhLmdldChyZWMpLCB2YWx1ZSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFJlbGF0aW9uc2hpcCBnZXRHZW9yZ2Vfd2FzaGluZ3RvbihSZWxhdGlvbnNoaXAgdXMsIExlbnM8Rm9vLCBGb28sIFJlbGF0aW9uc2hpcCwgUmVsYXRpb25zaGlwPiB5b3VMZW5zLCBMZW5zPFN0cmluZywgPywgRm9vLCBGb28+IGIpIHsKICAgICAgICByZXR1cm4geW91TGVucy5zZXQodXMsIGIuc2V0KHlvdUxlbnMuZ2V0KHVzKSwgIkdlb3JnZSBXYXNoaW5ndG9uIikpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMZW5zPFN0cmluZywgU3RyaW5nLCBGb28sIEZvbz4geW91TGVucyA9IFJlbGF0aW9uc2hpcC55b3VMZW5zOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBMZW5zPFN0cmluZywgU3RyaW5nLCBGb28sIEZvbz4gZm9vTmFtZUxlbnMgPSBuZXcgTGVuczxTdHJpbmcsIFN0cmluZywgRm9vLCBGb28+KCkgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBGb28gc2V0KEZvbyByZWMsIFN0cmluZyB2YWx1ZSkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgRm9vIHJlc3VsdCA9IChGb28pIHJlYy5jbG9uZSgpOwogICAgICAgICAgICAgICAgcmVzdWx0Lm5hbWUgPSB2YWx1ZTsKICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyBnZXQoRm9vIHJlYykgewogICAgICAgICAgICByZXR1cm4gcmVjLm5hbWU7CiAgICAgICAgfQogICAgfTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMZW5zLmNvbXBvc2UobWVMZW5zLCBiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMZW5zPEZvbywgRm9vLCBSZWxhdGlvbnNoaXAsIFJlbGF0aW9uc2hpcD4gbWVMZW5zID0gUmVsYXRpb25zaGlwLm1lTGVuczsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>compose</last-search>
+      <last-search>foo</last-search>
       <last-offset />
-      <last-pattern>compose</last-pattern>
-      <last-replace>String</last-replace>
-      <last-substitute>Foo</last-substitute>
+      <last-pattern>foo</last-pattern>
+      <last-replace>bar</last-replace>
+      <last-substitute>foo</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>public</entry>
         <entry encoding="base64">XDxNeVJ1bm5hYmxlXD4=</entry>
         <entry>Pixel</entry>
         <entry>.orElse</entry>
@@ -376,9 +378,9 @@
         <entry>you</entry>
         <entry>Foo</entry>
         <entry>compose</entry>
+        <entry>foo</entry>
       </history-search>
       <history-cmd>
-        <entry>action :cursive.actions.paredit/slurp-backwards</entry>
         <entry>vsp</entry>
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
         <entry>action:cursive.actions.paredit/splice</entry>
@@ -397,6 +399,7 @@
         <entry encoding="base64">JzwsJz5zL21lL3lvdS9n</entry>
         <entry encoding="base64">JzwsJz5zL3lvdS9kZXNjcmlwdGlvbi9n</entry>
         <entry>s/Foo/String/g</entry>
+        <entry encoding="base64">JzwsJz5zL2Zvby9iYXIv</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
