@@ -10,7 +10,7 @@
       <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
         <mark key="[" line="0" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1547938218458">
+      <file name="/a.dummy" timestamp="1550714022572">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" timestamp="1550624661965">
@@ -137,12 +137,12 @@
         <mark key="^" line="60" column="34" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" timestamp="1550701668904">
-        <mark key="'" line="104" column="20" />
-        <mark key="[" line="146" column="80" />
-        <mark key="]" line="146" column="31" />
-        <mark key="." line="146" column="31" />
-        <mark key="^" line="146" column="31" />
+      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" timestamp="1550714143979">
+        <mark key="'" line="17" column="3" />
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="15" />
       </file>
       <file name="/fragment.java" timestamp="1550535767648">
         <mark key="[" line="0" column="0" />
@@ -157,10 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="26" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
-      <jump line="76" column="55" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
-      <jump line="77" column="55" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
-      <jump line="43" column="59" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
       <jump line="86" column="10" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
       <jump line="87" column="69" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
       <jump line="100" column="70" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" />
@@ -257,10 +253,14 @@
       <jump line="97" column="33" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
       <jump line="99" column="16" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
       <jump line="104" column="20" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="130" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="141" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="169" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
+      <jump line="17" column="3" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ear</text>
+        <text>youLens</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -306,51 +306,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ear</text>
+        <text>youLens</text>
       </register>
       <register name="/" type="4">
-        <text>Foo</text>
+        <text>compose</text>
       </register>
-      <register name="0" type="4">
-        <text>R</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBMZW5zPEZvbywgRm9vLCBSZWxhdGlvbnNoaXAsIFJlbGF0aW9uc2hpcD4geW91TGVucyA9IFJlbGF0aW9uc2hpcC55b3VMZW5zOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFJlbGF0aW9uc2hpcCBnZXRHZW9yZ2Vfd2FzaGluZ3RvbihSZWxhdGlvbnNoaXAgdXMsIExlbnM8Rm9vLCBGb28sIFJlbGF0aW9uc2hpcCwgUmVsYXRpb25zaGlwPiB5b3VMZW5zLCBMZW5zPFN0cmluZywgPywgRm9vLCBGb28+IGIpIHsKICAgICAgICByZXR1cm4geW91TGVucy5zZXQodXMsIGIuc2V0KHlvdUxlbnMuZ2V0KHVzKSwgIkdlb3JnZSBXYXNoaW5ndG9uIikpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMZW5zPFN0cmluZywgU3RyaW5nLCBGb28sIEZvbz4geW91TGVucyA9IFJlbGF0aW9uc2hpcC55b3VMZW5zOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMZW5zLmNvbXBvc2UobWVMZW5zLCBiKTsK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBMZW5zPFN0cmluZywgU3RyaW5nLCBGb28sIEZvbz4gZm9vTmFtZUxlbnMgPSBuZXcgTGVuczxTdHJpbmcsIFN0cmluZywgRm9vLCBGb28+KCkgewogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBGb28gc2V0KEZvbyByZWMsIFN0cmluZyB2YWx1ZSkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgRm9vIHJlc3VsdCA9IChGb28pIHJlYy5jbG9uZSgpOwogICAgICAgICAgICAgICAgcmVzdWx0Lm5hbWUgPSB2YWx1ZTsKICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyBnZXQoRm9vIHJlYykgewogICAgICAgICAgICByZXR1cm4gcmVjLm5hbWU7CiAgICAgICAgfQogICAgfTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMZW5zPEZvbywgRm9vLCBSZWxhdGlvbnNoaXAsIFJlbGF0aW9uc2hpcD4gbWVMZW5zID0gUmVsYXRpb25zaGlwLm1lTGVuczsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMZW5zLmNvbXBvc2UoZm9vTmFtZUxlbnMsIFJlbGF0aW9uc2hpcC55b3VMZW5zKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGb29OYW1lTGVucyBuYW1lTGVucyA9IG5ldyBGb29OYW1lTGVucygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH17Cg==</text>
+        <text encoding="base64">ICAgICAgICBMZW5zLmNvbXBvc2UobWVMZW5zLCBiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgRm9vIHNldChGb28gcmVjLCBTdHJpbmcgdmFsdWUpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7CiAgICAgICAgfQoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldChGb28gcmVjKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiTm90IEltcGxlbWVudGVkISIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBMZW5zPEZvbywgRm9vLCBSZWxhdGlvbnNoaXAsIFJlbGF0aW9uc2hpcD4gbWVMZW5zID0gUmVsYXRpb25zaGlwLm1lTGVuczsK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBMZW5zLmNvbXBvc2UoZm9vTmFtZUxlbnMsIFJlbGF0aW9uc2hpcC55b3VMZW5zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Foo/String/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Foo</last-search>
+      <last-search>compose</last-search>
       <last-offset />
-      <last-pattern>Foo</last-pattern>
+      <last-pattern>compose</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute>Foo</last-substitute>
       <last-dir>1</last-dir>
@@ -358,7 +356,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pub</entry>
         <entry>public</entry>
         <entry encoding="base64">XDxNeVJ1bm5hYmxlXD4=</entry>
         <entry>Pixel</entry>
@@ -378,6 +375,7 @@
         <entry>me</entry>
         <entry>you</entry>
         <entry>Foo</entry>
+        <entry>compose</entry>
       </history-search>
       <history-cmd>
         <entry>action :cursive.actions.paredit/slurp-backwards</entry>
