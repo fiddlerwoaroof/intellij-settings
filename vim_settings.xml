@@ -53,12 +53,12 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" timestamp="1550730569573">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="25" column="55" />
-        <mark key="]" line="25" column="54" />
-        <mark key="^" line="25" column="54" />
-        <mark key="." line="25" column="54" />
+      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" timestamp="1550731279408">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="11" column="34" />
       </file>
       <file name="$USER_HOME$/git_repos/3dp/abcl/examples/cltest/Scratch.java" timestamp="1547937983000">
         <mark key="'" line="20" column="0" />
@@ -267,7 +267,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>implements</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -313,7 +313,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>implements</text>
       </register>
       <register name="/" type="4">
         <text>over(</text>
