@@ -13,11 +13,13 @@
       <file name="/a.dummy" timestamp="1550714022572">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/LensifyProcessor.java" timestamp="1550735351331">
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="47" />
-        <mark key="." line="14" column="47" />
-        <mark key="^" line="14" column="47" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/javax/lang/model/type/TypeMirror.java" timestamp="1550738144935" />
+      <file name="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/LensifyProcessor.java" timestamp="1550738706529">
+        <mark key="'" line="33" column="20" />
+        <mark key="[" line="32" column="78" />
+        <mark key="]" line="32" column="79" />
+        <mark key="." line="32" column="79" />
+        <mark key="^" line="32" column="79" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" timestamp="1550624661965">
         <mark key="'" line="19" column="75" />
@@ -25,6 +27,13 @@
         <mark key="]" line="19" column="24" />
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
+      </file>
+      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" timestamp="1550738995477">
+        <mark key="'" line="18" column="14" />
+        <mark key="[" line="71" column="34" />
+        <mark key="]" line="71" column="35" />
+        <mark key="." line="71" column="35" />
+        <mark key="^" line="71" column="38" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lensify.java" timestamp="1550733292439">
         <mark key="[" line="11" column="0" />
@@ -75,12 +84,6 @@
         <mark key="^" line="220" column="10" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/Param.scala" timestamp="1550258003069" />
-      <file name="/Dummy.txt" timestamp="1550532824071">
-        <mark key="c" line="0" column="58" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-      </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550534285390">
         <mark key="'" line="251" column="16" />
         <mark key="[" line="319" column="0" />
@@ -105,6 +108,12 @@
         <mark key="^" line="64" column="29" />
         <mark key="." line="64" column="24" />
       </file>
+      <file name="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/Lensify.java" timestamp="1550737502000">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+      </file>
       <file name="$USER_HOME$/demos/java_lenses/lensify_processor/pom.xml" timestamp="1550735187840">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -125,7 +134,7 @@
         <mark key="'" line="14" column="0" />
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="8" />
-        <mark key="^" line="31" column="19" />
+        <mark key="^" line="37" column="19" />
         <mark key="." line="16" column="8" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/src/main/java/com/company/Main.java" timestamp="1550734401418">
@@ -167,11 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="34" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
-      <jump line="10" column="48" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ParameterNormalizer.java" />
-      <jump line="16" column="64" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
-      <jump line="17" column="77" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
-      <jump line="24" column="40" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
       <jump line="29" column="77" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
       <jump line="8" column="73" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
       <jump line="22" column="86" filename="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" />
@@ -267,10 +271,15 @@
       <jump line="34" column="27" filename="$USER_HOME$/demos/java_lenses/main/pom.xml" />
       <jump line="14" column="9" filename="$USER_HOME$/demos/java_lenses/lensify_processor/pom.xml" />
       <jump line="36" column="19" filename="$USER_HOME$/demos/java_lenses/lensify_processor/pom.xml" />
+      <jump line="13" column="57" filename="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/LensifyProcessor.java" />
+      <jump line="32" column="54" filename="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/LensifyProcessor.java" />
+      <jump line="33" column="50" filename="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/LensifyProcessor.java" />
+      <jump line="35" column="20" filename="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/LensifyProcessor.java" />
+      <jump line="18" column="14" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>getStatus</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -316,40 +325,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>getStatus</text>
       </register>
       <register name="/" type="4">
         <text>over(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFN1cHBvcnRlZFNvdXJjZVZlcnNpb24oU291cmNlVmVyc2lvbi5SRUxFQVNFXzkpCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFN1cHBvcnRlZFNvdXJjZVZlcnNpb24oU291cmNlVmVyc2lvbi5SRUxFQVNFXzkpCg==</text>
+        <text encoding="base64">ICAgICAgICBvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFN1cHBvcnRlZFNvdXJjZVZlcnNpb24oU291cmNlVmVyc2lvbi5SRUxFQVNFXzkpCg==</text>
+        <text encoding="base64">ICAgICAgICBGb28uZ2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuamF2YWMuY29kZS5UeXBlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGFubm90YXRpb25Qcm9jZXNzb3JzPgogICAgICAgICAgICAgICAgICAgICAgICA8YW5ub3RhdGlvblByb2Nlc3Nvcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbS5nb29nbGUuYXV0by5zZXJ2aWNlLnByb2Nlc3Nvci5BdXRvU2VydmljZVByb2Nlc3NvcgogICAgICAgICAgICAgICAgICAgICAgICA8L2Fubm90YXRpb25Qcm9jZXNzb3I+CgogICAgICAgICAgICAgICAgICAgICAgICA8YW5ub3RhdGlvblByb2Nlc3Nvcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbS5jb21wYW55LnByb2Nlc3Nvci5MZW5zaWZ5UHJvY2Vzc29yCiAgICAgICAgICAgICAgICAgICAgICAgIDwvYW5ub3RhdGlvblByb2Nlc3Nvcj4KICAgICAgICAgICAgICAgICAgICA8L2Fubm90YXRpb25Qcm9jZXNzb3JzPgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LmxhbmcubW9kZWwudHlwZS5FeGVjdXRhYmxlVHlwZTsKaW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGFubm90YXRpb25Qcm9jZXNzb3I+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb20uZ29vZ2xlLmF1dG8uc2VydmljZS5wcm9jZXNzb3IuQXV0b1NlcnZpY2VQcm9jZXNzb3IKICAgICAgICAgICAgICAgICAgICAgICAgPC9hbm5vdGF0aW9uUHJvY2Vzc29yPgogICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29sbGVjdCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbGxlY3RvcnMuKGVsZW1lbnQgLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAp</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIDxhbm5vdGF0aW9uUHJvY2Vzc29yPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tLmdvb2dsZS5hdXRvLnNlcnZpY2UucHJvY2Vzc29yLkF1dG9TZXJ2aWNlUHJvY2Vzc29yCiAgICAgICAgICAgICAgICAgICAgICAgIDwvYW5ub3RhdGlvblByb2Nlc3Nvcj4KICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKChUeXBlKSBlbGVtZW50LmFzVHlwZSgpKS5nZXRLaW5kKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5nb29nbGUuYXV0by5zZXJ2aWNlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5hdXRvLXNlcnZpY2U8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMC1yYzQ8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFYKICAgICAgICAgICAgKTs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbS5nb29nbGUuYXV0by5zZXJ2aWNlLnByb2Nlc3Nvci5BdXRvU2VydmljZVByb2Nlc3Nvcgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcnJheXMudG9TdHJpbmcocm91bmRFbnYuZ2V0RWxlbWVudHNBbm5vdGF0ZWRXaXRoKGEpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAodiAtPiAoKEVsZW1lbnQpIHYpLmFzVHlwZSgpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnRvQXJyYXkoKSk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
