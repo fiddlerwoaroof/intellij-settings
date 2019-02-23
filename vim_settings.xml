@@ -26,12 +26,12 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" timestamp="1550954759716">
-        <mark key="'" line="81" column="43" />
-        <mark key="[" line="71" column="20" />
-        <mark key="]" line="71" column="15" />
-        <mark key="^" line="71" column="15" />
-        <mark key="." line="71" column="15" />
+      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" timestamp="1550962990465">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="6" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lensify.java" timestamp="1550733292439">
         <mark key="[" line="11" column="0" />
@@ -88,6 +88,12 @@
         <mark key="^" line="333" column="64" />
         <mark key="." line="333" column="64" />
       </file>
+      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Bound.java" timestamp="1550963213651">
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="27" column="25" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="25" />
+      </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ValidateCustomParameters.java" timestamp="1549911084096">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -99,16 +105,22 @@
         <mark key="." line="64" column="40" />
         <mark key="^" line="63" column="57" />
       </file>
+      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" timestamp="1550963455773">
+        <mark key="[" line="10" column="64" />
+        <mark key="]" line="10" column="70" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="70" />
+      </file>
       <file name="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" timestamp="1547941623903">
         <mark key="[" line="64" column="24" />
         <mark key="]" line="64" column="24" />
         <mark key="^" line="64" column="29" />
         <mark key="." line="64" column="24" />
       </file>
-      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" timestamp="1550954619114">
+      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" timestamp="1550963148733">
         <mark key="'" line="14" column="25" />
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="26" column="36" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="65" />
         <mark key="^" line="26" column="36" />
         <mark key="." line="26" column="36" />
       </file>
@@ -180,16 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="12" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="59" column="8" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="83" column="24" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="89" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="96" column="7" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="102" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="108" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="97" column="33" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
       <jump line="104" column="20" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
       <jump line="141" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
       <jump line="169" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
@@ -275,15 +277,25 @@
       <jump line="65" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
       <jump line="63" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
       <jump line="62" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="21" column="59" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
       <jump line="80" column="45" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
       <jump line="6" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
       <jump line="73" column="57" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
       <jump line="81" column="43" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
+      <jump line="21" column="24" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
+      <jump line="22" column="12" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
+      <jump line="17" column="8" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
+      <jump line="4" column="15" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
+      <jump line="2" column="32" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
+      <jump line="13" column="4" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
+      <jump line="6" column="1" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
+      <jump line="10" column="40" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>compose</text>
+        <text>T</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -329,51 +341,51 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>compose</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
-        <text>Foo</text>
+        <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGZpbmFsIElkTGVuczxTdHJpbmcsIEZvbz4gbmFtZSA9IChyZWMsIGZ1bikgLT4gCiAgICAgICAgICAgICAgICBuZXcgRm9vKGZ1bi5hcHBseShyZWMubmFtZV8pLCByZWMuc3RhdHVzXyk7Cg==</text>
+        <text encoding="base64">b3BlcmF0b3IgZnVuIDxTLFQsQSxCPiBCb3VuZDxTLFQsQSxCPi5pbnZva2UoKTogVCB7CiAgICByZXR1cm4gdGhpcy5nZXQoKQp9CgoKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgaWpyb2locnBpJyknW10K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFJlbGF0aW9uc2hpcCBnZXRHZW9yZ2Vfd2FzaGluZ3RvbihSZWxhdGlvbnNoaXAgcmVjLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyB2YWx1ZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMZW5zPEZvbywgRm9vLCBSZWxhdGlvbnNoaXAsIFJlbGF0aW9uc2hpcD4gYSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMZW5zPFN0cmluZywgPywgRm9vLCBGb28+IGIpIHsKICAgICAgICByZXR1cm4gYS5zZXQocmVjLCBiLnNldChhLmdldChyZWMpLCB2YWx1ZSkpOwogICAgfQoK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDEgPj4gMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBMZW5zPFN0cmluZywgU3RyaW5nLCBGb28sIEZvbz4gZm9vTmFtZUxlbnMgPSAocmVjLCBmdW4pIC0+IG5ldyBGb28oZnVuLmFwcGx5KHJlYy5uYW1lXyksIHJlYy5zdGF0dXNfKTsKCg==</text>
+        <text encoding="base64">b3BlcmF0b3IgZnVuIDxTLFQsQSxCPiBCb3VuZDxTLFQsQSxCPi5jb21wb3NlKCkgVCB7CiAgICByZXR1cm4gdGhpcy5nZXQoKQp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgc3RhdGljIExlbnM8Rm9vLCBGb28sIFJlbGF0aW9uc2hpcCwgUmVsYXRpb25zaGlwPiBtZUxlbnMgPQogICAgICAgICAgICAgICAgKHJlYywgZnVuKSAtPiBuZXcgUmVsYXRpb25zaGlwKGZ1bi5hcHBseShyZWMubWVfKSwgcmVjLnlvdV8sIHJlYy5kZXNjcmlwdGlvbl8pOwoKICAgICAgICBzdGF0aWMgTGVuczxGb28sIEZvbywgUmVsYXRpb25zaGlwLCBSZWxhdGlvbnNoaXA+IHlvdUxlbnMgPQogICAgICAgICAgICAgICAgKHJlYywgZnVuKSAtPiBuZXcgUmVsYXRpb25zaGlwKHJlYy5tZV8sIGZ1bi5hcHBseShyZWMueW91XyksIHJlYy5kZXNjcmlwdGlvbl8pOwoKICAgICAgICBzdGF0aWMgTGVuczxTdHJpbmcsIFN0cmluZywgUmVsYXRpb25zaGlwLCBSZWxhdGlvbnNoaXA+IGRlc2NyaXB0aW9uTGVucyA9CiAgICAgICAgICAgICAgICAocmVjLCBmdW4pIC0+IG5ldyBSZWxhdGlvbnNoaXAocmVjLm1lXywgcmVjLnlvdV8sIGZ1bi5hcHBseShyZWMuZGVzY3JpcHRpb25fKSk7Cgo=</text>
+        <text encoding="base64">b3BlcmF0b3IgZnVuIDxULEE+IElkQm91bmQ8VCxBPi5pbnZva2UoKTogVCB7CiAgICByZXR1cm4gdGhpcy5nZXQoKQp9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIExlbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIFN0bzxWPiB7CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgcmV0dXJuICJTdG97IiArCiAgICAgICAgICAgICAgICAidmFsdWU9IiArIHZhbHVlICsKICAgICAgICAgICAgICAgICd9JzsKICAgIH0KCiAgICBwcml2YXRlIFYgdmFsdWU7CgogICAgcHVibGljIFN0byhWIHZhbHVlKSB7CiAgICAgICAgdGhpcy52YWx1ZSA9IHZhbHVlOwogICAgfQoKICAgIHB1YmxpYyBWIHVuU3RvcmUoKSB7CiAgICAgICAgcmV0dXJuIHZhbHVlOwogICAgfQoKICAgIHN0YXRpYyA8Vj4gU3RvPFY+IHJlKFYgdmFsdWUpIHsKICAgICAgICByZXR1cm4gbmV3IFN0bzw+KHZhbHVlKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgIGNvbS5jb21wYW55Lm1haW4uTGVucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Foo</last-search>
+      <last-search>name</last-search>
       <last-offset />
-      <last-pattern>Foo</last-pattern>
-      <last-replace>String</last-replace>
-      <last-substitute>Foo</last-substitute>
+      <last-pattern>name</last-pattern>
+      <last-replace>status</last-replace>
+      <last-substitute>name</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -386,7 +398,6 @@
         <entry>Integer</entry>
         <entry encoding="base64">XDxOb3JtYWxpemVyUnVsZVw+</entry>
         <entry encoding="base64">XDxnZXREZXBlbmRzT25cPg==</entry>
-        <entry>name</entry>
         <entry>me</entry>
         <entry>compose</entry>
         <entry>foo</entry>
@@ -399,6 +410,7 @@
         <entry>me_</entry>
         <entry>you</entry>
         <entry>Foo</entry>
+        <entry>name</entry>
       </history-search>
       <history-cmd>
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
@@ -411,7 +423,6 @@
         <entry>s/state/country/g</entry>
         <entry>s/Integer/String/g</entry>
         <entry>s</entry>
-        <entry>s/name/status/g</entry>
         <entry>s/me/you/g</entry>
         <entry>s//description/g</entry>
         <entry>s/Foo/Relationship/g</entry>
@@ -420,6 +431,7 @@
         <entry encoding="base64">JzwsJz5zL21lXy95b3VfL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3lvdS9kZXNjcmlwdGlvbi9n</entry>
         <entry>s/Foo/String/g</entry>
+        <entry>s/name/status/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
