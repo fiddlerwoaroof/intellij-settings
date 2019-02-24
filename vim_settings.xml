@@ -39,8 +39,11 @@
       <file name="/Dummy.scala" timestamp="1550181034206">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/REPL.clj" timestamp="1544135519876">
-        <mark key="[" line="0" column="0" />
+      <file name="/REPL.clj" timestamp="1550967984888">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Downloads/foil/com/richhickey/foil/SWTHelper.java" timestamp="1548788635889">
         <mark key="[" line="18" column="39" />
@@ -88,6 +91,9 @@
         <mark key="^" line="333" column="64" />
         <mark key="." line="333" column="64" />
       </file>
+      <file name="/Dummy.txt" timestamp="1550966266514">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Bound.java" timestamp="1550964646083">
         <mark key="[" line="27" column="41" />
         <mark key="]" line="27" column="41" />
@@ -105,12 +111,10 @@
         <mark key="." line="64" column="40" />
         <mark key="^" line="63" column="57" />
       </file>
-      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" timestamp="1550964724250">
-        <mark key="'" line="21" column="50" />
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="51" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="51" />
+      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" timestamp="1550965861025">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" timestamp="1547941623903">
         <mark key="[" line="64" column="24" />
@@ -161,6 +165,16 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/lens_test.clj" timestamp="1550967997392">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/demos/java_lenses/main/lib/clojure-1.9.0.jar!/clojure/lang/ARef.class" timestamp="1550966350387">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="14" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540594663035">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="60" column="20" />
@@ -193,12 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="169" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="17" column="3" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="176" column="32" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="177" column="8" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
       <jump line="0" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
       <jump line="91" column="65" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
       <jump line="109" column="82" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
@@ -293,10 +301,16 @@
       <jump line="6" column="1" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
       <jump line="10" column="40" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
       <jump line="21" column="50" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
+      <jump line="4" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
+      <jump line="7" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
+      <jump line="6" column="1" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/lens_test.clj" />
+      <jump line="5" column="5" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/lens_test.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nameLens</text>
+        <text encoding="base64">LmFwcGx5IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -342,40 +356,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text encoding="base64">LmFwcGx5IA==</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy55b3UgPSBuZXcgSWRCb3VuZDw+KG1lTGVucywgdGhpcykK</text>
+      <register name="0" type="4">
+        <text>xy_you_name</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>extend IDeref
+  Lens
+  (.deref [this]
+    (.get this))</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBjbG9qdXJlLmxhbmcuSURlcmVmCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="3" type="4">
+        <text>#_
+(defrecord CLJLens [field]
+  Lens
+  (.over [rec fn]
+    (update rec field fn)))</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDEgPj4gMgo=</text>
+        <text encoding="base64">ICAgLm5hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3BlcmF0b3IgZnVuIDxTLFQsQSxCPiBCb3VuZDxTLFQsQSxCPi5jb21wb3NlKCkgVCB7CiAgICByZXR1cm4gdGhpcy5nZXQoKQp9Cgo=</text>
+        <text encoding="base64">TWFpbiRSZWxhdGlvbnNoaXAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">KGNvbS5jb21wYW55LikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3BlcmF0b3IgZnVuIDxULEE+IElkQm91bmQ8VCxBPi5pbnZva2UoKTogVCB7CiAgICByZXR1cm4gdGhpcy5nZXQoKQp9Cgo=</text>
+        <text encoding="base64">KDppbXBvcnQgKGNvbS5jb21wYW55Lm1haW4gTGVucykKICAgICAgICAgICAoY2xvanVyZS5sYW5nIEFSZWYpKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIExlbnMK</text>
+      <register name="8" type="4">
+        <text>(extend-type Lens
+  ARef
+  (deref [^Lens this]
+    (.get this)))</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbS5jb21wYW55Lm1haW4uTGVucwo=</text>
+        <text encoding="base64">CmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -462,6 +489,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
