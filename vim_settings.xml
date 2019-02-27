@@ -32,7 +32,7 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" timestamp="1551140857042">
+      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" timestamp="1551230398181">
         <mark key="'" line="69" column="0" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
@@ -113,12 +113,12 @@
         <mark key="." line="64" column="40" />
         <mark key="^" line="63" column="57" />
       </file>
-      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" timestamp="1551141359122">
+      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" timestamp="1551230516716">
         <mark key="'" line="21" column="27" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="20" column="46" />
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" timestamp="1547941623903">
         <mark key="[" line="64" column="24" />
@@ -312,8 +312,8 @@
       <jump line="20" column="27" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCB6OiBNYWluLlJlbGF0aW9uc2hpcCA9IHh5WW91TmFtZS5zZXQoImZvbyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Joe</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -359,7 +359,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Joe</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
