@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="11" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
       <jump line="52" column="12" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
       <jump line="121" column="8" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
       <jump line="107" column="20" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
@@ -335,6 +334,7 @@
       <jump line="20" column="27" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/demos/mult_module_test/module_i/pom.xml" />
       <jump line="13" column="47" filename="$USER_HOME$/demos/mult_module_test/consumer_module/pom.xml" />
+      <jump line="50" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Appendable.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
