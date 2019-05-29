@@ -89,6 +89,11 @@
         <mark key="." line="16" column="31" />
         <mark key="^" line="16" column="31" />
       </file>
+      <file name="$USER_HOME$/git_repos/cj/main/cjo/member-web/client/src/javascript/components/pageHeaders/AdvertiserMenu.jsx" timestamp="1559172105529">
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+      </file>
       <file name="$USER_HOME$/demos/java_lenses/main/pom.xml" timestamp="1550969212253">
         <mark key="[" line="37" column="21" />
         <mark key="]" line="37" column="26" />
@@ -237,6 +242,11 @@
         <mark key="]" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
+      <file name="$USER_HOME$/git_repos/cj/main/cjo/member-web/client/src/javascript/components/pageHeaders/PublisherHeader.jsx" timestamp="1559172117665">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
+      </file>
       <file name="$USER_HOME$/demos/jenum_match/src/FooEnum.java" timestamp="1547841922480">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="12" />
@@ -347,8 +357,8 @@
       <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>content</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBiYWRnZUNvbnRlbnQ6ICdnbG9iYWwua2V5d29yZC5uZXcnLAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -403,34 +413,34 @@
         <text encoding="base64">ICAgIHByaW50bG4oInJlZiBuYW1lOiAke3BlcnNvblJlZi5nZXQoKS5uYW1lKCl9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWRnZUNvbnRlbnQ6ICdnbG9iYWwua2V5d29yZC5uZXcnLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVzYyBjb250ZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBiYWRnZUNvbnRlbnQ6ICdnbG9iYWwua2V5d29yZC5uZXcnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVwZW4K</text>
+        <text encoding="base64">ICAgICAgICBiYWRnZUNvbnRlbnQ6ICdnbG9iYWwua2V5d29yZC5uZXcnLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmZ3b2FyLm11bHRfbW9kdWxlX3Rlc3Qud2lkZ2V0cwoK</text>
+        <text encoding="base64">ZGVzYyBjb250ZW50Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ZGVwZW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhcmdldAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwYWNrCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvLmZ3b2FyLm11bHRfbW9kdWxlX3Rlc3Qud2lkZ2V0cwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjwvdmVyc2lvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
