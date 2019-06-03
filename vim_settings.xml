@@ -228,12 +228,12 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" timestamp="1559542643714">
-        <mark key="'" line="43" column="40" />
-        <mark key="[" line="43" column="33" />
-        <mark key="]" line="43" column="38" />
-        <mark key="." line="43" column="38" />
-        <mark key="^" line="43" column="38" />
+      <file name="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" timestamp="1559545308191">
+        <mark key="'" line="19" column="37" />
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="45" />
+        <mark key="." line="19" column="45" />
+        <mark key="^" line="19" column="45" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Scratch.java" timestamp="1547936687079">
         <mark key="[" line="52" column="0" />
@@ -269,22 +269,15 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/demos/expression/src/main/java/World.java" timestamp="1559542443098">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/demos/expression/src/main/java/World.java" timestamp="1559545173971">
+        <mark key="'" line="7" column="22" />
+        <mark key="[" line="4" column="60" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="^" line="9" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
       <jump line="10" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
       <jump line="9" column="0" filename="$USER_HOME$/demos/java_lenses/pom.xml" />
       <jump line="79" column="16" filename="$USER_HOME$/demos/java_lenses/src/main/java/com/company/Main.java" />
@@ -376,10 +369,20 @@
       <jump line="25" column="8" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
       <jump line="6" column="0" filename="$USER_HOME$/demos/expression/src/main/java/World.java" />
       <jump line="43" column="40" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="14" column="8" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="15" column="8" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="4" column="22" filename="$USER_HOME$/demos/expression/src/main/java/World.java" />
+      <jump line="19" column="37" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>subject</text>
+        <text>{
+            }</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -425,31 +428,32 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>subject</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFyZzsK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1YmplY3QucmVjZWl2ZSh0aGlzLCBhcmcpOwo=</text>
+      <register name="1" type="4">
+        <text>{
+            }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1YmplY3QucmVjZWl2ZSh0aGlzLCBhcmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9nLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50ZXJmYWNlIFZpc2l0b3IgewogICAgICAgIHB1YmxpYyBTdHJpbmcgdmlzaXQoU3ViamVjdCBzdWJqZWN0LCBTdHJpbmcgYXJnKTsgLyp7Ci8vICAgICAgICAgICAgcmV0dXJuIHN1YmplY3QucmVjZWl2ZSh0aGlzLCBhcmcpOwovLyAgICAgICAgfSovCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIHJlY2VpdmUyKEdyZWV0IHZpc2l0b3IsIFN0cmluZyBhcmcpIHsKICAgICAgICAgICAgcmV0dXJuIHZpc2l0b3IudmlzaXQyKHRoaXMsIGFyZyk7CiAgICAgICAgfQogICAgICAgIHB1YmxpYyBTdHJpbmcgcmVjZWl2ZTIoTGVhdmUgdmlzaXRvciwgU3RyaW5nIGFyZykgewogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlzaXRvci52aXNpdCh0aGlzLCBhcmcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
@@ -458,10 +462,10 @@
         <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFyZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIHZpc2l0MihEb2cgc3ViamVjdCwgU3RyaW5nIGFyZykgewogICAgICAgICAgICByZXR1cm4gc3ViamVjdC5yZWNlaXZlMih0aGlzLCBhcmcpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
