@@ -6,6 +6,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/demos/expression/pom.xml" timestamp="1559542106837">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="29" />
+        <mark key="^" line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
         <mark key="[" line="0" column="20" />
       </file>
@@ -106,6 +112,13 @@
         <mark key="]" line="220" column="12" />
         <mark key="." line="220" column="0" />
         <mark key="^" line="220" column="10" />
+      </file>
+      <file name="$USER_HOME$/demos/expression/src/main/java/Animal.java" timestamp="1559540399300">
+        <mark key="'" line="13" column="1" />
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550534285390">
         <mark key="'" line="251" column="16" />
@@ -215,9 +228,12 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/demos/java_lenses/main/lib/clojure-1.9.0.jar!/clojure/lang/ARef.class" timestamp="1550966350387">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="14" />
+      <file name="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" timestamp="1559542643714">
+        <mark key="'" line="43" column="40" />
+        <mark key="[" line="43" column="33" />
+        <mark key="]" line="43" column="38" />
+        <mark key="." line="43" column="38" />
+        <mark key="^" line="43" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Scratch.java" timestamp="1547936687079">
         <mark key="[" line="52" column="0" />
@@ -253,22 +269,13 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="7" column="14" />
       </file>
+      <file name="$USER_HOME$/demos/expression/src/main/java/World.java" timestamp="1559542443098">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="8" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="107" column="20" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="81" column="20" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="34" column="8" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="45" column="65" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="92" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="98" column="27" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="94" column="62" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="47" column="36" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
       <jump line="39" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
       <jump line="35" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
       <jump line="31" column="0" filename="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" />
@@ -355,10 +362,24 @@
       <jump line="13" column="47" filename="$USER_HOME$/demos/mult_module_test/consumer_module/pom.xml" />
       <jump line="50" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Appendable.java" />
       <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console.sql" />
+      <jump line="0" column="8" filename="$USER_HOME$/demos/expression/src/main/java/Animal.java" />
+      <jump line="8" column="1" filename="$USER_HOME$/demos/expression/src/main/java/Animal.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="2" column="8" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="35" column="8" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="58" column="41" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="59" column="49" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="25" column="8" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/demos/expression/src/main/java/World.java" />
+      <jump line="43" column="40" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiYWRnZUNvbnRlbnQ6ICdnbG9iYWwua2V5d29yZC5uZXcnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>subject</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -404,43 +425,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>content</text>
+        <text>subject</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInJlZiBuYW1lOiAke3BlcnNvblJlZi5nZXQoKS5uYW1lKCl9IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFyZzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWRnZUNvbnRlbnQ6ICdnbG9iYWwua2V5d29yZC5uZXcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1YmplY3QucmVjZWl2ZSh0aGlzLCBhcmcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYWRnZUNvbnRlbnQ6ICdnbG9iYWwua2V5d29yZC5uZXcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1YmplY3QucmVjZWl2ZSh0aGlzLCBhcmcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYWRnZUNvbnRlbnQ6ICdnbG9iYWwua2V5d29yZC5uZXcnLAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgaW50ZXJmYWNlIFZpc2l0b3IgewogICAgICAgIHB1YmxpYyBTdHJpbmcgdmlzaXQoU3ViamVjdCBzdWJqZWN0LCBTdHJpbmcgYXJnKTsgLyp7Ci8vICAgICAgICAgICAgcmV0dXJuIHN1YmplY3QucmVjZWl2ZSh0aGlzLCBhcmcpOwovLyAgICAgICAgfSovCiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVzYyBjb250ZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVwZW4K</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvLmZ3b2FyLm11bHRfbW9kdWxlX3Rlc3Qud2lkZ2V0cwoK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
