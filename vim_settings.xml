@@ -6,8 +6,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/demos/expression/pom.xml" timestamp="1559547352073">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="18" column="21" />
+      </file>
+      <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
+        <mark key="[" line="0" column="20" />
+      </file>
       <file name="/a.dummy" timestamp="1550714022572">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/demos/expression/src/main/java/VariantWorld2.kt" timestamp="1560446376484">
+        <mark key="'" line="17" column="67" />
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+        <mark key="^" line="13" column="48" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/LensifyProcessor.java" timestamp="1550738706529">
         <mark key="'" line="33" column="20" />
@@ -21,6 +37,13 @@
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" timestamp="1550624661965">
+        <mark key="'" line="19" column="75" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" timestamp="1551230398181">
         <mark key="'" line="73" column="0" />
@@ -39,6 +62,9 @@
       <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lensify.java" timestamp="1550733292439">
         <mark key="[" line="11" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1559170659261">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.scala" timestamp="1550181034206">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,107 +73,6 @@
         <mark key="]" line="18" column="45" />
         <mark key="." line="18" column="45" />
         <mark key="^" line="18" column="45" />
-      </file>
-      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" timestamp="1550731279408">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="11" column="34" />
-        <mark key="^" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-      </file>
-      <file name="$USER_HOME$/demos/mult_module_test/consumer_module/pom.xml" timestamp="1555556886536">
-        <mark key="'" line="13" column="47" />
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="31" />
-        <mark key="." line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-      </file>
-      <file name="$USER_HOME$/demos/expression/src/main/java/Animal.java" timestamp="1559540399300">
-        <mark key="'" line="13" column="1" />
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="3" column="6" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550534285390">
-        <mark key="'" line="251" column="16" />
-        <mark key="[" line="319" column="0" />
-        <mark key="]" line="356" column="8" />
-        <mark key="^" line="333" column="64" />
-        <mark key="." line="333" column="64" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/34f68fba-86ba-408c-a024-e341ec1882c8/console.sql" timestamp="1550605309737">
-        <mark key="[" line="0" column="67" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="38" />
-      </file>
-      <file name="$USER_HOME$/demos/mult_module_test/pom.xml" timestamp="1555556692121">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" timestamp="1551140894996">
-        <mark key="'" line="14" column="25" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/demos/java_lenses/pom.xml" timestamp="1550735101938">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
-        <mark key="^" line="37" column="19" />
-        <mark key="." line="16" column="8" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540594663035">
-        <mark key="[" line="60" column="20" />
-        <mark key="]" line="60" column="20" />
-        <mark key="^" line="60" column="34" />
-        <mark key="." line="60" column="20" />
-      </file>
-      <file name="$USER_HOME$/demos/java_lenses/src/main/java/com/company/Main.java" timestamp="1550734401418">
-        <mark key="'" line="79" column="16" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" timestamp="1550733251960">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
-        <mark key="^" line="10" column="32" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/cjo/member-web/client/src/javascript/components/pageHeaders/PublisherHeader.jsx" timestamp="1559172117665">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-      </file>
-      <file name="$USER_HOME$/demos/expression/pom.xml" timestamp="1559547352073">
-        <mark key="[" line="11" column="28" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="18" column="21" />
-      </file>
-      <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
-        <mark key="[" line="0" column="20" />
-      </file>
-      <file name="$USER_HOME$/demos/expression/src/main/java/VariantWorld2.kt" timestamp="1559547447528">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="17" column="15" />
-        <mark key="^" line="60" column="13" />
-        <mark key="." line="17" column="15" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/com/cj/pixelparameters/ParameterNormalizerTest.scala" timestamp="1550624661965">
-        <mark key="'" line="19" column="75" />
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
-      </file>
-      <file name="/a.sql" timestamp="1559170659261">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/pom.xml" timestamp="1550258623922">
         <mark key="'" line="41" column="0" />
@@ -163,6 +88,20 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
       </file>
+      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" timestamp="1550731279408">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/demos/mult_module_test/consumer_module/pom.xml" timestamp="1555556886536">
+        <mark key="'" line="13" column="47" />
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+      </file>
       <file name="$USER_HOME$/git_repos/cj/main/cjo/member-web/client/src/javascript/components/pageHeaders/AdvertiserMenu.jsx" timestamp="1559172105529">
         <mark key="[" line="203" column="0" />
         <mark key="]" line="203" column="0" />
@@ -174,12 +113,26 @@
         <mark key="." line="37" column="26" />
         <mark key="^" line="37" column="26" />
       </file>
+      <file name="$USER_HOME$/demos/expression/src/main/java/Animal.java" timestamp="1559540399300">
+        <mark key="'" line="13" column="1" />
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/resources/parameter-mapping-spec.yaml" timestamp="1550257862564">
         <mark key="'" line="224" column="0" />
         <mark key="[" line="220" column="0" />
         <mark key="]" line="220" column="12" />
         <mark key="." line="220" column="0" />
         <mark key="^" line="220" column="10" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550534285390">
+        <mark key="'" line="251" column="16" />
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="356" column="8" />
+        <mark key="^" line="333" column="64" />
+        <mark key="." line="333" column="64" />
       </file>
       <file name="/Dummy.txt" timestamp="1559170659269">
         <mark key="[" line="0" column="0" />
@@ -215,6 +168,17 @@
         <mark key="." line="22" column="34" />
         <mark key="^" line="22" column="34" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/34f68fba-86ba-408c-a024-e341ec1882c8/console.sql" timestamp="1550605309737">
+        <mark key="[" line="0" column="67" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/demos/mult_module_test/pom.xml" timestamp="1555556692121">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" timestamp="1547941623903">
         <mark key="[" line="64" column="24" />
         <mark key="]" line="64" column="24" />
@@ -228,6 +192,12 @@
         <mark key="^" line="0" column="54" />
         <mark key="." line="0" column="54" />
       </file>
+      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" timestamp="1551140894996">
+        <mark key="'" line="14" column="25" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/Lensify.java" timestamp="1550737502000">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="33" />
@@ -240,27 +210,58 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="26" />
       </file>
+      <file name="$USER_HOME$/demos/java_lenses/pom.xml" timestamp="1550735101938">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="37" column="19" />
+        <mark key="." line="16" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/946ec73a-9e55-4b84-a2c8-fabe82fb8fd1/console.sql" timestamp="1540594663035">
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="34" />
+        <mark key="." line="60" column="20" />
+      </file>
+      <file name="$USER_HOME$/demos/java_lenses/src/main/java/com/company/Main.java" timestamp="1550734401418">
+        <mark key="'" line="79" column="16" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/lens_test.clj" timestamp="1550967997392">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="26" />
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" timestamp="1559548811932">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" timestamp="1560446060960">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Scratch.java" timestamp="1547936687079">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="16" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" timestamp="1550733251960">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+      </file>
       <file name="$USER_HOME$/demos/java_lenses/src/com/company/LensifyProcessor.java" timestamp="1550733712657">
         <mark key="[" line="14" column="48" />
         <mark key="]" line="15" column="27" />
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/main/cjo/member-web/client/src/javascript/components/pageHeaders/PublisherHeader.jsx" timestamp="1559172117665">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1550734798772">
         <mark key="[" line="0" column="0" />
@@ -273,7 +274,7 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/demos/expression/src/main/java/World.java" timestamp="1559547030612">
+      <file name="$USER_HOME$/demos/expression/src/main/java/World.java" timestamp="1560445923828">
         <mark key="'" line="4" column="22" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -282,9 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="27" filename="$USER_HOME$/demos/java_lenses/main/pom.xml" />
-      <jump line="14" column="9" filename="$USER_HOME$/demos/java_lenses/lensify_processor/pom.xml" />
-      <jump line="36" column="19" filename="$USER_HOME$/demos/java_lenses/lensify_processor/pom.xml" />
       <jump line="13" column="57" filename="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/LensifyProcessor.java" />
       <jump line="32" column="54" filename="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/LensifyProcessor.java" />
       <jump line="33" column="50" filename="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/LensifyProcessor.java" />
@@ -371,7 +369,6 @@
       <jump line="66" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
       <jump line="62" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
       <jump line="14" column="8" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
-      <jump line="15" column="8" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
       <jump line="4" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
       <jump line="7" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
       <jump line="4" column="22" filename="$USER_HOME$/demos/expression/src/main/java/World.java" />
@@ -382,10 +379,14 @@
       <jump line="89" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
       <jump line="3" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
       <jump line="74" column="8" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="13" column="67" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld2.kt" />
+      <jump line="15" column="8" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIDxUIGV4dGVuZHMgV29ybGQuU3ViamVjdD4gU3RyaW5nIHZpc2l0MihUIHN1YmplY3QsIFN0cmluZyBhcmcpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -431,43 +432,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>visitor.visit(this, arg);</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1biBXb3JsZC5TdWJqZWN0LnJlY2VpdmUodmlzaXRvcjogR3JlZXQsIGFyZzogU3RyaW5nKTogU3RyaW5nIHsKICAgICAgICByZXR1cm4gdmlzaXRvci52aXNpdCh0aGlzLCBhcmcpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgUnVudGltZUV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIDxUIGV4dGVuZHMgV29ybGQuU3ViamVjdD4gU3RyaW5nIHZpc2l0MihUIHN1YmplY3QsIFN0cmluZyBhcmcpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIDxUIGV4dGVuZHMgV29ybGQuU3ViamVjdD4gU3RyaW5nIHZpc2l0MihUIGRvZywgU3RyaW5nIGFyZykgewogICAgICAgICAgICByZXR1cm4gVC5yZWNlaXZlMih0aGlzLCBkb2csIGFyZyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIFN0cmluZyByZWNlaXZlKFdvcmxkLlZpc2l0b3IgdmlzaXRvciwgU3RyaW5nIGFyZykgewogICAgICAgICAgICByZXR1cm4gdmlzaXRvci52aXNpdCh0aGlzLCBhcmcpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gcmVjZWl2ZSh2aXNpdG9yOiBXb3JsZC5WaXNpdG9yLCBhcmc6IFN0cmluZyk6IFN0cmluZyB7CiAgICAgICAgICAgIHJldHVybiB2aXNpdG9yLnZpc2l0KHRoaXMsIGFyZykKICAgICAgICB9CgoK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIHJlY2VpdmUoV29ybGQuVmlzaXRvciB2aXNpdG9yLCBTdHJpbmcgYXJnKSB7CiAgICAgICAgICAgIHJldHVybiB2aXNpdG9yLnZpc2l0Mih0aGlzLCBhcmcpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gcmVjZWl2ZSh2aXNpdG9yOiBXb3JsZC5WaXNpdG9yLCBhcmc6IFN0cmluZyk6IFN0cmluZyB7CiAgICAgICAgICAgIHJldHVybiB2aXNpdG9yLnZpc2l0KHRoaXMsIGFyZykKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyB2aXNpdChXb3JsZC5TdWJqZWN0IHN1YmplY3QsIFN0cmluZyBhcmcpIHsKICAgICAgICAgICAgcmV0dXJuIHN1YmplY3QucmVjZWl2ZSh0aGlzLCBhcmcpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVycmlkZSBmdW4gdmlzaXQoc3ViamVjdDogV29ybGQuU3ViamVjdCwgYXJnOiBTdHJpbmcpOiBTdHJpbmcgewogICAgICAgICAgICByZXR1cm4gc3ViamVjdC5yZWNlaXZlKHRoaXMsIGFyZykKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgb3ZlcnJpZGUgZnVuIHJlY2VpdmUodmlzaXRvcjogV29ybGQuVmlzaXRvciwgYXJnOiBTdHJpbmcpOiBTdHJpbmcgewogICAgICAgICAgICByZXR1cm4gdmlzaXRvci52aXNpdCh0aGlzLCBhcmcpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN1YmplY3QucmVjZWl2ZSh0aGlzLCBhcmcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIDxUIGV4dGVuZHMgV29ybGQuU3ViamVjdD4gU3RyaW5nIHZpc2l0MihUIHN1YmplY3QsIFN0cmluZyBhcmcpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJOb3QgSW1wbGVtZW50ZWQhIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
