@@ -87,12 +87,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" timestamp="1551140894996">
-        <mark key="'" line="14" column="25" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/demos/java_lenses/pom.xml" timestamp="1550735101938">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="16" column="8" />
@@ -105,12 +99,6 @@
         <mark key="]" line="60" column="20" />
         <mark key="^" line="60" column="34" />
         <mark key="." line="60" column="20" />
-      </file>
-      <file name="$USER_HOME$/demos/java_lenses/src/main/java/com/company/Main.java" timestamp="1550734401418">
-        <mark key="'" line="79" column="16" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" timestamp="1550733251960">
         <mark key="'" line="10" column="0" />
@@ -145,7 +133,7 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="/a.sql" timestamp="1559170659261">
+      <file name="/a.sql" timestamp="1567638617973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/pom.xml" timestamp="1550258623922">
@@ -173,6 +161,12 @@
         <mark key="." line="37" column="26" />
         <mark key="^" line="37" column="26" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4e05cd8-b981-42d0-9602-ebcec3e47c5e/console_1.sql" timestamp="1567638789052">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+      </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/resources/parameter-mapping-spec.yaml" timestamp="1550257862564">
         <mark key="'" line="224" column="0" />
         <mark key="[" line="220" column="0" />
@@ -180,9 +174,10 @@
         <mark key="." line="220" column="0" />
         <mark key="^" line="220" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559170659269">
+      <file name="/Dummy.txt" timestamp="1567638617980">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git_repos/cj/main/data/etl/src/main/java/com/cj/datawarehouse/etl/SkuUtil.java" timestamp="1567639204814" />
       <file name="$USER_HOME$/demos/mult_module_test/consumer_module/src/main/java/co/fwoar/mult_module_test/main/Main.java" timestamp="1555556900183">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="59" />
@@ -252,6 +247,9 @@
         <mark key="]" line="22" column="26" />
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4e05cd8-b981-42d0-9602-ebcec3e47c5e/console.sql" timestamp="1567638621736">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/lens_test.clj" timestamp="1550967997392">
         <mark key="[" line="7" column="26" />
