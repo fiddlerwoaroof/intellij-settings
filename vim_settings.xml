@@ -168,11 +168,11 @@
         <mark key="." line="37" column="26" />
         <mark key="^" line="37" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4e05cd8-b981-42d0-9602-ebcec3e47c5e/console_1.sql" timestamp="1567702850829">
-        <mark key="[" line="0" column="75" />
-        <mark key="]" line="0" column="75" />
-        <mark key="^" line="0" column="73" />
-        <mark key="." line="0" column="75" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4e05cd8-b981-42d0-9602-ebcec3e47c5e/console_1.sql" timestamp="1567704264712">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="57" />
+        <mark key="^" line="3" column="105" />
+        <mark key="." line="3" column="57" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/resources/parameter-mapping-spec.yaml" timestamp="1550257862564">
         <mark key="'" line="224" column="0" />
@@ -404,7 +404,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>���������������������������������������</text>
+        <text>item_name like '%?%' and expiration_date is null;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -450,7 +450,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>���������������������������������������</text>
+        <text>item_name like '%?%' and expiration_date is null;</text>
       </register>
       <register name="/" type="4">
         <text>source</text>
