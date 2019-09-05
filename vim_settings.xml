@@ -100,11 +100,11 @@
         <mark key="^" line="60" column="34" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console_1.sql" timestamp="1567644754211">
-        <mark key="[" line="0" column="63" />
-        <mark key="]" line="0" column="63" />
-        <mark key="." line="0" column="63" />
-        <mark key="^" line="0" column="62" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console_1.sql" timestamp="1567711718365">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+        <mark key="^" line="0" column="44" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" timestamp="1550733251960">
         <mark key="'" line="10" column="0" />
@@ -168,11 +168,11 @@
         <mark key="." line="37" column="26" />
         <mark key="^" line="37" column="26" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4e05cd8-b981-42d0-9602-ebcec3e47c5e/console_1.sql" timestamp="1567704264712">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="3" column="57" />
-        <mark key="^" line="3" column="105" />
-        <mark key="." line="3" column="57" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4e05cd8-b981-42d0-9602-ebcec3e47c5e/console_1.sql" timestamp="1567711605587">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/resources/parameter-mapping-spec.yaml" timestamp="1550257862564">
         <mark key="'" line="224" column="0" />
@@ -403,8 +403,8 @@
       <jump line="32" column="32" filename="$USER_HOME$/ratis-test/java/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>item_name like '%?%' and expiration_date is null;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -459,34 +459,34 @@
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+TEFURVNUPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNsYXNzaWZpZXI+c291cmNlPC9jbGFzc2lmaWVyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUucmF0aXMuZ3JwYy5HcnBjQ29uZmlnS2V5czsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzaXR1YQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxidWlsZC5wbHVnaW5zPgogICAgPC9idWlsZC5wbHVnaW5zPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNsYXNzaWZpZXI+c291cmNlPC9jbGFzc2lmaWVyPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cGwK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUucmF0aXMuZ3JwYy5HcnBjQ29uZmlnS2V5czsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxidWlsZD4KICAgIDwvYnVpbGQ+Cgo=</text>
+        <text encoding="base64">ICAgIDxidWlsZC5wbHVnaW5zPgogICAgPC9idWlsZC5wbHVnaW5zPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxidWlsZD4KICAgIDwvYnVpbGQ+Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuZ3JhdGlzLngK</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
