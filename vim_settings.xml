@@ -100,8 +100,11 @@
         <mark key="^" line="60" column="34" />
         <mark key="." line="60" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console_1.sql" timestamp="1567642898090">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console_1.sql" timestamp="1567644754211">
+        <mark key="[" line="0" column="63" />
+        <mark key="]" line="0" column="63" />
+        <mark key="." line="0" column="63" />
+        <mark key="^" line="0" column="62" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/src/com/company/Main.java" timestamp="1550733251960">
         <mark key="'" line="10" column="0" />
@@ -401,7 +404,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>�����������������������������������;</text>
+        <text>���������������������������������������</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -447,7 +450,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>�����������������������������������;</text>
+        <text>���������������������������������������</text>
       </register>
       <register name="/" type="4">
         <text>source</text>
