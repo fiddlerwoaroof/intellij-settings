@@ -184,7 +184,13 @@
       <file name="/Dummy.txt" timestamp="1567638617980">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/etl/src/main/java/com/cj/datawarehouse/etl/SkuUtil.java" timestamp="1567639204814" />
+      <file name="$USER_HOME$/git_repos/cj/main/data/etl/src/main/java/com/cj/datawarehouse/etl/SkuUtil.java" timestamp="1567795854774">
+        <mark key="'" line="38" column="32" />
+        <mark key="[" line="283" column="13" />
+        <mark key="]" line="283" column="13" />
+        <mark key="." line="283" column="13" />
+        <mark key="^" line="284" column="45" />
+      </file>
       <file name="$USER_HOME$/demos/mult_module_test/consumer_module/src/main/java/co/fwoar/mult_module_test/main/Main.java" timestamp="1555556900183">
         <mark key="[" line="6" column="51" />
         <mark key="]" line="6" column="59" />
@@ -301,7 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
       <jump line="74" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
       <jump line="69" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
       <jump line="65" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
@@ -401,10 +406,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/ratis-test/java/src/main/java/Main.java" />
       <jump line="38" column="0" filename="$USER_HOME$/ratis-test/java/pom.xml" />
       <jump line="32" column="32" filename="$USER_HOME$/ratis-test/java/pom.xml" />
+      <jump line="38" column="32" filename="$USER_HOME$/git_repos/cj/main/data/etl/src/main/java/com/cj/datawarehouse/etl/SkuUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aXRlbV9uYW1lIA==</text>
+        <text>dim_sku.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -450,60 +456,73 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXRlbV9uYW1lIA==</text>
+        <text>dim_sku.</text>
       </register>
       <register name="/" type="4">
-        <text>source</text>
+        <text encoding="base64">XDxESU1fU0tVX1RBQkxFXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+TEFURVNUPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBESU1fU0tVIHdoZXJlIGFkdmVydGlzZXJfY2lkID0gNDk1NjE1MiBhbmQgaXRlbV9uYW1lIGxpa2UgJyU/JScgYW5kIGV4cGlyYXRpb25fZGF0ZSBpcyBudWxsOwoKc2VsZWN0ICogZnJvbSBESU1fU0tVIHdoZXJlIGFkdmVydGlzZXJfY2lkID0gNDk1NjE1MiBhbmQgc2t1ID0gMzM0NjI3NjAwOwo=</text>
+      <register name="1" type="8">
+        <text>e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBESU1fU0tVIHdoZXJlIGFkdmVydGlzZXJfY2lkID0gNDk1NjE1MiBhbmQgaXRlbV9uYW1lIGxpa2UgJyU/JScgYW5kIGV4cGlyYXRpb25fZGF0ZSBpcyBudWxsOwoKc2VsZWN0ICogZnJvbSBESU1fU0tVIHdoZXJlIGFkdmVydGlzZXJfY2lkID0gNDk1NjE1MiBhbmQgc2t1ID0gMzM0NjI3NjAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBzaXR1YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNsYXNzaWZpZXI+c291cmNlPC9jbGFzc2lmaWVyPgo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBzaXR1YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUucmF0aXMuZ3JwYy5HcnBjQ29uZmlnS2V5czsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNsYXNzaWZpZXI+c291cmNlPC9jbGFzc2lmaWVyPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxidWlsZC5wbHVnaW5zPgogICAgPC9idWlsZC5wbHVnaW5zPgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUucmF0aXMuZ3JwYy5HcnBjQ29uZmlnS2V5czsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cGwK</text>
+        <text encoding="base64">ICAgIDxidWlsZC5wbHVnaW5zPgogICAgPC9idWlsZC5wbHVnaW5zPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxidWlsZD4KICAgIDwvYnVpbGQ+Cgo=</text>
+        <text encoding="base64">ICAgICAgICA8cGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgIDxidWlsZD4KICAgIDwvYnVpbGQ+Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>source</last-search>
+      <last-search encoding="base64">XDxESU1fU0tVX1RBQkxFXD4=</last-search>
       <last-offset />
-      <last-pattern>source</last-pattern>
+      <last-pattern encoding="base64">XDxESU1fU0tVX1RBQkxFXD4=</last-pattern>
       <last-replace>status</last-replace>
       <last-substitute>name</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>apply</entry>
         <entry encoding="base64">XDxhcHBseVw+</entry>
         <entry>state</entry>
         <entry>Integer</entry>
@@ -523,6 +542,7 @@
         <entry>Foo</entry>
         <entry>name</entry>
         <entry>source</entry>
+        <entry encoding="base64">XDxESU1fU0tVX1RBQkxFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
@@ -579,6 +599,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
