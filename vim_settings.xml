@@ -184,11 +184,11 @@
       <file name="/Dummy.txt" timestamp="1567638617980">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/etl/src/main/java/com/cj/datawarehouse/etl/SkuUtil.java" timestamp="1567795854774">
+      <file name="$USER_HOME$/git_repos/cj/main/data/etl/src/main/java/com/cj/datawarehouse/etl/SkuUtil.java" timestamp="1567802082198">
         <mark key="'" line="38" column="32" />
-        <mark key="[" line="283" column="13" />
-        <mark key="]" line="283" column="13" />
-        <mark key="." line="283" column="13" />
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="8" />
+        <mark key="." line="266" column="8" />
         <mark key="^" line="284" column="45" />
       </file>
       <file name="$USER_HOME$/demos/mult_module_test/consumer_module/src/main/java/co/fwoar/mult_module_test/main/Main.java" timestamp="1555556900183">
