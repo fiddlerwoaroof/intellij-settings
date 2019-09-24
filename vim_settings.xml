@@ -118,7 +118,6 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/product/product-web/src/main/scala/cj/product/web/config/ConfigurableImplementationsV2.scala" timestamp="1567641113800" />
       <file name="$USER_HOME$/demos/expression/pom.xml" timestamp="1559547352073">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="29" />
@@ -235,13 +234,12 @@
         <mark key="^" line="64" column="29" />
         <mark key="." line="64" column="24" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/etl/src/main/java/com/cj/datawarehouse/etl/SkuProcessor.java" timestamp="1567639828366" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console.sql" timestamp="1559174233085">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console.sql" timestamp="1569358321630">
         <mark key="'" line="0" column="23" />
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="54" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="54" />
-        <mark key="." line="0" column="54" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ratis-test/java/pom.xml" timestamp="1564853488098">
         <mark key="'" line="32" column="32" />
@@ -409,8 +407,8 @@
       <jump line="38" column="32" filename="$USER_HOME$/git_repos/cj/main/data/etl/src/main/java/com/cj/datawarehouse/etl/SkuUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dim_sku.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBDT05URU5UX1BST1BFUlRJRVMgd2hlcmUgQ09OVEVOVF9LRVkgPSAncHViLmFjY291bnRzLnB1Yi5sb2dpbi5wbGF0Zm9ybS5DSk8nOwo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -464,7 +462,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+TEFURVNUPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBDT05URU5UX1BST1BFUlRJRVMgd2hlcmUgQ09OVEVOVF9LRVkgPSAncHViLmFjY291bnRzLnB1Yi5sb2dpbi5wbGF0Zm9ybS5DSk8nOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
         <text>e
 e
 e
@@ -481,32 +485,26 @@ e
 e
 e</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBESU1fU0tVIHdoZXJlIGFkdmVydGlzZXJfY2lkID0gNDk1NjE1MiBhbmQgaXRlbV9uYW1lIGxpa2UgJyU/JScgYW5kIGV4cGlyYXRpb25fZGF0ZSBpcyBudWxsOwoKc2VsZWN0ICogZnJvbSBESU1fU0tVIHdoZXJlIGFkdmVydGlzZXJfY2lkID0gNDk1NjE1MiBhbmQgc2t1ID0gMzM0NjI3NjAwOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBzaXR1YQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGNsYXNzaWZpZXI+c291cmNlPC9jbGFzc2lmaWVyPgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUucmF0aXMuZ3JwYy5HcnBjQ29uZmlnS2V5czsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIDxidWlsZC5wbHVnaW5zPgogICAgPC9idWlsZC5wbHVnaW5zPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8cGwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxidWlsZD4KICAgIDwvYnVpbGQ+Cgo=</text>
+        <text encoding="base64">ICAgICAgICA8cGwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
