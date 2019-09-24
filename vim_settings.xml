@@ -234,12 +234,12 @@
         <mark key="^" line="64" column="29" />
         <mark key="." line="64" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console.sql" timestamp="1569358321630">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console.sql" timestamp="1569361265389">
         <mark key="'" line="0" column="23" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
         <mark key="^" line="0" column="54" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="1" column="7" />
       </file>
       <file name="$USER_HOME$/ratis-test/java/pom.xml" timestamp="1564853488098">
         <mark key="'" line="32" column="32" />
@@ -407,8 +407,8 @@
       <jump line="38" column="32" filename="$USER_HOME$/git_repos/cj/main/data/etl/src/main/java/com/cj/datawarehouse/etl/SkuUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBDT05URU5UX1BST1BFUlRJRVMgd2hlcmUgQ09OVEVOVF9LRVkgPSAncHViLmFjY291bnRzLnB1Yi5sb2dpbi5wbGF0Zm9ybS5DSk8nOwo=</text>
+      <register name="&quot;" type="4">
+        <text>sit_situation_sit_cons_id</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -454,7 +454,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dim_sku.</text>
+        <text>sit_situation_sit_cons_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxESU1fU0tVX1RBQkxFXD4=</text>
