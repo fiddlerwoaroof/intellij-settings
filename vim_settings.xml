@@ -118,6 +118,12 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/audit/gitlab/GitlabV3Authenticator.scala" timestamp="1569531880624">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="97" />
+        <mark key="^" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+      </file>
       <file name="$USER_HOME$/demos/expression/pom.xml" timestamp="1559547352073">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="29" />
@@ -126,6 +132,12 @@
       </file>
       <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
         <mark key="[" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/audit/gitlab/GitlabAuthenticator.scala" timestamp="1569531860327">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/demos/expression/src/main/java/VariantWorld2.kt" timestamp="1560462130138">
         <mark key="[" line="63" column="0" />
@@ -139,6 +151,7 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/console/src/main/scala/com/cj/audit/console/ConfigurationWiring.scala" timestamp="1569531718088" />
       <file name="/a.sql" timestamp="1567638617973">
         <mark key="[" line="0" column="0" />
       </file>
@@ -408,7 +421,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sit_situation_sit_cons_id</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRsYWIuY2ouY29tL2FwaS92My9zZXNzaW9uP2xvZ2luPSRlbmNvZGVkVXNlciZwYXNzd29yZD0kZW5jb2RlZFBhc3N3b3Jk</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -459,8 +472,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxESU1fU0tVX1RBQkxFXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+TEFURVNUPC92ZXJzaW9uPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">aHR0cHM6Ly9naXRsYWIuY2ouY29tL2FwaS92My9zZXNzaW9uP2xvZ2luPSRlbmNvZGVkVXNlciZwYXNzd29yZD0kZW5jb2RlZFBhc3N3b3Jk</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBDT05URU5UX1BST1BFUlRJRVMgd2hlcmUgQ09OVEVOVF9LRVkgPSAncHViLmFjY291bnRzLnB1Yi5sb2dpbi5wbGF0Zm9ybS5DSk8nOwo=</text>
