@@ -118,7 +118,7 @@
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/audit/gitlab/GitlabV3Authenticator.scala" timestamp="1569531880624">
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/audit/gitlab/GitlabV3Authenticator.scala" timestamp="1569533838500">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="97" />
         <mark key="^" line="27" column="1" />
@@ -151,7 +151,9 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/console/src/main/scala/com/cj/audit/console/ConfigurationWiring.scala" timestamp="1569531718088" />
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/console/src/main/scala/com/cj/audit/console/ConfigurationWiring.scala" timestamp="1569533876389">
+        <mark key="'" line="33" column="6" />
+      </file>
       <file name="/a.sql" timestamp="1567638617973">
         <mark key="[" line="0" column="0" />
       </file>
@@ -216,6 +218,7 @@
         <mark key="^" line="43" column="19" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/web/LoginResource.scala" timestamp="1569533918789" />
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ValidateCustomParameters.java" timestamp="1549911084096">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -318,7 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
       <jump line="69" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
       <jump line="65" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
       <jump line="61" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
@@ -418,6 +420,7 @@
       <jump line="38" column="0" filename="$USER_HOME$/ratis-test/java/pom.xml" />
       <jump line="32" column="32" filename="$USER_HOME$/ratis-test/java/pom.xml" />
       <jump line="38" column="32" filename="$USER_HOME$/git_repos/cj/main/data/etl/src/main/java/com/cj/datawarehouse/etl/SkuUtil.java" />
+      <jump line="33" column="6" filename="$USER_HOME$/git_repos/cj/audit-automation/service/console/src/main/scala/com/cj/audit/console/ConfigurationWiring.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -470,7 +473,7 @@
         <text>sit_situation_sit_cons_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxESU1fU0tVX1RBQkxFXD4=</text>
+        <text encoding="base64">XDxhdXRoZW50aWNhdG9yXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aHR0cHM6Ly9naXRsYWIuY2ouY29tL2FwaS92My9zZXNzaW9uP2xvZ2luPSRlbmNvZGVkVXNlciZwYXNzd29yZD0kZW5jb2RlZFBhc3N3b3Jk</text>
@@ -524,9 +527,9 @@ e</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxESU1fU0tVX1RBQkxFXD4=</last-search>
+      <last-search encoding="base64">XDxhdXRoZW50aWNhdG9yXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxESU1fU0tVX1RBQkxFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoZW50aWNhdG9yXD4=</last-pattern>
       <last-replace>status</last-replace>
       <last-substitute>name</last-substitute>
       <last-dir>1</last-dir>
@@ -534,7 +537,6 @@ e</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBseVw+</entry>
         <entry>state</entry>
         <entry>Integer</entry>
         <entry encoding="base64">XDxOb3JtYWxpemVyUnVsZVw+</entry>
@@ -554,6 +556,7 @@ e</text>
         <entry>name</entry>
         <entry>source</entry>
         <entry encoding="base64">XDxESU1fU0tVX1RBQkxFXD4=</entry>
+        <entry encoding="base64">XDxhdXRoZW50aWNhdG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action :cursive.actions.paredit/wrap-paren</entry>
