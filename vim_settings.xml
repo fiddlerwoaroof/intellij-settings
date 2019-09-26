@@ -12,6 +12,12 @@
         <mark key="^" line="26" column="52" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabAuthenticatorTest.scala" timestamp="1569539410177">
+        <mark key="[" line="64" column="88" />
+        <mark key="]" line="26" column="91" />
+        <mark key="^" line="26" column="91" />
+        <mark key="." line="64" column="91" />
+      </file>
       <file name="/a.dummy" timestamp="1550714022572">
         <mark key="[" line="0" column="0" />
       </file>
@@ -44,6 +50,12 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitResourceTest.scala" timestamp="1569540245561">
+        <mark key="[" line="48" column="98" />
+        <mark key="]" line="48" column="114" />
+        <mark key="^" line="48" column="114" />
+        <mark key="." line="48" column="114" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lensify.java" timestamp="1550733292439">
         <mark key="[" line="11" column="0" />
@@ -84,11 +96,6 @@
         <mark key="." line="1" column="10" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/gitlab/DefaultGitlabApi.scala" timestamp="1569535376748">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="6" />
-        <mark key="." line="12" column="6" />
-      </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/CustomPixelParameters.java" timestamp="1550534285390">
         <mark key="'" line="251" column="16" />
         <mark key="[" line="319" column="0" />
@@ -107,11 +114,6 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/demos/mult_module_test/pom.xml" timestamp="1555556692121">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/demos/java_lenses/pom.xml" timestamp="1550735101938">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="16" column="8" />
@@ -124,6 +126,12 @@
         <mark key="]" line="60" column="20" />
         <mark key="^" line="60" column="34" />
         <mark key="." line="60" column="20" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/DeployableTest.scala" timestamp="1569540700666">
+        <mark key="[" line="225" column="42" />
+        <mark key="]" line="22" column="44" />
+        <mark key="^" line="22" column="44" />
+        <mark key="." line="225" column="45" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console_1.sql" timestamp="1567711718365">
         <mark key="[" line="0" column="45" />
@@ -138,11 +146,6 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/cjo/member-web/client/src/javascript/components/pageHeaders/PublisherHeader.jsx" timestamp="1559172117665">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-      </file>
       <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/audit/gitlab/GitlabV3Authenticator.scala" timestamp="1569537082475">
         <mark key="[" line="10" column="24" />
         <mark key="]" line="10" column="12" />
@@ -156,11 +159,6 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/audit/Repository.scala" timestamp="1569535617077">
-        <mark key="[" line="2" column="52" />
-        <mark key="]" line="2" column="66" />
-        <mark key="." line="2" column="52" />
-      </file>
       <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
         <mark key="[" line="0" column="20" />
       </file>
@@ -169,11 +167,6 @@
         <mark key="]" line="16" column="28" />
         <mark key="^" line="16" column="28" />
         <mark key="." line="16" column="28" />
-      </file>
-      <file name="$USER_HOME$/demos/expression/src/main/java/VariantWorld2.kt" timestamp="1560462130138">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/audit-automation/service/config.json" timestamp="1569534381989">
         <mark key="[" line="3" column="18" />
@@ -188,15 +181,33 @@
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/console/src/main/scala/com/cj/audit/console/ConfigurationWiring.scala" timestamp="1569536428206">
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/gitlab/GitlabApiTest.scala" timestamp="1569540405480">
+        <mark key="'" line="156" column="118" />
+        <mark key="[" line="156" column="115" />
+        <mark key="]" line="15" column="84" />
+        <mark key="." line="156" column="118" />
+        <mark key="^" line="15" column="84" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/StandardAnonymousCommitsTest.scala" timestamp="1569540707144">
+        <mark key="[" line="35" column="58" />
+        <mark key="." line="35" column="61" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/console/src/main/scala/com/cj/audit/console/ConfigurationWiring.scala" timestamp="1569539152385">
         <mark key="'" line="33" column="6" />
-        <mark key="[" line="41" column="19" />
-        <mark key="]" line="41" column="29" />
-        <mark key="." line="41" column="29" />
-        <mark key="^" line="41" column="29" />
+        <mark key="[" line="46" column="158" />
+        <mark key="]" line="46" column="160" />
+        <mark key="." line="46" column="160" />
+        <mark key="^" line="46" column="160" />
       </file>
       <file name="/a.sql" timestamp="1567638617973">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" timestamp="1569540764191">
+        <mark key="'" line="89" column="15" />
+        <mark key="[" line="376" column="68" />
+        <mark key="]" line="67" column="44" />
+        <mark key="^" line="67" column="44" />
+        <mark key="." line="465" column="45" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/pom.xml" timestamp="1550258623922">
         <mark key="'" line="41" column="0" />
@@ -212,11 +223,6 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/cjo/member-web/client/src/javascript/components/pageHeaders/AdvertiserMenu.jsx" timestamp="1559172105529">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="." line="203" column="0" />
-      </file>
       <file name="$USER_HOME$/demos/java_lenses/main/pom.xml" timestamp="1550969212253">
         <mark key="[" line="37" column="21" />
         <mark key="]" line="37" column="26" />
@@ -228,6 +234,16 @@
         <mark key="]" line="2" column="51" />
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/LoginResourceTest.scala" timestamp="1569540166994">
+        <mark key="'" line="196" column="28" />
+        <mark key="[" line="196" column="89" />
+        <mark key="]" line="83" column="97" />
+        <mark key="^" line="83" column="97" />
+        <mark key="." line="196" column="98" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/pom.xml" timestamp="1569540819692">
+        <mark key="'" line="230" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/resources/parameter-mapping-spec.yaml" timestamp="1550257862564">
         <mark key="'" line="224" column="0" />
@@ -265,16 +281,12 @@
         <mark key="^" line="43" column="19" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/web/LoginResource.scala" timestamp="1569537585113">
-        <mark key="[" line="72" column="100" />
-        <mark key="]" line="76" column="3" />
-        <mark key="." line="76" column="3" />
-        <mark key="^" line="76" column="3" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/main/java/com/cj/pixelparameters/ValidateCustomParameters.java" timestamp="1549911084096">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/web/LoginResource.scala" timestamp="1569538918269">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="77" column="20" />
+        <mark key="]" line="77" column="42" />
+        <mark key="." line="77" column="42" />
+        <mark key="^" line="77" column="42" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/pixel-parameters/src/test/scala/test/CustomPixelParametersTest.scala" timestamp="1550540533731">
         <mark key="[" line="64" column="40" />
@@ -295,6 +307,12 @@
         <mark key="]" line="0" column="49" />
         <mark key="." line="0" column="49" />
         <mark key="^" line="0" column="49" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/web/RepoCommitListHandler.scala" timestamp="1569539243675">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="20" column="66" />
+        <mark key="^" line="20" column="66" />
+        <mark key="." line="20" column="66" />
       </file>
       <file name="$USER_HOME$/git_repos/3dp/abcl/src/org/armedbear/lisp/Main.java" timestamp="1547941623903">
         <mark key="[" line="64" column="24" />
@@ -331,11 +349,18 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4e05cd8-b981-42d0-9602-ebcec3e47c5e/console.sql" timestamp="1567638621736">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/audit/gitlab/package.scala" timestamp="1569535706896">
-        <mark key="[" line="8" column="57" />
-        <mark key="]" line="8" column="73" />
-        <mark key="^" line="8" column="73" />
-        <mark key="." line="8" column="73" />
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" timestamp="1569540345799">
+        <mark key="'" line="220" column="32" />
+        <mark key="[" line="257" column="92" />
+        <mark key="]" line="24" column="67" />
+        <mark key="^" line="24" column="67" />
+        <mark key="." line="257" column="118" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/audit/gitlab/package.scala" timestamp="1569539219849">
+        <mark key="[" line="8" column="74" />
+        <mark key="]" line="8" column="76" />
+        <mark key="^" line="8" column="76" />
+        <mark key="." line="8" column="76" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/lens_test.clj" timestamp="1550967997392">
         <mark key="[" line="7" column="26" />
@@ -343,26 +368,11 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" timestamp="1560446060960">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Scratch.java" timestamp="1547936687079">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="16" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/demos/java_lenses/src/com/company/LensifyProcessor.java" timestamp="1550733712657">
         <mark key="[" line="14" column="48" />
         <mark key="]" line="15" column="27" />
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="27" />
-      </file>
-      <file name="/fragment.java" timestamp="1550734798772">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/demos/jenum_match/src/FooEnum.java" timestamp="1547841922480">
         <mark key="[" line="1" column="11" />
@@ -379,65 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="18" column="30" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="52" column="6" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="55" column="16" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="62" column="11" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="70" column="15" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="71" column="19" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="20" column="28" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="35" column="6" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="38" column="12" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="47" column="18" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="48" column="19" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="14" column="25" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Lens.java" />
-      <jump line="35" column="43" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="39" column="8" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="43" column="8" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="42" column="87" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="62" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="80" column="45" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="73" column="57" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="21" column="24" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="22" column="12" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="17" column="8" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="4" column="15" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="2" column="32" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
-      <jump line="13" column="4" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
-      <jump line="6" column="1" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
-      <jump line="10" column="40" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
-      <jump line="21" column="50" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
-      <jump line="26" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
-      <jump line="4" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
-      <jump line="7" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
-      <jump line="11" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
-      <jump line="6" column="1" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/lens_test.clj" />
-      <jump line="5" column="5" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/lens_test.clj" />
-      <jump line="36" column="50" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Bound.java" />
-      <jump line="7" column="31" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Bound.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Bound.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Bound.java" />
-      <jump line="8" column="16" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="47" column="67" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="81" column="23" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="41" column="57" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/Main.java" />
-      <jump line="20" column="27" filename="$USER_HOME$/demos/java_lenses/main/src/main/java/com/company/main/KotlinMain.kt" />
-      <jump line="12" column="0" filename="$USER_HOME$/demos/mult_module_test/module_i/pom.xml" />
-      <jump line="13" column="47" filename="$USER_HOME$/demos/mult_module_test/consumer_module/pom.xml" />
-      <jump line="50" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Appendable.java" />
-      <jump line="0" column="23" filename="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console.sql" />
       <jump line="0" column="8" filename="$USER_HOME$/demos/expression/src/main/java/Animal.java" />
       <jump line="8" column="1" filename="$USER_HOME$/demos/expression/src/main/java/Animal.java" />
       <jump line="6" column="0" filename="$USER_HOME$/demos/expression/src/main/java/VariantWorld.java" />
@@ -479,10 +430,69 @@
       <jump line="33" column="6" filename="$USER_HOME$/git_repos/cj/audit-automation/service/console/src/main/scala/com/cj/audit/console/ConfigurationWiring.scala" />
       <jump line="60" column="20" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/gitlab/GitlabV3Api.scala" />
       <jump line="61" column="52" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/gitlab/GitlabV3Api.scala" />
+      <jump line="81" column="0" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/web/LoginResource.scala" />
+      <jump line="37" column="28" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/LoginResourceTest.scala" />
+      <jump line="83" column="28" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/LoginResourceTest.scala" />
+      <jump line="105" column="28" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/LoginResourceTest.scala" />
+      <jump line="152" column="28" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/LoginResourceTest.scala" />
+      <jump line="175" column="28" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/LoginResourceTest.scala" />
+      <jump line="196" column="28" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/LoginResourceTest.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="257" column="66" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="24" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="51" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="74" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="80" column="33" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="81" column="91" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="97" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="103" column="33" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="104" column="91" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="121" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="142" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="163" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="181" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="196" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="221" column="31" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="220" column="32" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" />
+      <jump line="15" column="84" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/gitlab/GitlabApiTest.scala" />
+      <jump line="58" column="135" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/gitlab/GitlabApiTest.scala" />
+      <jump line="81" column="117" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/gitlab/GitlabApiTest.scala" />
+      <jump line="104" column="138" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/gitlab/GitlabApiTest.scala" />
+      <jump line="156" column="118" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/gitlab/GitlabApiTest.scala" />
+      <jump line="7" column="49" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="113" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="144" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="164" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="185" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="209" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="230" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="253" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="279" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="299" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="323" column="51" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="353" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="374" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="399" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="425" column="44" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="465" column="45" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="491" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="516" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="45" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="67" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="89" column="15" filename="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/git_repos/cj/audit-automation/service/pom.xml" />
+      <jump line="231" column="0" filename="$USER_HOME$/git_repos/cj/audit-automation/service/pom.xml" />
+      <jump line="220" column="0" filename="$USER_HOME$/git_repos/cj/audit-automation/service/pom.xml" />
+      <jump line="210" column="0" filename="$USER_HOME$/git_repos/cj/audit-automation/service/pom.xml" />
+      <jump line="134" column="0" filename="$USER_HOME$/git_repos/cj/audit-automation/service/pom.xml" />
+      <jump line="4" column="0" filename="$USER_HOME$/git_repos/cj/audit-automation/service/pom.xml" />
+      <jump line="11" column="19" filename="$USER_HOME$/git_repos/cj/audit-automation/service/pom.xml" />
+      <jump line="230" column="0" filename="$USER_HOME$/git_repos/cj/audit-automation/service/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -528,53 +538,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>repoBa</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB2YWwgZGVmYXVsdEdpdGxhYkFwaTogR2l0bGFiQXBpID0gbmV3IEdpdGxhYlYzQXBpKGh0dHBDbGllbnQsIGpzb25NYXJzaGFsbGVyKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciAocmVwbyA8LSBhdXRoZW50aWNhdGlvblRhcmdldHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRoZW50aWNhdGlvblRhcmdldHM6Cg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBhcGlGb3IocmVwbzogR2l0bGFiUmVwb3NpdG9yeSkgPSBjb25maWcuZ2V0Q2xpZW50VmVyc2lvbihyZXBvLmJhc2UpCgo=</text>
+        <text encoding="base64">ICAgIGF1dGhlbnRpY2F0aW9uVGFyZ2V0cy5tYXAoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b2JqZWN0IEFwaURlbGVnYXRvciB3aXRoIEdpdGxhYkFQSSB7CiAgdmFsIHYzOiBHaXRsYWJWM0FwaSA9ID8/PwogIHZhbCB2NDogR2l0bGFiVjNBcGkgPSA/Pz8KfQo=</text>
+        <text encoding="base64">ICAgIGF1dGhlbnRpY2F0aW9uVGFyZ2V0cy5tYXAoCiAgICAgIHJlcG8gPT4gYXV0aGVudGljYXRvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgdjM6IEdpdGxhYlYzQXBpID0gPz8/CiAgdmFsIHY0OiBHaXRsYWJWM0FwaSA9ID8/Pwp9Cg==</text>
+        <text encoding="base64">ICAgIGZvciAocmVwbyA8LSBhdXRoZW50aWNhdGlvblRhcmdldHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGVycyA9IFNlcSgoIkF1dGhvcml6YXRpb24iLCBzIkJlYXJlciAkcHJpdmF0ZVRva2VuIikpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRoZW50aWNhdGlvblRhcmdldHM6Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBhcGlGb3IocmVwbzogR2l0bGFiUmVwb3NpdG9yeSkgPSBjb25maWcuZ2V0Q2xpZW50VmVyc2lvbihyZXBvLmJhc2UpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICBwcml2YXRlIHZhbCByZXBvQmFzZSA9IAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>258</text>
       </register>
     </registers>
     <search>
-      <last-search>repoBa</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>repoBa</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>status</last-replace>
       <last-substitute>name</last-substitute>
       <last-dir>1</last-dir>
@@ -582,13 +591,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Integer</entry>
-        <entry encoding="base64">XDxOb3JtYWxpemVyUnVsZVw+</entry>
-        <entry encoding="base64">XDxnZXREZXBlbmRzT25cPg==</entry>
-        <entry>me</entry>
-        <entry>compose</entry>
-        <entry>foo</entry>
-        <entry>.run</entry>
         <entry>Transform</entry>
         <entry>identity</entry>
         <entry>over(</entry>
@@ -602,9 +604,15 @@
         <entry encoding="base64">XDxESU1fU0tVX1RBQkxFXD4=</entry>
         <entry encoding="base64">XDxhdXRoZW50aWNhdG9yXD4=</entry>
         <entry>repoBa</entry>
+        <entry encoding="base64">XDxMb2dpblJlc291cmNlXD4=</entry>
+        <entry>Repos</entry>
+        <entry encoding="base64">XDxHaXRsYWJSZXBvc2l0b3J5XD4=</entry>
+        <entry>Repo</entry>
+        <entry encoding="base64">XDxQZXJzaXN0ZW5jZVJlcG9zaXRvcnlcPg==</entry>
+        <entry encoding="base64">XDxSZXBvc2l0b3J5XD4=</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
-        <entry>action :cursive.actions.paredit/wrap-paren</entry>
         <entry>action:cursive.actions.paredit/splice</entry>
         <entry>s/Pixel/Computed</entry>
         <entry encoding="base64">JzwsJz5zL2NpdHkvaWQvZw==</entry>
@@ -624,6 +632,7 @@
         <entry>s/Foo/String/g</entry>
         <entry>s/name/status/g</entry>
         <entry>w</entry>
+        <entry>258</entry>
       </history-cmd>
       <history-expr />
       <history-input />
