@@ -18,9 +18,6 @@
         <mark key="^" line="26" column="91" />
         <mark key="." line="64" column="91" />
       </file>
-      <file name="/a.dummy" timestamp="1550714022572">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/demos/java_lenses/lensify_processor/src/main/java/com/company/processor/LensifyProcessor.java" timestamp="1550738706529">
         <mark key="'" line="33" column="20" />
         <mark key="[" line="32" column="78" />
@@ -41,9 +38,6 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="48" column="63" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/persist/PersistenceRepository.scala" timestamp="1569535711193">
-        <mark key="[" line="2" column="63" />
-      </file>
       <file name="$USER_HOME$/demos/mult_module_test/module_i/pom.xml" timestamp="1555556850881">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="5" column="20" />
@@ -56,12 +50,6 @@
         <mark key="]" line="48" column="114" />
         <mark key="^" line="48" column="114" />
         <mark key="." line="48" column="114" />
-      </file>
-      <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lensify.java" timestamp="1550733292439">
-        <mark key="[" line="11" column="0" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1569537017575">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/foil/com/richhickey/foil/SWTHelper.java" timestamp="1548788635889">
         <mark key="[" line="18" column="39" />
@@ -154,9 +142,6 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/demos/jenum_match/src/com/company/Main.java" timestamp="1547841660678">
-        <mark key="[" line="0" column="20" />
-      </file>
       <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/main/scala/com/cj/audit/domain/audit/gitlab/GitlabAuthenticator.scala" timestamp="1569545574869">
         <mark key="'" line="18" column="72" />
         <mark key="[" line="22" column="98" />
@@ -194,9 +179,6 @@
         <mark key="]" line="30" column="79" />
         <mark key="." line="30" column="79" />
         <mark key="^" line="30" column="79" />
-      </file>
-      <file name="/a.sql" timestamp="1567638617973">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/audit/gitlab/GitlabCommitServicesTest.scala" timestamp="1569540764191">
         <mark key="'" line="89" column="15" />
@@ -253,9 +235,6 @@
         <mark key="]" line="19" column="3" />
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1567638617980">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/data/etl/src/main/java/com/cj/datawarehouse/etl/SkuUtil.java" timestamp="1567802082198">
         <mark key="'" line="38" column="32" />
@@ -322,12 +301,12 @@
         <mark key="^" line="64" column="29" />
         <mark key="." line="64" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console.sql" timestamp="1569361265389">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console.sql" timestamp="1569611768623">
         <mark key="'" line="0" column="23" />
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="0" column="54" />
-        <mark key="." line="1" column="7" />
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="1" column="48" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="1" column="48" />
       </file>
       <file name="$USER_HOME$/ratis-test/java/pom.xml" timestamp="1564853488098">
         <mark key="'" line="32" column="32" />
@@ -347,9 +326,6 @@
         <mark key="]" line="22" column="26" />
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="26" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b4e05cd8-b981-42d0-9602-ebcec3e47c5e/console.sql" timestamp="1567638621736">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/audit-automation/service/domain/src/test/scala/test/com/cj/audit/domain/web/CommitListHandlerTest.scala" timestamp="1569540345799">
         <mark key="'" line="220" column="32" />
@@ -500,7 +476,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private_token</text>
+        <text>rbitz</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -546,7 +522,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private_token</text>
+        <text>rbitz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHb29nbGVIdHRwQ2xpZW50XD4=</text>
@@ -555,34 +531,34 @@
         <text encoding="base64">ICAgIGNvbm5lY3Rpb24uc2V0RG9JbnB1dCh0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9keVN0cmVhbS5jYwo=</text>
+        <text encoding="base64">ICAgIGFkdl9jb21wYW55X2lkLGFfY29tcGFueS5vcmdhbml6YXRpb24gYXMgYWR2ZXJ0aXNlciwKICAgIHB1Yl9jb21wYW55X2lkLHBfY29tcGFueS5vcmdhbml6YXRpb24gYXMgcHVibGlzaGVyLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmQK</text>
+        <text encoding="base64">ICAgICAgICBhbmQgbG93ZXIoY2F0LnF1ZXJ5KSBsaWtlICclZGVzdF9jaXR5PSUnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uc3RyZWEoKQo=</text>
+        <text encoding="base64">ICAgICAgYm9keVN0cmVhbS5jYwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBmb28gPSBjb25uZWN0aW9uLmNvbm5lY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgdmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvby5zZXQK</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uc3RyZWEoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uYm9kCg==</text>
+        <text encoding="base64">ICAgIHZhbCBmb28gPSBjb25uZWN0aW9uLmNvbm5lY3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5uaW8uY3MuU3RhbmRhcmRDaGFyc2V0cwo=</text>
+        <text encoding="base64">ICAgIGZvby5zZXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBlbmNvZGVkVXNlciA9IFVSTEVuY29kZXIuZW5jb2RlKHVzZXIsIHVybENoYXJzZXQubmFtZSkKICAgIHZhbCBlbmNvZGVkUGFzc3dvcmQgPSBVUkxFbmNvZGVyLmVuY29kZShwYXNzd29yZCwgdXJsQ2hhcnNldC5uYW1lKQo=</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uYm9kCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN1bi5uaW8uY3MuU3RhbmRhcmRDaGFyc2V0cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
