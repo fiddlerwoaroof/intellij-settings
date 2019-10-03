@@ -31,11 +31,11 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" timestamp="1570143603291">
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" timestamp="1570144219771">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="530" column="0" />
-        <mark key="]" line="534" column="0" />
-        <mark key="." line="530" column="78" />
+        <mark key="[" line="532" column="78" />
+        <mark key="]" line="532" column="78" />
+        <mark key="." line="532" column="78" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" timestamp="1550731279408">
         <mark key="'" line="6" column="0" />
@@ -352,8 +352,8 @@
       <jump line="89" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0RWZmZWN0aXZlU2l0dWF0aW9ucygpIHsKICAgICAgICByZXR1cm4gZWZmZWN0aXZlU2l0dWF0aW9uczsKICAgIH0KICAgIHByaXZhdGUgdm9pZCBzZXRTaXR1YXRpb25zKFN0cmluZyBlZmZlY3RpdmVTaXR1YXRpb25zKSB7CiAgICAgICAgdGhpcy5lZmZlY3RpdmVTaXR1YXRpb25zID0gQXJyYXlzLmFzTGlzdChlZmZlY3RpdmVTaXR1YXRpb25zLnNwbGl0KCIsIiwgLTEpKTsKICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>, -1</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -385,7 +385,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>, -1</text>
       </register>
       <register name="/" type="4">
         <text>split</text>
