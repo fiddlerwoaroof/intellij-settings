@@ -31,12 +31,12 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" timestamp="1570145902580">
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" timestamp="1570146625902">
         <mark key="'" line="91" column="0" />
-        <mark key="[" line="539" column="0" />
-        <mark key="]" line="539" column="0" />
-        <mark key="." line="539" column="0" />
-        <mark key="^" line="534" column="34" />
+        <mark key="[" line="538" column="34" />
+        <mark key="]" line="538" column="34" />
+        <mark key="." line="538" column="34" />
+        <mark key="^" line="536" column="38" />
       </file>
       <file name="$USER_HOME$/demos/java_lenses/src/com/company/Lens.java" timestamp="1550731279408">
         <mark key="'" line="6" column="0" />
@@ -353,8 +353,8 @@
       <jump line="89" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVmZmVjdGl2ZVNpdHVhdGlvbnMgPSBBcnJheXMuYXNMaXN0KGVmZmVjdGl2ZVNpdHVhdGlvbnMuc3BsaXQoIiwiKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Unmodifiable</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -386,7 +386,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Arrays.asList(effectiveSituations.split(&quot;,&quot;));</text>
+        <text>Unmodifiable</text>
       </register>
       <register name="/" type="4">
         <text>split</text>
@@ -395,34 +395,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoU3lzdGVtLmVycik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVmZmVjdGl2ZVNpdHVhdGlvbnMgPSBBcnJheXMuYXNMaXN0KGVmZmVjdGl2ZVNpdHVhdGlvbnMuc3BsaXQoIiwiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b1VubW9kaWZpYWJsZVNldCgpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zZXQK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmVmZmVjdGl2ZVNpdHVhdGlvbnMgPSBBcnJheXMuYXNMaXN0KGVmZmVjdGl2ZVNpdHVhdGlvbnMuc3BsaXQoIiwiKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSGFzaFNldDxTdHJpbmc+KCkK</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0RWZmZWN0aXZlU2l0dWF0aW9ucygpIHsKICAgICAgICByZXR1cm4gZWZmZWN0aXZlU2l0dWF0aW9uczsKICAgIH0KICAgIHByaXZhdGUgdm9pZCBzZXRTaXR1YXRpb25zKFN0cmluZyBlZmZlY3RpdmVTaXR1YXRpb25zKSB7CiAgICAgICAgdGhpcy5lZmZlY3RpdmVTaXR1YXRpb25zID0gQXJyYXlzLmFzTGlzdChlZmZlY3RpdmVTaXR1YXRpb25zLnNwbGl0KCIsIiwgLTEpKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSGFzaFNldDxTdHJpbmc+KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0RWZmZWN0aXZlU2l0dWF0aW9ucygpIHsKICAgICAgICByZXR1cm4gZWZmZWN0aXZlU2l0dWF0aW9uczsKICAgIH0KICAgIHByaXZhdGUgdm9pZCBzZXRTaXR1YXRpb25zKFN0cmluZyBlZmZlY3RpdmVTaXR1YXRpb25zKSB7CiAgICAgICAgdGhpcy5lZmZlY3RpdmVTaXR1YXRpb25zID0gQXJyYXlzLmFzTGlzdChlZmZlY3RpdmVTaXR1YXRpb25zLnNwbGl0KCIsIiwgLTEpKTsKICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGVmZmVjdGl2ZVNpdHVhdGlvbnM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRTaXR1YXRpb25zKFN0cmluZ1tdIGVmZmVjdGl2ZVNpdHVhdGlvbnMpIHsKICAgICAgICB0aGlzLmVmZmVjdGl2ZVNpdHVhdGlvbnMgPSBlZmZlY3RpdmVTaXR1YXRpb25zCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IGVmZmVjdGl2ZVNpdHVhdGlvbnM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFjdGlvblR4bi5zZXRTaXR1YXRpb25JZHMoZ2V0U2l0dWF0aW9uSWRzKHJzKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRTaXR1YXRpb25zKFN0cmluZ1tdIGVmZmVjdGl2ZVNpdHVhdGlvbnMpIHsKICAgICAgICB0aGlzLmVmZmVjdGl2ZVNpdHVhdGlvbnMgPSBlZmZlY3RpdmVTaXR1YXRpb25zCiAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
