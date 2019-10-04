@@ -40,12 +40,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="57" column="126" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" timestamp="1570226900409">
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" timestamp="1570231376966">
         <mark key="'" line="59" column="17" />
-        <mark key="[" line="192" column="64" />
-        <mark key="]" line="192" column="64" />
-        <mark key="." line="192" column="64" />
-        <mark key="^" line="192" column="64" />
+        <mark key="[" line="149" column="16" />
+        <mark key="]" line="149" column="16" />
+        <mark key="^" line="191" column="64" />
+        <mark key="." line="149" column="16" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" timestamp="1570147601959">
         <mark key="'" line="533" column="17" />
@@ -175,8 +175,8 @@
       <jump line="12" column="4" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnKafkaPublisher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IiArICIgICAgICAgICAgICAgIA==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -216,37 +216,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoU3lzdGVtLmVycik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IiArIA==</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IiArCiAgICAgICAgICAgIA==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIA==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IiArCiAgICAgICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiB3aGVyZSBzcy5pZCBpcyBub3QgbnVsbCIgKwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IiArCiAgICAgICAgICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIiB3aGVyZSBzcy5pZCBpcyBub3QgbnVsbCIgKwo=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">IiArIA==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IiArCiAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IiArCiAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IiArCiAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="9" type="4">
         <text>Arrays.stream(effectiveSituations.split(&quot;,&quot;))
             .distinct()
             .collect(Collectors.toList())</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b1VubW9kaWZpYWJsZVNldCgpKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVmZmVjdGl2ZVNpdHVhdGlvbnMgPSBBcnJheXMuYXNMaXN0KGVmZmVjdGl2ZVNpdHVhdGlvbnMuc3BsaXQoIiwiKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zZXQK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSGFzaFNldDxTdHJpbmc+KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
