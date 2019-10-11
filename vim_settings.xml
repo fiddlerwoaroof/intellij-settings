@@ -6,15 +6,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1570147521172">
+      <file name="/Dummy.txt" timestamp="1570815240915">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/HttpServer.java" timestamp="1570142270911">
-        <mark key="'" line="84" column="9" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="54" />
-        <mark key="^" line="76" column="51" />
-        <mark key="." line="87" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c0fb24c8-c85b-4735-9609-7f2c07cdd715/console.sql" timestamp="1570135360764">
         <mark key="'" line="0" column="0" />
@@ -25,7 +18,6 @@
       <file name="$USER_HOME$/git_repos/cj/main/data-lib/protocol/target/generated-sources/avro/com/cj/protocol/actionprocessing/SuccessfulAction.java" timestamp="1570147638673">
         <mark key="'" line="9" column="7517" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/SampleFactConsumer.java" timestamp="1570489549021" />
       <file name="$USER_HOME$/git_repos/cj/main/attribution/attribution-commission/src/test/scala/com/cj/attribution/commission/CommissionServiceImplTest.scala" timestamp="1570125616951">
         <mark key="'" line="362" column="20" />
       </file>
@@ -60,14 +52,13 @@
         <mark key="^" line="602" column="7" />
         <mark key="." line="602" column="7" />
       </file>
-      <file name="/a.sql" timestamp="1570136735289">
+      <file name="/a.sql" timestamp="1570815240908">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/cjo/domain/src/main/resources/cj/finance/commission/report/dao/advertiser/CommissionDetailReportByEventDateQuery.sql" timestamp="1570127375388">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="60" column="205" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/pom.xml" timestamp="1570489566781" />
       <file name="$USER_HOME$/git_repos/cj/audit-automation/service/pom.xml" timestamp="1569540907701">
         <mark key="'" line="230" column="0" />
       </file>
