@@ -35,6 +35,12 @@
       <file name="/a.sql" timestamp="1570815240908">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnTestFixture.java" timestamp="1570825493309">
+        <mark key="[" line="141" column="47" />
+        <mark key="]" line="141" column="47" />
+        <mark key="^" line="141" column="71" />
+        <mark key="." line="141" column="47" />
+      </file>
       <file name="$USER_HOME$/git_repos/cj/audit-automation/service/pom.xml" timestamp="1569540907701">
         <mark key="'" line="230" column="0" />
       </file>
@@ -83,7 +89,7 @@
         <mark key="^" line="25" column="38" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnFactProducerTest.java" timestamp="1570820484824">
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnFactProducerTest.java" timestamp="1570825426784">
         <mark key="'" line="26" column="58" />
         <mark key="[" line="57" column="138" />
         <mark key="]" line="57" column="153" />
@@ -198,7 +204,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>auto</text>
+        <text>(String[])</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -230,7 +236,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>auto</text>
+        <text>(String[])</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBY3Rpb25UeG5GYWN0UHJvZHVjZXJcPg==</text>
