@@ -94,7 +94,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/cjo/domain/src/main/java/cj/datatransfer/export/job/UpdatedCatalogDetector.java" timestamp="1571096357920" />
+      <file name="$USER_HOME$/git_repos/cj/main/cjo/domain/src/main/java/cj/datatransfer/export/job/UpdatedCatalogDetector.java" timestamp="1571097111058" />
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" timestamp="1571088541316">
         <mark key="'" line="153" column="13" />
         <mark key="[" line="186" column="13" />
