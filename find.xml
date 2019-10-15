@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/jdbc/FakePreparedStatement.java [action-txn-fact-publisher]'" />
+    <option name="defaultScopeName" value="File '.../data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/jdbc/FakePreparedStatement.java [action-txn-fact-publisher]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/jdbc/FakePreparedStatement.java [action-txn-fact-publisher]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
