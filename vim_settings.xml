@@ -90,11 +90,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/SituationMapSourceImplTest.java" timestamp="1571164078525">
-        <mark key="[" line="25" column="35" />
-        <mark key="]" line="26" column="11" />
-        <mark key="." line="26" column="11" />
-        <mark key="^" line="26" column="11" />
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/SituationMapSourceImplTest.java" timestamp="1571171478444">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="38" column="52" />
+        <mark key="." line="38" column="52" />
+        <mark key="^" line="38" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/398f0359-6444-431a-bc5d-3ec408793b8f/console.sql" timestamp="1570142823526">
         <mark key="[" line="57" column="0" />
@@ -256,7 +256,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>column</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -288,7 +288,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>column</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDYXRUb1NpdHVhdGlvbk1hcFw+</text>
