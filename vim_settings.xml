@@ -91,12 +91,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" timestamp="1571201276524">
-        <mark key="'" line="38" column="51" />
-        <mark key="[" line="242" column="73" />
-        <mark key="]" line="242" column="73" />
-        <mark key="^" line="242" column="73" />
-        <mark key="." line="242" column="73" />
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" timestamp="1571202746040">
+        <mark key="'" line="199" column="98" />
+        <mark key="[" line="242" column="89" />
+        <mark key="]" line="242" column="100" />
+        <mark key="^" line="242" column="100" />
+        <mark key="." line="242" column="100" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/AppWiring.java" timestamp="1571201424997">
         <mark key="'" line="34" column="15" />
@@ -130,12 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="108" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="66" column="74" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="111" column="17" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="67" column="30" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="137" column="143" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="138" column="124" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="143" column="1" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="69" column="1" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnFactProducerTest.java" />
@@ -228,12 +222,18 @@
       <jump line="54" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
       <jump line="53" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
       <jump line="19" column="23" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSource.java" />
-      <jump line="38" column="51" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="98" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="33" column="13" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
+      <jump line="38" column="12" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
+      <jump line="45" column="39" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
+      <jump line="130" column="48" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
+      <jump line="199" column="98" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
+      <jump line="242" column="24" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SituationMapSourceFactory.</text>
+        <text>EVENT</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -265,61 +265,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SituationMapSourceFactory.</text>
+        <text>EVENT</text>
       </register>
       <register name="/" type="4">
-        <text>getMap</text>
+        <text encoding="base64">XDxTaXR1YXRpb25NYXBTb3VyY2VGYWN0b3J5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdiAtPiB2LmVxdWFscyhTaXR1YXRpb25NYXBTb3VyY2VGYWN0b3J5LlNvdXJjZVR5cGUuRVZFTlRfREFURSkgPyBldmVudERhdGVTaXR1YXRpb25NYXBTb3VyY2UgOiBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlRmFjdG9yeS5zb3VyY2VGb3JUeXBlKFNpdHVhdGlvbk1hcFNvdXJjZUZhY3RvcnkuU291cmNlVHlwZS5FVkVOVF9EQVRFKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTaXR1YXRpb25NYXBTb3VyY2UgcG9zdGluZ0RhdGVTaXR1YXRpb25NYXBTb3VyY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2l0dWF0aW9uTWFwU291cmNlRmFjdG9yeS5Tb3VyY2VUeXBlLlBPU1RJTkdfREFURSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpdHVhdGlvbk1hcFNvdXJjZUltcGwuRXZlbnREYXRlU2l0dWF0aW9uTWFwU291cmNlIGV2ZW50RGF0ZVNpdHVhdGlvbk1hcFNvdXJjZSA9IG5ldyBTaXR1YXRpb25NYXBTb3VyY2VJbXBsLkV2ZW50RGF0ZVNpdHVhdGlvbk1hcFNvdXJjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2l0dWF0aW9uTWFwU291cmNlRmFjdG9yeS5Tb3VyY2VUeXBlLlBPU1RJTkdfREFURSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByc01hcC5wdXQoU2l0dWF0aW9uTWFwU291cmNlSW1wbC5RVUVSWSwgU2l0dWF0aW9uTWFwRml4dHVyZS5mYWtlUmVzdWx0U2V0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2l0dWF0aW9uTWFwU291cmNlRmFjdG9yeS5Tb3VyY2VUeXBlLkVWRU5UX0RBVEUsCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>Factory
+            .sourceForType(type)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJ0aGlzIGV4Y2VwdGlvbiBpcyBub3QgcG9zc2libGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTaXR1YXRpb25NYXBTb3VyY2UgcG9zdGluZ0RhdGVTaXR1YXRpb25NYXBTb3VyY2U7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-        switch (Objects.requireNonNull(sourceType)) {
-            case EVENT_DATE:
-                return new SituationMapSourceImpl.EventDateSituationMapSource();
-            case POSTING_DATE:
-                return new SituationMapSourceImpl.PostingDateSituationMapSource();
-        }
-
-        throw new RuntimeException(&quot;this exception is not possible&quot;);
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpdHVhdGlvbk1hcFNvdXJjZUltcGwuRXZlbnREYXRlU2l0dWF0aW9uTWFwU291cmNlIGV2ZW50RGF0ZVNpdHVhdGlvbk1hcFNvdXJjZSA9IG5ldyBTaXR1YXRpb25NYXBTb3VyY2VJbXBsLkV2ZW50RGF0ZVNpdHVhdGlvbk1hcFNvdXJjZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKE9iamVjdHMucmVxdWlyZU5vbk51bGwoc291cmNlVHlwZSkpIHsKICAgICAgICAgICAgY2FzZSBFVkVOVF9EQVRFOgogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBTaXR1YXRpb25NYXBTb3VyY2VJbXBsLkV2ZW50RGF0ZVNpdHVhdGlvbk1hcFNvdXJjZSgpOwogICAgICAgICAgICBjYXNlIFBPU1RJTkdfREFURToKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgU2l0dWF0aW9uTWFwU291cmNlSW1wbC5Qb3N0aW5nRGF0ZVNpdHVhdGlvbk1hcFNvdXJjZSgpOwogICAgICAgIH0KCiAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oInRoaXMgZXhjZXB0aW9uIGlzIG5vdCBwb3NzaWJsZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICByc01hcC5wdXQoU2l0dWF0aW9uTWFwU291cmNlSW1wbC5RVUVSWSwgU2l0dWF0aW9uTWFwRml4dHVyZS5mYWtlUmVzdWx0U2V0KCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdiAtPiBTaXR1YXRpb25NYXBTb3VyY2VGYWN0b3J5LnNvdXJjZUZvclR5cGUodikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKFNpdHVhdGlvbk1hcFNvdXJjZS5Tb3VyY2VUeXBlIHYpIC0+IFNpdHVhdGlvbk1hcFNvdXJjZUltcGwuc291cmNlRm9yVHlwZSh2KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJ0aGlzIGV4Y2VwdGlvbiBpcyBub3QgcG9zc2libGUiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/event/posting/g</text>
       </register>
     </registers>
     <search>
-      <last-search>getMap</last-search>
+      <last-search encoding="base64">XDxTaXR1YXRpb25NYXBTb3VyY2VGYWN0b3J5XD4=</last-search>
       <last-offset />
-      <last-pattern>getMap</last-pattern>
+      <last-pattern encoding="base64">XDxTaXR1YXRpb25NYXBTb3VyY2VGYWN0b3J5XD4=</last-pattern>
       <last-replace>posting</last-replace>
       <last-substitute>event</last-substitute>
       <last-dir>1</last-dir>
@@ -327,9 +319,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cat.cat</entry>
-        <entry>^</entry>
-        <entry>$</entry>
         <entry encoding="base64">XDxwdWJsaXNoQWN0aW9uVHhuc1w+</entry>
         <entry encoding="base64">XDxwYWNpZmljVGltZVw+</entry>
         <entry encoding="base64">XDxjYXRUb1NpdHVhdGlvbk1hcFw+</entry>
@@ -347,6 +336,9 @@
         <entry>event</entry>
         <entry>Ab</entry>
         <entry>getMap</entry>
+        <entry>extends Se</entry>
+        <entry>Factory</entry>
+        <entry encoding="base64">XDxTaXR1YXRpb25NYXBTb3VyY2VGYWN0b3J5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>s/Integer/String/g</entry>
