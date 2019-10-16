@@ -20,7 +20,18 @@
         <mark key="]" line="36" column="12" />
         <mark key="." line="36" column="12" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" timestamp="1571162617012" />
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" timestamp="1571198974241">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="35" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/AbstractSituationMapSourceImpl.java" timestamp="1571199963313">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnSerializationTest.java" timestamp="1571161687988">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -29,7 +40,6 @@
       <file name="/CJ.SIT_SITUATION [@shopcart.db.sj2.cj.com]" timestamp="1570127778506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/jdbc/FakeConnection.java" timestamp="1571175773333" />
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" timestamp="1571177244676">
         <mark key="'" line="604" column="70" />
         <mark key="[" line="602" column="30" />
@@ -50,11 +60,10 @@
         <mark key="." line="84" column="8" />
         <mark key="^" line="84" column="8" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactPublisherLogEntry.java" timestamp="1571180055265" />
       <file name="/dummy.sql" timestamp="1571158138222">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1571178585800">
+      <file name="/Dummy.txt" timestamp="1571199068883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -68,12 +77,12 @@
       <file name="/CJ.CAT_EFFECTIVE_SITUATION [Oracle -]" timestamp="1571158102711">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/SituationMapSourceImplTest.java" timestamp="1571175931337">
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/SituationMapSourceImplTest.java" timestamp="1571201848001">
         <mark key="'" line="69" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="69" column="5" />
-        <mark key="." line="43" column="7" />
-        <mark key="^" line="43" column="7" />
+        <mark key="[" line="23" column="52" />
+        <mark key="]" line="23" column="55" />
+        <mark key="." line="23" column="55" />
+        <mark key="^" line="23" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" timestamp="1571174008448">
         <mark key="'" line="0" column="0" />
@@ -82,77 +91,45 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" timestamp="1571180353629">
-        <mark key="'" line="92" column="12" />
-        <mark key="[" line="89" column="13" />
-        <mark key="]" line="89" column="14" />
-        <mark key="^" line="89" column="14" />
-        <mark key="." line="89" column="14" />
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" timestamp="1571201276524">
+        <mark key="'" line="38" column="51" />
+        <mark key="[" line="242" column="73" />
+        <mark key="]" line="242" column="73" />
+        <mark key="^" line="242" column="73" />
+        <mark key="." line="242" column="73" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/AppWiring.java" timestamp="1571175552581">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="89" />
-        <mark key="]" line="29" column="89" />
-        <mark key="." line="29" column="89" />
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/AppWiring.java" timestamp="1571201424997">
+        <mark key="'" line="34" column="15" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="30" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/cj/utilities/crypt-keeper/cjdev-SNAPSHOT/crypt-keeper-cjdev-20180413.200339-7.jar!/com/cj/security/CryptKeeper.class" timestamp="1571163046166" />
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" timestamp="1571176428238">
-        <mark key="'" line="35" column="23" />
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="16" />
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" timestamp="1571201227781">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="1" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnFactProducerTest.java" timestamp="1571177787935">
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnFactProducerTest.java" timestamp="1571201775996">
         <mark key="'" line="27" column="31" />
-        <mark key="[" line="81" column="48" />
-        <mark key="]" line="82" column="7" />
-        <mark key="^" line="82" column="7" />
-        <mark key="." line="82" column="7" />
+        <mark key="[" line="82" column="92" />
+        <mark key="]" line="83" column="11" />
+        <mark key="^" line="83" column="11" />
+        <mark key="." line="83" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1571175462093">
+      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSource.java" timestamp="1571201383998">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+        <mark key="^" line="19" column="67" />
+      </file>
+      <file name="/fragment.java" timestamp="1571199810279">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnTestFixture.java" />
-      <jump line="607" column="15" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
-      <jump line="534" column="15" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
-      <jump line="533" column="46" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
-      <jump line="69" column="25" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
-      <jump line="530" column="17" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
-      <jump line="612" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
-      <jump line="609" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
-      <jump line="599" column="42" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
-      <jump line="529" column="37" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
-      <jump line="532" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
-      <jump line="83" column="25" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnTestFixture.java" />
-      <jump line="165" column="59" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="155" column="44" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="168" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="169" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="170" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="171" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="172" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="173" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="174" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="176" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="175" column="48" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="177" column="94" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="32" column="24" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/resources/com/cj/data/action/query_by_partition.sql" />
-      <jump line="187" column="13" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="186" column="13" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="153" column="13" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="22" column="60" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" />
-      <jump line="41" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" />
-      <jump line="10" column="31" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" />
-      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" />
-      <jump line="12" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" />
-      <jump line="11" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" />
-      <jump line="2" column="4" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" />
-      <jump line="107" column="16" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="112" column="19" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="65" column="108" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="66" column="74" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="111" column="17" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
@@ -184,7 +161,6 @@
       <jump line="28" column="69" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" />
       <jump line="24" column="71" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
       <jump line="59" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
       <jump line="17" column="13" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/jdbc/FakePreparedStatement.java" />
       <jump line="37" column="84" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/jdbc/FakePreparedStatement.java" />
@@ -197,9 +173,6 @@
       <jump line="82" column="42" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnTest.java" />
       <jump line="28" column="46" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnFactProducerTest.java" />
       <jump line="38" column="35" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
-      <jump line="37" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
-      <jump line="30" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
-      <jump line="14" column="24" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
       <jump line="34" column="16" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/SituationMapSourceImplTest.java" />
       <jump line="69" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/SituationMapSourceImplTest.java" />
       <jump line="35" column="23" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
@@ -215,10 +188,52 @@
       <jump line="72" column="8" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnFactProducerTest.java" />
       <jump line="27" column="31" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnFactProducerTest.java" />
       <jump line="92" column="12" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
+      <jump line="27" column="12" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" />
+      <jump line="41" column="12" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" />
+      <jump line="42" column="17" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" />
+      <jump line="11" column="38" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" />
+      <jump line="20" column="22" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" />
+      <jump line="19" column="30" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" />
+      <jump line="179" column="46" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
+      <jump line="11" column="34" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/AppWiring.java" />
+      <jump line="21" column="62" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/AppWiring.java" />
+      <jump line="65" column="4" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="14" column="13" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="13" column="73" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="33" column="20" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/AbstractSituationMapSourceImpl.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="52" column="18" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="23" column="15" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/AppWiring.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSource.java" />
+      <jump line="55" column="51" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="79" column="49" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
+      <jump line="19" column="23" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSource.java" />
+      <jump line="38" column="51" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CJPM-12454: add situation ids for all action record source</text>
+        <text>SituationMapSourceFactory.</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -250,83 +265,68 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CJPM-12454: add situation ids for all action record source</text>
+        <text>SituationMapSourceFactory.</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>getMap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGFydGl0aW9uID0gRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl5TU1kZCIpLmZvcm1hdChzdGFydFBvc3RpbmdEYXRlLnRvTG9jYWxEYXRlVGltZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdiAtPiB2LmVxdWFscyhTaXR1YXRpb25NYXBTb3VyY2VGYWN0b3J5LlNvdXJjZVR5cGUuRVZFTlRfREFURSkgPyBldmVudERhdGVTaXR1YXRpb25NYXBTb3VyY2UgOiBudWxsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q0pQTS0xMjQ1NDogYWRkIHNpdHVhdGlvbiBpZHMgZm9yIGFsbCBhY3Rpb24gcmVjb3JkIHNvdXJjZXMK</text>
+        <text encoding="base64">ICAgICAgICBTaXR1YXRpb25NYXBTb3VyY2UgcG9zdGluZ0RhdGVTaXR1YXRpb25NYXBTb3VyY2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>&quot; group by cat.id, cat.ap_id, cat.posting_date, cat.event_date,&quot; +
-            &quot;          cat.trunc_event_date, cat.click_date, cat.click_sku, cat.click_ref_url, cat.adv_company_id,&quot; +
-            &quot;          cat.pub_company_id, cat.ad_id, cat.website_id, cat.contact_id, cat.actiontracker_id,&quot; +
-            &quot;          cat.programterms_id, cat.actiontrackertype, cat.oid, cat.sid, cat.surfer,&quot; +
-            &quot;          cat.geo_location, cat.ip_address, cat.referring_url, cat.adv_pub_xch_rate,&quot; +
-            &quot;          cat.adv_usd_xch_rate, cat.cj_fee_usd, cat.adv_comm_usd, cat.pub_comm_usd,&quot; +
-            &quot;          cat.cj_fee_adv_curr, cat.adv_comm_adv_curr, cat.pub_comm_pub_curr, cat.orig_sale_amount,&quot; +
-            &quot;          cat.orig_curr, cat.sale_amount_adv_curr, cat.sale_amount_pub_curr, cat.sale_amount_usd,&quot; +
-            &quot;          cat.status, cat.is_original, cat.adjustmentcode, cat.locking_date, cat.adv_reviewed,&quot; +
-            &quot;          cat.txn_id, cat.num_actions, cat.correlation_type, cat.total_discount_orig_curr,&quot; +
-            &quot;          cat.total_discount_adv_curr, cat.total_discount_pub_curr, cat.total_discount_usd,&quot; +
-            &quot;          cat.correlation_basis, cat.coupon, cat.eventid, cat.correlatedeventid, cat.offer_name,&quot; +
-            &quot;          cat.new_to_file, cat.is_cross_device, cat.query&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpdHVhdGlvbk1hcFNvdXJjZUltcGwuRXZlbnREYXRlU2l0dWF0aW9uTWFwU291cmNlIGV2ZW50RGF0ZVNpdHVhdGlvbk1hcFNvdXJjZSA9IG5ldyBTaXR1YXRpb25NYXBTb3VyY2VJbXBsLkV2ZW50RGF0ZVNpdHVhdGlvbk1hcFNvdXJjZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiAgbGVmdCBqb2luIHNpdF9zaXR1YXRpb25fc2l0X2NvbnMgc3NzYyBvbiBjZXMuc2l0X3NpdHVhdGlvbl9zaXRfY29uc19pZCA9IHNzc2MuaWQiICsKICAgICAgICAgICAgIiAgbGVmdCBqb2luIHNpdF9zaXR1YXRpb24gc3Mgb24gc3NzYy5zaXRfc2l0dWF0aW9uX2lkID0gc3MuaWQiICsKICAgICAgICAgICAgIiAgbGVmdCBqb2luIHNpdF9zaXR1YXRpb24gc3NiIG9uIHNzLmJhc2Vfc2l0dWF0aW9uX2lkID0gc3NiLmlkIiArCiAgICAgICAgICAgICIgIGxlZnQgam9pbiBjam9fYWN0aW9uX3R4bl9pdGVtIGNhdGl0ZW0gb24gY2VzLmNhdF9pZCA9IGNhdGl0ZW0uY2pvX2FjdGlvbl90eG5faWQiICsKICAgICAgICAgICAgIiAgbGVmdCBqb2luIGNhdF9pdGVtX2VmZmVjdGl2ZV9zaXR1YXRpb24gY2llcyBvbiBjYXRpdGVtLmlkID0gY2llcy5jYXRfaXRlbV9pZCIgKwogICAgICAgICAgICAiICBsZWZ0IGpvaW4gc2l0X3NpdHVhdGlvbl9zaXRfY29ucyBpc3NzYyBvbiBjaWVzLnNpdF9zaXR1YXRpb25fc2l0X2NvbnNfaWQgPSBpc3NzYy5pZCIgKwogICAgICAgICAgICAiICBsZWZ0IGpvaW4gc2l0X3NpdHVhdGlvbiBpc3Mgb24gaXNzc2Muc2l0X3NpdHVhdGlvbl9pZCA9IGlzcy5pZCIgKwogICAgICAgICAgICAiICBsZWZ0IGpvaW4gc2l0X3NpdHVhdGlvbiBpc3NiIG9uIGlzcy5iYXNlX3NpdHVhdGlvbl9pZCA9IGlzc2IuaWQiICsK</text>
+        <text encoding="base64">ICAgICAgICByc01hcC5wdXQoU2l0dWF0aW9uTWFwU291cmNlSW1wbC5RVUVSWSwgU2l0dWF0aW9uTWFwRml4dHVyZS5mYWtlUmVzdWx0U2V0KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiAgICIgKwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>&quot; +
-            &quot;            listagg(case when sssc.sit_situation_id is null then null&quot; +
-            &quot;                         else nvl(ssb.id, ss.id) end, ',')&quot; +
-            &quot;                   within group (order by sssc.id)&quot; +
-            &quot;            || ','&quot; +
-            &quot;            || listagg(case when isssc.sit_situation_id is null then null&quot; +
-            &quot;                            else nvl(issb.id, iss.id) end, ',')&quot; +
-            &quot;                      within group (order by isssc.id) as effectiveSituations</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJ0aGlzIGV4Y2VwdGlvbiBpcyBub3QgcG9zc2libGUiKTsK</text>
+      </register>
+      <register name="6" type="4">
+        <text>{
+        switch (Objects.requireNonNull(sourceType)) {
+            case EVENT_DATE:
+                return new SituationMapSourceImpl.EventDateSituationMapSource();
+            case POSTING_DATE:
+                return new SituationMapSourceImpl.PostingDateSituationMapSource();
+        }
+
+        throw new RuntimeException(&quot;this exception is not possible&quot;);
+    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKE9iamVjdHMucmVxdWlyZU5vbk51bGwoc291cmNlVHlwZSkpIHsKICAgICAgICAgICAgY2FzZSBFVkVOVF9EQVRFOgogICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBTaXR1YXRpb25NYXBTb3VyY2VJbXBsLkV2ZW50RGF0ZVNpdHVhdGlvbk1hcFNvdXJjZSgpOwogICAgICAgICAgICBjYXNlIFBPU1RJTkdfREFURToKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgU2l0dWF0aW9uTWFwU291cmNlSW1wbC5Qb3N0aW5nRGF0ZVNpdHVhdGlvbk1hcFNvdXJjZSgpOwogICAgICAgIH0KCiAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oInRoaXMgZXhjZXB0aW9uIGlzIG5vdCBwb3NzaWJsZSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQWN0aW9uVHhuRmFjdFByb2R1Y2VyLlFVRVJZX0JZX1BBUlRJVElPTik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdiAtPiBTaXR1YXRpb25NYXBTb3VyY2VGYWN0b3J5LnNvdXJjZUZvclR5cGUodikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKFNpdHVhdGlvbk1hcFNvdXJjZS5Tb3VyY2VUeXBlIHYpIC0+IFNpdHVhdGlvbk1hcFNvdXJjZUltcGwuc291cmNlRm9yVHlwZSh2KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>s/event/posting/g</text>
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>getMap</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
-      <last-replace>+</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>getMap</last-pattern>
+      <last-replace>posting</last-replace>
+      <last-substitute>event</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>UTF_</entry>
-        <entry>UTF</entry>
-        <entry encoding="base64">XDxBY3Rpb25UeG5GYWN0UHJvZHVjZXJcPg==</entry>
-        <entry encoding="base64">XDxlZmZlY3RpdmVTaXR1YXRpb25zXD4=</entry>
-        <entry encoding="base64">LCA=</entry>
         <entry>cat.cat</entry>
         <entry>^</entry>
         <entry>$</entry>
@@ -342,9 +342,13 @@
         <entry encoding="base64">XDxzaXR1YXRpb25NYXBTb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxyc01hcFw+</entry>
         <entry>;</entry>
+        <entry>abs</entry>
+        <entry encoding="base64">XDxQb3N0aW5nRGF0ZVNpdHVhdGlvbk1hcFNvdXJjZVw+</entry>
+        <entry>event</entry>
+        <entry>Ab</entry>
+        <entry>getMap</entry>
       </history-search>
       <history-cmd>
-        <entry>s/state/country/g</entry>
         <entry>s/Integer/String/g</entry>
         <entry>s</entry>
         <entry>s/me/you/g</entry>
@@ -364,6 +368,7 @@
         <entry>s/$/&quot;/g</entry>
         <entry encoding="base64">JzwsJz5zLyQvKy9n</entry>
         <entry>w</entry>
+        <entry>s/event/posting/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
