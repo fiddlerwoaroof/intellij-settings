@@ -20,6 +20,9 @@
       <file name="/a.dummy" timestamp="1570820161862">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git_repos/cj/main/cjo/domain/src/main/java/cj/accounts/Publisher.java" timestamp="1571702952502">
+        <mark key="'" line="73" column="4" />
+      </file>
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" timestamp="1571203434459">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="27" column="0" />
@@ -78,12 +81,12 @@
         <mark key="." line="23" column="55" />
         <mark key="^" line="23" column="55" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" timestamp="1571701217702">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" timestamp="1571703094257">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="18" column="59" />
-        <mark key="]" line="18" column="59" />
-        <mark key="." line="18" column="59" />
-        <mark key="^" line="6" column="43" />
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="/CJODW.DW_ACTIONFEE [PCJODW]" timestamp="1571697242029">
         <mark key="[" line="0" column="0" />
@@ -135,7 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="601" column="62" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" />
       <jump line="41" column="79" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnFactProducerTest.java" />
       <jump line="79" column="26" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnTest.java" />
       <jump line="80" column="87" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnTest.java" />
@@ -235,10 +237,11 @@
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" />
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2fe1c7f1-52ef-48fa-86a1-912ac4f635c3/console.sql" />
       <jump line="10" column="67" filename="$APPLICATION_CONFIG_DIR$/consoles/db/2fe1c7f1-52ef-48fa-86a1-912ac4f635c3/console.sql" />
+      <jump line="73" column="4" filename="$USER_HOME$/git_repos/cj/main/cjo/domain/src/main/java/cj/accounts/Publisher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGltX3RpbWUuZGF5LCA=</text>
+        <text>*</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -270,7 +273,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGltX3RpbWUuZGF5LCA=</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>ADVERTISER</text>
