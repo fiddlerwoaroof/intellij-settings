@@ -17,12 +17,14 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="5" />
       </file>
+      <file name="/CommandLineArgumentsConfigurationValidatorTest.scala" timestamp="1572375787345" />
       <file name="/a.dummy" timestamp="1570820161862">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/cjo/domain/src/main/java/cj/accounts/Publisher.java" timestamp="1571702952502">
         <mark key="'" line="73" column="4" />
       </file>
+      <file name="/start-gitlab.sh" timestamp="1572375900392" />
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" timestamp="1571203434459">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="27" column="0" />
@@ -43,6 +45,7 @@
       <file name="/CJ.SIT_SITUATION [@shopcart.db.sj2.cj.com]" timestamp="1570127778506">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/GitlabAuthenticator.scala" timestamp="1572375646558" />
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" timestamp="1571177244676">
         <mark key="'" line="604" column="70" />
         <mark key="[" line="602" column="30" />
@@ -63,6 +66,7 @@
         <mark key="." line="84" column="8" />
         <mark key="^" line="84" column="8" />
       </file>
+      <file name="/ScalaJHttpClient.scala" timestamp="1572375867428" />
       <file name="/dummy.sql" timestamp="1571697242766">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,6 +85,8 @@
         <mark key="." line="23" column="55" />
         <mark key="^" line="23" column="55" />
       </file>
+      <file name="/config-gitlab-v4.json" timestamp="1572376015990" />
+      <file name="/GitLabAuthFixHttpClient.scala" timestamp="1572375425866" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" timestamp="1571703094257">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="21" column="7" />
@@ -119,12 +125,6 @@
         <mark key="]" line="83" column="11" />
         <mark key="^" line="83" column="11" />
         <mark key="." line="83" column="11" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSource.java" timestamp="1571201383998">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-        <mark key="^" line="19" column="67" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2fe1c7f1-52ef-48fa-86a1-912ac4f635c3/console.sql" timestamp="1571702224497">
         <mark key="'" line="9" column="67" />
