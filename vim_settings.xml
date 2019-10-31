@@ -283,8 +283,8 @@
       <jump line="16" column="31" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2RoLnZlcnNpb24+Y2RoNS41LjE8L2NkaC52ZXJzaW9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text>data.action</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -304,7 +304,7 @@
         <text>dtP~</text>
       </register>
       <register name="-" type="4">
-        <text>kafka-consumers/action-txn-fact-publisher</text>
+        <text>data.action</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZGhcPg==</text>
