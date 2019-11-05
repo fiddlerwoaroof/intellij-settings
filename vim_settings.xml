@@ -6,13 +6,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git_repos/cj/main/insights/pom.xml" timestamp="1572561170975">
-        <mark key="'" line="16" column="31" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="45" column="15" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/datasources/SituationMapSource.java" timestamp="1572387733299">
         <mark key="[" line="19" column="11" />
         <mark key="]" line="19" column="10" />
@@ -61,7 +54,7 @@
       <file name="/CJ.SIT_SITUATION_SIT_CONS [Oracle -]" timestamp="1571158102416">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1571697221822">
+      <file name="/a.sql" timestamp="1572994932255">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/pom.xml" timestamp="1572560671841">
@@ -90,7 +83,7 @@
       <file name="/dummy.sql" timestamp="1571697242766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1572559962400">
+      <file name="/Dummy.txt" timestamp="1572994932261">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -123,6 +116,12 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="21" column="23" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" timestamp="1572995905002">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="/CJODW.DW_ACTIONFEE [PCJODW]" timestamp="1571697242029">
         <mark key="[" line="0" column="0" />
       </file>
@@ -135,10 +134,6 @@
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/pom.xml" timestamp="1572561142366">
         <mark key="'" line="0" column="6" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="124" column="7" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/time/ForwardTimestampRangeGeneratorTest.java" timestamp="1572386478053">
         <mark key="[" line="2" column="0" />
@@ -179,11 +174,14 @@
       <file name="/fragment.java" timestamp="1572559962447">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/src/main/java/com/cj/insights/ringo/datasources/SituationMapSource.java" timestamp="1572994951380">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="263" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="266" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="277" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="281" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="292" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
@@ -281,10 +279,13 @@
       <jump line="15" column="34" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="17" column="36" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="16" column="31" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
+      <jump line="19" column="77" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" />
+      <jump line="18" column="48" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data.action</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IGFkZAo=</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -304,43 +305,46 @@
         <text>dtP~</text>
       </register>
       <register name="-" type="4">
-        <text>data.action</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZGhcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5rYWZrYTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+a2Fma2FfMi4xMTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC44LjIuMTwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="0" type="4">
+        <text>nvl(sas_issb.SIT_SITUATION_ID, sas_iss.SIT_SITUATION_ID)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2RoLnZlcnNpb24+Y2RoNS41LjE8L2NkaC52ZXJzaW9uPgo=</text>
+        <text encoding="base64">IGFkZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NhbGEubWFqb3I+Mi4xMTwvc2NhbGEubWFqb3I+CiAgICAgICAgPHNjYWxhLm1ham9yLm1pbm9yPjIuMTEuMTI8L3NjYWxhLm1ham9yLm1pbm9yPgo=</text>
+      <register name="2" type="8">
+        <text>left
+left
+left
+left</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3Jvb3Z5LWVjbGlwc2UtY29tcGlsZXIudmVyc2lvbj4yLjkuMi0wMTwvZ3Jvb3Z5LWVjbGlwc2UtY29tcGlsZXIudmVyc2lvbj4KICAgICAgICA8Z3Jvb3Z5LWVjbGlwc2UtYmF0Y2gudmVyc2lvbj4yLjQuMy0wMTwvZ3Jvb3Z5LWVjbGlwc2UtYmF0Y2gudmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgcmlnaHQgam9pbiBDSi5TSVRfQURWRVJUSVNFUl9TSVRVQVRJT04gc2FzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhcmsudmVyc2lvbj4yLjEuMzwvc3BhcmsudmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgICAgICA8Y2RoLnZlcnNpb24+Y2RoNS41LjE8L2NkaC52ZXJzaW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aGFkb29wLnZlcnNpb24+Mi42LjAtJHtjZGgudmVyc2lvbn08L2hhZG9vcC52ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8c2NhbGEubWFqb3I+Mi4xMTwvc2NhbGEubWFqb3I+CiAgICAgICAgPHNjYWxhLm1ham9yLm1pbm9yPjIuMTEuMTI8L3NjYWxhLm1ham9yLm1pbm9yPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMS4wPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8Z3Jvb3Z5LWVjbGlwc2UtY29tcGlsZXIudmVyc2lvbj4yLjkuMi0wMTwvZ3Jvb3Z5LWVjbGlwc2UtY29tcGlsZXIudmVyc2lvbj4KICAgICAgICA8Z3Jvb3Z5LWVjbGlwc2UtYmF0Y2gudmVyc2lvbj4yLjQuMy0wMTwvZ3Jvb3Z5LWVjbGlwc2UtYmF0Y2gudmVyc2lvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3BhcmsudmVyc2lvbj4yLjEuMzwvc3BhcmsudmVyc2lvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5hdnJvPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmF2cm8tbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuNy40PC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1zdXJlZmlyZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+Mi4xOC4xPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1hbnRydW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjEuNzwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tZGVwZW5kZW5jeS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+Mi4xMDwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tc291cmNlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjQ8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXJlc291cmNlcy1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+Mi41PC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5jb2RlaGF1cy5tb2pvPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNxbC1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+MS41PC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5jb2RlaGF1cy5ncm9vdnk8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+Z3Jvb3Z5LWVjbGlwc2UtY29tcGlsZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+JHtncm9vdnktZWNsaXBzZS1jb21waWxlci52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICA8ZXh0ZW5zaW9ucz50cnVlPC9leHRlbnNpb25zPgogICAgICAgICAgICAgICAgICAgIDxkZXBlbmRlbmNpZXM+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmNvZGVoYXVzLmdyb292eTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmdyb292eS1lY2xpcHNlLWJhdGNoPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+JHtncm9vdnktZWNsaXBzZS1iYXRjaC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgICAgIDwvZGVwZW5kZW5jaWVzPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aGFkb29wLnZlcnNpb24+Mi42LjAtJHtjZGgudmVyc2lvbn08L2hhZG9vcC52ZXJzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tYXNzZW1ibHktcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMS4wPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMS4wPC92ZXJzaW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
