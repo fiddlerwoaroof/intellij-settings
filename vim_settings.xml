@@ -116,11 +116,12 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="21" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" timestamp="1572995905002">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" timestamp="1572997052859">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="61" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="8" />
+        <mark key="." line="21" column="5" />
+        <mark key="^" line="23" column="8" />
       </file>
       <file name="/CJODW.DW_ACTIONFEE [PCJODW]" timestamp="1571697242029">
         <mark key="[" line="0" column="0" />
@@ -174,16 +175,17 @@
       <file name="/fragment.java" timestamp="1572559962447">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/src/main/java/com/cj/insights/ringo/datasources/SituationMapSource.java" timestamp="1572994951380">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+      <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/src/main/java/com/cj/insights/ringo/datasources/SituationMapSource.java" timestamp="1572997104655">
+        <mark key="[" line="37" column="64" />
+        <mark key="]" line="37" column="64" />
+        <mark key="." line="37" column="64" />
+        <mark key="^" line="37" column="64" />
+      </file>
+      <file name="/Oracle Fragment (SituationMapSource.java:605).sql" timestamp="1572997112702">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
-      <jump line="281" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="292" column="0" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="47" column="166" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="112" column="12" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
@@ -280,12 +282,17 @@
       <jump line="17" column="36" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="16" column="31" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="19" column="77" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" />
-      <jump line="18" column="48" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" />
+      <jump line="20" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" />
+      <jump line="18" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" />
+      <jump line="21" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IGFkZAo=</text>
+      <register name="a" type="4">
+        <text>nvl(ssb.ID, ss.ID) as order_situation_id_orig, nvl(issb.ID, iss.ID) as order_situation_id_orig,</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>to_date('2019-10-22', 'YYYY-MM-DD')</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -305,46 +312,48 @@
         <text>dtP~</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>to_date('2019-10-22', 'YYYY-MM-DD')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZGhcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>nvl(sas_issb.SIT_SITUATION_ID, sas_iss.SIT_SITUATION_ID)</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0CiAgICBjZXMuQ0FUX0lEIGFzIGNhdF9pZCwKICAgIG52bChzYXNfc3NiLlNJVF9TSVRVQVRJT05fSUQsIHNhc19zcy5TSVRfU0lUVUFUSU9OX0lEKSBhcyBvcmRlcl9zaXR1YXRpb25faWQsCiAgICBudmwoc2FzX2lzc2IuU0lUX1NJVFVBVElPTl9JRCwgc2FzX2lzcy5TSVRfU0lUVUFUSU9OX0lEKSBhcyBpdGVtX3NpdHVhdGlvbl9pZApmcm9tIGNqb19hY3Rpb25fdHhuIGNhdAogICAgbGVmdCBqb2luIGNhdF9lZmZlY3RpdmVfc2l0dWF0aW9uIGNlcyBvbiBjYXQuaWQgPSBjZXMuY2F0X2lkCiAgICBsZWZ0IGpvaW4gc2l0X3NpdHVhdGlvbl9zaXRfY29ucyBzc3NjIG9uIGNlcy5zaXRfc2l0dWF0aW9uX3NpdF9jb25zX2lkID0gc3NzYy5pZAogICAgbGVmdCBqb2luIHNpdF9zaXR1YXRpb24gc3Mgb24gc3NzYy5zaXRfc2l0dWF0aW9uX2lkID0gc3MuaWQKICAgIGxlZnQgam9pbiBzaXRfc2l0dWF0aW9uIHNzYiBvbiBzcy5iYXNlX3NpdHVhdGlvbl9pZCA9IHNzYi5pZAogICAgbGVmdCBqb2luIGNqb19hY3Rpb25fdHhuX2l0ZW0gY2F0aXRlbSBvbiBjZXMuY2F0X2lkID0gY2F0aXRlbS5jam9fYWN0aW9uX3R4bl9pZAogICAgbGVmdCBqb2luIGNhdF9pdGVtX2VmZmVjdGl2ZV9zaXR1YXRpb24gY2llcyBvbiBjYXRpdGVtLmlkID0gY2llcy5jYXRfaXRlbV9pZAogICAgbGVmdCBqb2luIHNpdF9zaXR1YXRpb25fc2l0X2NvbnMgaXNzc2Mgb24gY2llcy5zaXRfc2l0dWF0aW9uX3NpdF9jb25zX2lkID0gaXNzc2MuaWQKICAgIGxlZnQgam9pbiBzaXRfc2l0dWF0aW9uIGlzcyBvbiBpc3NzYy5zaXRfc2l0dWF0aW9uX2lkID0gaXNzLmlkCiAgICBsZWZ0IGpvaW4gc2l0X3NpdHVhdGlvbiBpc3NiIG9uIGlzcy5iYXNlX3NpdHVhdGlvbl9pZCA9IGlzc2IuaWQKICAgIGxlZnQgam9pbiBzaXRfYWR2ZXJ0aXNlcl9zaXR1YXRpb24gc2FzX3NzICAgb24gc3MuaWQgPSBzYXNfc3Muc2l0X3NpdHVhdGlvbl9pZAogICAgbGVmdCBqb2luIHNpdF9hZHZlcnRpc2VyX3NpdHVhdGlvbiBzYXNfc3NiICBvbiBzc2IuaWQgPSBzYXNfc3NiLnNpdF9zaXR1YXRpb25faWQKICAgIGxlZnQgam9pbiBzaXRfYWR2ZXJ0aXNlcl9zaXR1YXRpb24gc2FzX2lzcyAgb24gaXNzLmlkID0gc2FzX2lzcy5zaXRfc2l0dWF0aW9uX2lkCiAgICBsZWZ0IGpvaW4gc2l0X2FkdmVydGlzZXJfc2l0dWF0aW9uIHNhc19pc3NiIG9uIGlzc2IuaWQgPSBzYXNfaXNzYi5zaXRfc2l0dWF0aW9uX2lkCndoZXJlIGNhdC5wb3N0aW5nX2RhdGUgPj0gdG9fZGF0ZSgnMjAxOS0xMC0yMCcsICdZWVlZLU1NLUREJykgYW5kIGNhdC5wb3N0aW5nX2RhdGUgPCB0b19kYXRlKCcyMDE5LTEwLTIyJywgJ1lZWVktTU0tREQnKQogICAgICBhbmQgKHNzLmlkIGlzIG5vdCBudWxsIG9yIHNzYi5pZCBpcyBub3QgbnVsbCBvciBpc3MuaWQgaXMgbm90IG51bGwgb3IgaXNzYi5pZCBpcyBub3QgbnVsbCkKZ3JvdXAgYnkgY2VzLmNhdF9pZCwKICAgICBudmwoc2FzX3NzYi5TSVRfU0lUVUFUSU9OX0lELCBzYXNfc3MuU0lUX1NJVFVBVElPTl9JRCksCiAgICAgbnZsKHNhc19pc3NiLlNJVF9TSVRVQVRJT05fSUQsIHNhc19pc3MuU0lUX1NJVFVBVElPTl9JRCk7CiAgICAgICAgCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IGFkZAo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgIAogICAg</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="8">
+        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG52bChpc3NiLklELCBpc3MuSUQpIGFzIG9yZGVyX3NpdHVhdGlvbl9pZF9vcmlnLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG52bChzc2IuSUQsIHNzLklEKSBhcyBvcmRlcl9zaXR1YXRpb25faWRfb3JpZywK</text>
+      </register>
+      <register name="5" type="8">
+        <text>inner
+inner
+inner</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IGFkZAo=</text>
+      </register>
+      <register name="7" type="8">
         <text>left
 left
 left
 left</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgcmlnaHQgam9pbiBDSi5TSVRfQURWRVJUSVNFUl9TSVRVQVRJT04gc2FzCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2RoLnZlcnNpb24+Y2RoNS41LjE8L2NkaC52ZXJzaW9uPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NhbGEubWFqb3I+Mi4xMTwvc2NhbGEubWFqb3I+CiAgICAgICAgPHNjYWxhLm1ham9yLm1pbm9yPjIuMTEuMTI8L3NjYWxhLm1ham9yLm1pbm9yPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3Jvb3Z5LWVjbGlwc2UtY29tcGlsZXIudmVyc2lvbj4yLjkuMi0wMTwvZ3Jvb3Z5LWVjbGlwc2UtY29tcGlsZXIudmVyc2lvbj4KICAgICAgICA8Z3Jvb3Z5LWVjbGlwc2UtYmF0Y2gudmVyc2lvbj4yLjQuMy0wMTwvZ3Jvb3Z5LWVjbGlwc2UtYmF0Y2gudmVyc2lvbj4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhcmsudmVyc2lvbj4yLjEuMzwvc3BhcmsudmVyc2lvbj4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aGFkb29wLnZlcnNpb24+Mi42LjAtJHtjZGgudmVyc2lvbn08L2hhZG9vcC52ZXJzaW9uPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMS4wPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8Y2RoLnZlcnNpb24+Y2RoNS41LjE8L2NkaC52ZXJzaW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
