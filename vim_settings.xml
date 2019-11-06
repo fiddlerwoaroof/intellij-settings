@@ -116,12 +116,12 @@
         <mark key="." line="21" column="36" />
         <mark key="^" line="21" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" timestamp="1572997052859">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" timestamp="1572998890606">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="21" column="5" />
-        <mark key="^" line="23" column="8" />
+        <mark key="[" line="21" column="57" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
       </file>
       <file name="/CJODW.DW_ACTIONFEE [PCJODW]" timestamp="1571697242029">
         <mark key="[" line="0" column="0" />
@@ -175,14 +175,11 @@
       <file name="/fragment.java" timestamp="1572559962447">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/src/main/java/com/cj/insights/ringo/datasources/SituationMapSource.java" timestamp="1572997104655">
-        <mark key="[" line="37" column="64" />
-        <mark key="]" line="37" column="64" />
-        <mark key="." line="37" column="64" />
-        <mark key="^" line="37" column="64" />
-      </file>
-      <file name="/Oracle Fragment (SituationMapSource.java:605).sql" timestamp="1572997112702">
+      <file name="/Oracle Fragment (SituationMapSource.java:605).sql" timestamp="1572998903018">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="59" />
+        <mark key="^" line="25" column="59" />
+        <mark key="." line="25" column="59" />
       </file>
     </filemarks>
     <jumps>
