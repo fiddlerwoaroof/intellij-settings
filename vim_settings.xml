@@ -6,87 +6,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/datasources/SituationMapSource.java" timestamp="1572387733299">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="10" />
-        <mark key="." line="19" column="10" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ForwardTimestampRangeGeneratorTest.java" timestamp="1571177992774">
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="32" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/pom.xml" timestamp="1572560761584">
-        <mark key="'" line="36" column="12" />
-        <mark key="[" line="192" column="22" />
-        <mark key="]" line="593" column="7" />
-      </file>
       <file name="/a.dummy" timestamp="1570820161862">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/AbstractSituationMapSourceImpl.java" timestamp="1571199963313">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/TimestampRange.java" timestamp="1571203434459">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnSerializationTest.java" timestamp="1571161687988">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="/CJ.SIT_SITUATION [@shopcart.db.sj2.cj.com]" timestamp="1570127778506">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxn.java" timestamp="1571177244676">
-        <mark key="'" line="606" column="70" />
-        <mark key="[" line="604" column="30" />
-        <mark key="]" line="604" column="41" />
-        <mark key="." line="604" column="41" />
-        <mark key="^" line="604" column="41" />
-      </file>
-      <file name="/CJ.SIT_SITUATION_SIT_CONS [Oracle -]" timestamp="1571158102416">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1572994932255">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/pom.xml" timestamp="1572560671841">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="109" column="25" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/sinks/ActionTxnFactPublisherLogEntryTest.java" timestamp="1572386822857">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/ActionTxnTest.java" timestamp="1571175655116">
-        <mark key="'" line="83" column="42" />
-        <mark key="[" line="83" column="50" />
-        <mark key="]" line="84" column="8" />
-        <mark key="." line="84" column="8" />
-        <mark key="^" line="84" column="8" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/PartitionQuery.java" timestamp="1572386658719">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="13" />
         <mark key="^" line="12" column="13" />
         <mark key="." line="12" column="13" />
-      </file>
-      <file name="/dummy.sql" timestamp="1571697242766">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1572994932261">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/HttpServer.java" timestamp="1572382473359">
         <mark key="[" line="86" column="72" />
@@ -96,25 +26,6 @@
       </file>
       <file name="/CJ.CAT_EFFECTIVE_SITUATION [Oracle -]" timestamp="1571158102711">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/SituationMapSourceImplTest.java" timestamp="1572386498388">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="24" column="55" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/time/BackwardTimestampRangeGeneratorTest.java" timestamp="1572386483588">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9637ea62-0c52-4b3a-87f9-ef3ffff294ba/console.sql" timestamp="1571703094257">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="36" />
-        <mark key="^" line="21" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" timestamp="1572998890606">
         <mark key="'" line="0" column="0" />
@@ -126,60 +37,43 @@
       <file name="/CJODW.DW_ACTIONFEE [PCJODW]" timestamp="1571697242029">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" timestamp="1572386316155">
-        <mark key="'" line="139" column="116" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="193" column="58" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/pom.xml" timestamp="1572561142366">
-        <mark key="'" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/test/java/com/cj/data/action/time/ForwardTimestampRangeGeneratorTest.java" timestamp="1572386478053">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/pom.xml" timestamp="1572560635798">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="143" column="17" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/resources/log4j.xml" timestamp="1572387434604">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="65" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSourceImpl.java" timestamp="1572386324191">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/time/ForwardTimestampRangeGenerator.java" timestamp="1572386243891">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/SituationMapSource.java" timestamp="1572386340650">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2fe1c7f1-52ef-48fa-86a1-912ac4f635c3/console.sql" timestamp="1571702224497">
-        <mark key="'" line="9" column="67" />
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="13" column="43" />
-      </file>
-      <file name="/fragment.java" timestamp="1572559962447">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Oracle Fragment (SituationMapSource.java:605).sql" timestamp="1572998903018">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="25" column="59" />
         <mark key="^" line="25" column="59" />
         <mark key="." line="25" column="59" />
+      </file>
+      <file name="/__dummy.xml" timestamp="1573005982107">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/main/data/click-path-analyzer/pom.xml" timestamp="1573006223911">
+        <mark key="[" line="221" column="13" />
+        <mark key="]" line="221" column="13" />
+        <mark key="^" line="221" column="13" />
+        <mark key="." line="221" column="13" />
+      </file>
+      <file name="/CJ.SIT_SITUATION_SIT_CONS [Oracle -]" timestamp="1571158102416">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1572994932255">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1571697242766">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1573006377686">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/__dummy.xhtml" timestamp="1573005981958">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/pom.xml" timestamp="1572561142366">
+        <mark key="'" line="0" column="6" />
+      </file>
+      <file name="/fragment.java" timestamp="1573005976540">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -288,8 +182,8 @@
       <register name="a" type="4">
         <text>nvl(ssb.ID, ss.ID) as order_situation_id_orig, nvl(issb.ID, iss.ID) as order_situation_id_orig,</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>to_date('2019-10-22', 'YYYY-MM-DD')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Q0pQTS0xMjQ1NDogYXBwbHkgc29tZSBJbnRlbGxpai1zdWdnZXN0ZWQgY29kZSBjbGVhbnVwCg==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -317,40 +211,40 @@
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0CiAgICBjZXMuQ0FUX0lEIGFzIGNhdF9pZCwKICAgIG52bChzYXNfc3NiLlNJVF9TSVRVQVRJT05fSUQsIHNhc19zcy5TSVRfU0lUVUFUSU9OX0lEKSBhcyBvcmRlcl9zaXR1YXRpb25faWQsCiAgICBudmwoc2FzX2lzc2IuU0lUX1NJVFVBVElPTl9JRCwgc2FzX2lzcy5TSVRfU0lUVUFUSU9OX0lEKSBhcyBpdGVtX3NpdHVhdGlvbl9pZApmcm9tIGNqb19hY3Rpb25fdHhuIGNhdAogICAgbGVmdCBqb2luIGNhdF9lZmZlY3RpdmVfc2l0dWF0aW9uIGNlcyBvbiBjYXQuaWQgPSBjZXMuY2F0X2lkCiAgICBsZWZ0IGpvaW4gc2l0X3NpdHVhdGlvbl9zaXRfY29ucyBzc3NjIG9uIGNlcy5zaXRfc2l0dWF0aW9uX3NpdF9jb25zX2lkID0gc3NzYy5pZAogICAgbGVmdCBqb2luIHNpdF9zaXR1YXRpb24gc3Mgb24gc3NzYy5zaXRfc2l0dWF0aW9uX2lkID0gc3MuaWQKICAgIGxlZnQgam9pbiBzaXRfc2l0dWF0aW9uIHNzYiBvbiBzcy5iYXNlX3NpdHVhdGlvbl9pZCA9IHNzYi5pZAogICAgbGVmdCBqb2luIGNqb19hY3Rpb25fdHhuX2l0ZW0gY2F0aXRlbSBvbiBjZXMuY2F0X2lkID0gY2F0aXRlbS5jam9fYWN0aW9uX3R4bl9pZAogICAgbGVmdCBqb2luIGNhdF9pdGVtX2VmZmVjdGl2ZV9zaXR1YXRpb24gY2llcyBvbiBjYXRpdGVtLmlkID0gY2llcy5jYXRfaXRlbV9pZAogICAgbGVmdCBqb2luIHNpdF9zaXR1YXRpb25fc2l0X2NvbnMgaXNzc2Mgb24gY2llcy5zaXRfc2l0dWF0aW9uX3NpdF9jb25zX2lkID0gaXNzc2MuaWQKICAgIGxlZnQgam9pbiBzaXRfc2l0dWF0aW9uIGlzcyBvbiBpc3NzYy5zaXRfc2l0dWF0aW9uX2lkID0gaXNzLmlkCiAgICBsZWZ0IGpvaW4gc2l0X3NpdHVhdGlvbiBpc3NiIG9uIGlzcy5iYXNlX3NpdHVhdGlvbl9pZCA9IGlzc2IuaWQKICAgIGxlZnQgam9pbiBzaXRfYWR2ZXJ0aXNlcl9zaXR1YXRpb24gc2FzX3NzICAgb24gc3MuaWQgPSBzYXNfc3Muc2l0X3NpdHVhdGlvbl9pZAogICAgbGVmdCBqb2luIHNpdF9hZHZlcnRpc2VyX3NpdHVhdGlvbiBzYXNfc3NiICBvbiBzc2IuaWQgPSBzYXNfc3NiLnNpdF9zaXR1YXRpb25faWQKICAgIGxlZnQgam9pbiBzaXRfYWR2ZXJ0aXNlcl9zaXR1YXRpb24gc2FzX2lzcyAgb24gaXNzLmlkID0gc2FzX2lzcy5zaXRfc2l0dWF0aW9uX2lkCiAgICBsZWZ0IGpvaW4gc2l0X2FkdmVydGlzZXJfc2l0dWF0aW9uIHNhc19pc3NiIG9uIGlzc2IuaWQgPSBzYXNfaXNzYi5zaXRfc2l0dWF0aW9uX2lkCndoZXJlIGNhdC5wb3N0aW5nX2RhdGUgPj0gdG9fZGF0ZSgnMjAxOS0xMC0yMCcsICdZWVlZLU1NLUREJykgYW5kIGNhdC5wb3N0aW5nX2RhdGUgPCB0b19kYXRlKCcyMDE5LTEwLTIyJywgJ1lZWVktTU0tREQnKQogICAgICBhbmQgKHNzLmlkIGlzIG5vdCBudWxsIG9yIHNzYi5pZCBpcyBub3QgbnVsbCBvciBpc3MuaWQgaXMgbm90IG51bGwgb3IgaXNzYi5pZCBpcyBub3QgbnVsbCkKZ3JvdXAgYnkgY2VzLmNhdF9pZCwKICAgICBudmwoc2FzX3NzYi5TSVRfU0lUVUFUSU9OX0lELCBzYXNfc3MuU0lUX1NJVFVBVElPTl9JRCksCiAgICAgbnZsKHNhc19pc3NiLlNJVF9TSVRVQVRJT05fSUQsIHNhc19pc3MuU0lUX1NJVFVBVElPTl9JRCk7CiAgICAgICAgCg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgIAogICAg</text>
+      <register name="1" type="2">
+        <text encoding="base64">Q0pQTS0xMjQ1NDogYXBwbHkgc29tZSBJbnRlbGxpai1zdWdnZXN0ZWQgY29kZSBjbGVhbnVwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="8">
+        <text encoding="base64">ICAgIAogICAg</text>
+      </register>
+      <register name="3" type="8">
         <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIG52bChpc3NiLklELCBpc3MuSUQpIGFzIG9yZGVyX3NpdHVhdGlvbl9pZF9vcmlnLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG52bChzc2IuSUQsIHNzLklEKSBhcyBvcmRlcl9zaXR1YXRpb25faWRfb3JpZywK</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>inner
 inner
 inner</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IGFkZAo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>left
 left
 left
 left</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgcmlnaHQgam9pbiBDSi5TSVRfQURWRVJUSVNFUl9TSVRVQVRJT04gc2FzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2RoLnZlcnNpb24+Y2RoNS41LjE8L2NkaC52ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgcmlnaHQgam9pbiBDSi5TSVRfQURWRVJUSVNFUl9TSVRVQVRJT04gc2FzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
