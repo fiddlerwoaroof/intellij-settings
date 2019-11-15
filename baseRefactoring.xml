@@ -12,6 +12,7 @@
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INLINE_METHOD_THIS" value="true" />
     <option name="INLINE_FIELD_THIS" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
     <option name="RENAME_PARAMETER_IN_HIERARCHY" value="false" />
