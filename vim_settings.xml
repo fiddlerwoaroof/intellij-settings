@@ -24,7 +24,7 @@
       <file name="/CJ.SIT_SITUATION_SIT_CONS [Oracle -]" timestamp="1571158102416">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1573153205974">
+      <file name="/a.sql" timestamp="1574467274589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console.sql" timestamp="1573153478078">
@@ -54,7 +54,7 @@
       <file name="/dummy.sql" timestamp="1571697242766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1573153205982">
+      <file name="/Dummy.txt" timestamp="1574467274596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,8 +89,13 @@
       <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/pom.xml" timestamp="1572561142366">
         <mark key="'" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/run_in_105.sh" timestamp="1573777959036" />
-      <file name="$USER_HOME$/git_repos/cj/main/data-lib/datasource-provider/src/main/java/com/cj/datasource/DataSourceProvider.java" timestamp="1573777855884" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" timestamp="1574467543859">
+        <mark key="'" line="20" column="58" />
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="7" column="46" />
+        <mark key="^" line="0" column="91" />
+        <mark key="." line="7" column="46" />
+      </file>
       <file name="$USER_HOME$/demos/fwoar-java-tryme/src/co/fwoar/java/tryme/sub/Test.java" timestamp="1573514768036">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="47" />
@@ -113,7 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="101" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="140" column="75" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="131" column="63" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
       <jump line="139" column="116" filename="$USER_HOME$/git_repos/cj/main/data/kafka-consumers/action-txn-fact-publisher/src/main/java/com/cj/data/action/ActionTxnFactProducer.java" />
@@ -213,13 +217,14 @@
       <jump line="51" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/ringo/src/main/java/com/cj/insights/ringo/datasources/ProducerMain.java" />
       <jump line="56" column="113" filename="$USER_HOME$/git_repos/cj/main/insights/ringo/src/main/java/com/cj/insights/ringo/datasources/ProducerMain.java" />
       <jump line="43" column="21" filename="$USER_HOME$/git_repos/cj/main/insights/ringo/src/main/java/com/cj/insights/ringo/datasources/ProducerMain.java" />
+      <jump line="20" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>nvl(ssb.ID, ss.ID) as order_situation_id_orig, nvl(issb.ID, iss.ID) as order_situation_id_orig,</text>
       </register>
       <register name="&quot;" type="4">
-        <text>2534105700L</text>
+        <text>21</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -239,13 +244,13 @@
         <text>dtP~</text>
       </register>
       <register name="-" type="4">
-        <text>2534105700L</text>
+        <text>21</text>
       </register>
       <register name="/" type="4">
         <text>rs</text>
       </register>
       <register name="0" type="4">
-        <text>2534105700L</text>
+        <text encoding="base64">IHRvX2RhdGUoJzIwMTktMTEtMjEnLCAneXl5eS1tbS1kZCcp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBzLnNldFRpbWVzdGFtcCgyLCBzdGFydFBvc3RpbmdEYXRlLCBwYWNpZmljVGltZSk7CiAgICAgICAgICAgICAgICBwcy5zZXRUaW1lc3RhbXAoMywgZW5kUG9zdGluZ0RhdGUsIHBhY2lmaWNUaW1lKTsK</text>
