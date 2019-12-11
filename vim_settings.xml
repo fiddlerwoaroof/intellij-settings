@@ -62,11 +62,12 @@
       <file name="/a.sql" timestamp="1574467274589">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console.sql" timestamp="1576088928700">
-        <mark key="[" line="11" column="62" />
-        <mark key="]" line="11" column="216" />
-        <mark key="^" line="11" column="216" />
-        <mark key="." line="11" column="216" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console.sql" timestamp="1576099103170">
+        <mark key="'" line="13" column="57" />
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="19" column="83" />
+        <mark key="^" line="19" column="83" />
+        <mark key="." line="19" column="83" />
       </file>
       <file name="$USER_HOME$/demos/fwoar-java-tryme/src/co/fwoar/java/tryme/Foo.java" timestamp="1573514764618">
         <mark key="[" line="11" column="4" />
@@ -118,8 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="9" filename="$USER_HOME$/git_repos/cj/main/data/pom.xml" />
-      <jump line="144" column="8" filename="$USER_HOME$/git_repos/cj/main/data/pom.xml" />
       <jump line="142" column="0" filename="$USER_HOME$/git_repos/cj/main/data/pom.xml" />
       <jump line="117" column="11" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="19" column="11" filename="$USER_HOME$/git_repos/cj/main/data/pom.xml" />
@@ -218,13 +217,15 @@
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
       <jump line="10" column="37" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
+      <jump line="8" column="174" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console.sql" />
+      <jump line="13" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>nvl(ssb.ID, ss.ID) as order_situation_id_orig, nvl(issb.ID, iss.ID) as order_situation_id_orig,</text>
       </register>
       <register name="&quot;" type="4">
-        <text>PUB_COMPANY_ID</text>
+        <text>;</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -244,13 +245,13 @@
         <text>dtP~</text>
       </register>
       <register name="-" type="4">
-        <text>PUB_COMPANY_ID</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>rs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IFRSVU5DX0VWRU5UX0RBVEUsIG52bChzc2IuaWQsIHNzLmlkKSBhcyBzaXRfaWQsIG52bChzc2IubmFtZSwgc3MubmFtZSkgYXMgc2l0X25hbWUsIGNhdC5BRFZfQ09NUEFOWV9JRCwKICAgIGNvdW50KGNhdC5pZCkgYXMgaGl0X2NvdW50LCBzdW0oY2F0LlNBTEVfQU1PVU5UX0FEVl9DVVJSKQpmcm9tIENKT19BQ1RJT05fVFhOIGNhdAogICAgICAgICByaWdodCBqb2luIENBVF9FRkZFQ1RJVkVfU0lUVUFUSU9OIGNlcyBvbiBjZXMuQ0FUX0lEID0gY2F0LklECiAgICAgICAgIGxlZnQgam9pbiBTSVRfU0lUVUFUSU9OX1NJVF9DT05TIHNzc2Mgb24gc3NzYy5pZCA9IGNlcy5TSVRfU0lUVUFUSU9OX1NJVF9DT05TX0lECiAgICAgICAgIGxlZnQgam9pbiBTSVRfU0lUVUFUSU9OIHNzIG9uIHNzc2MuU0lUX1NJVFVBVElPTl9JRCA9IHNzLklECiAgICAgICAgIGxlZnQgam9pbiBzaXRfc2l0dWF0aW9uIHNzYiBvbiBzc2IuaWQgPSBzcy5CQVNFX1NJVFVBVElPTl9JRAp3aGVyZSBUUlVOQ19FVkVOVF9EQVRFID0gdG9fZGF0ZSgnMjAxOS0xMi0wMicsICd5eXl5LW1tLWRkJykKICAgICAgICBhbmQgY2F0LkFEVl9DT01QQU5ZX0lEID0gNTI4ODk2Nwpncm91cCBieSBUUlVOQ19FVkVOVF9EQVRFLCBudmwoc3NiLmlkLCBzcy5pZCksIG52bChzc2IubmFtZSwgc3MubmFtZSksIGNhdC5BRFZfQ09NUEFOWV9JRApvcmRlciBieSBUUlVOQ19FVkVOVF9EQVRFIGFzYywgbnZsKHNzYi5pZCwgc3MuaWQpIGFzYywgaGl0X2NvdW50IGRlc2M7Cgo=</text>
+      <register name="0" type="4">
+        <text>sum(SALE_AMOUNT_ADV_CURR)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBkZAo=</text>
