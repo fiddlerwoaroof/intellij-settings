@@ -75,12 +75,12 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" timestamp="1576196582748">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="24" column="86" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" timestamp="1576534702464">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="86" column="95" />
+        <mark key="]" line="87" column="35" />
+        <mark key="." line="87" column="35" />
+        <mark key="^" line="87" column="35" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/src/main/java/com/cj/insights/ringo/datasources/ProducerMain.java" timestamp="1573780938051">
         <mark key="[" line="52" column="52" />
@@ -119,8 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="10" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
-      <jump line="618" column="7" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="448" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="369" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="363" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
@@ -219,13 +217,15 @@
       <jump line="14" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
       <jump line="57" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
+      <jump line="18" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
+      <jump line="63" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>nvl(ssb.ID, ss.ID) as order_situation_id_orig, nvl(issb.ID, iss.ID) as order_situation_id_orig,</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgY2F0LkFEVl9DT01QQU5ZX0lEID0gNTI4ODk2Nwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29tcGFueS5JRCwg</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -245,43 +245,49 @@
         <text>dtP~</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNlcy5zaQ==</text>
+        <text encoding="base64">Y29tcGFueS5JRCwg</text>
       </register>
       <register name="/" type="4">
         <text>rs</text>
       </register>
-      <register name="0" type="4">
-        <text>sum(SALE_AMOUNT_ADV_CURR)</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBTSVRfQURWRVJUSVNFUl9TSVRVQVRJT04gd2hlcmUgU0lUX1NJVFVBVElPTl9JRCA9IDQ2OTEzOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmQgY2F0LkFEVl9DT01QQU5ZX0lEID0gNTI4ODk2Nwo=</text>
+      <register name="1" type="4">
+        <text>, CITY, STATE, ZIP, PHONE, FAX, DATE_, STATUS, CLASSIFICATION,
+    DELETE_DATE, ORG_CON_DESC_WSNAME_URL_CAT, COUNTRY, FUNC_CURRENCY, PREFERRED_DATE_FORMAT, PREFERRED_LANGUAGE,
+    STR_CITY_ST_ZIP, VAT_NUMBER, VCLK_COMPANY_CODE, ACCT_GROUP_CODE, ADDRESS_LAST_MODIFIED, ADDRESS_ONE, ADDRESS_TWO,
+    COUNTRY_SUBDIVISION_ID, IS_PRC, LAST_MODIFIED, IS_CJX, FACEBOOK_URL, TWITTER_URL, BLOG_URL, LINKEDIN_URL, IS_CONTENT</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBpbm5lciBqb2luIFNJVF9BRFZFUlRJU0VSX1NJVFVBVElPTiBzYXMgb24gc2FzLlNJVF9TSVRVQVRJT05fSUQgPSBjZXMuc2kK</text>
+      <register name="2" type="4">
+        <text>, ORGANIZATION, CITY, STATE, ZIP, PHONE, FAX, DATE_, STATUS, CLASSIFICATION,
+    DELETE_DATE, ORG_CON_DESC_WSNAME_URL_CAT, COUNTRY, FUNC_CURRENCY, PREFERRED_DATE_FORMAT, PREFERRED_LANGUAGE,
+    STR_CITY_ST_ZIP, VAT_NUMBER, VCLK_COMPANY_CODE, ACCT_GROUP_CODE, ADDRESS_LAST_MODIFIED, ADDRESS_ONE, ADDRESS_TWO,
+    COUNTRY_SUBDIVISION_ID, IS_PRC, LAST_MODIFIED, IS_CJX, FACEBOOK_URL, TWITTER_URL, BLOG_URL, LINKEDIN_URL, IS_CONTENT</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlubmVyIGpvaW4gU0lUX0FEVkVSVElTRVJfU0lUVUFUSU9OIHNhcyBvbiBzYXMuU0lUX1NJVFVBVElPTl9JRCA9IGNlcy5zaQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmQgY2F0LkFEVl9DT01QQU5ZX0lEID0gNTI4ODk2Nwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0gICAgYW5kIEFDVElPTlRSQUNLRVJfSUQgPSA0MTEzNjcK</text>
+        <text encoding="base64">ICAgICAgICAgICBpbm5lciBqb2luIFNJVF9BRFZFUlRJU0VSX1NJVFVBVElPTiBzYXMgb24gc2FzLlNJVF9TSVRVQVRJT05fSUQgPSBjZXMuc2kK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBkZAo=</text>
+        <text encoding="base64">ICAgIGlubmVyIGpvaW4gU0lUX0FEVkVSVElTRVJfU0lUVUFUSU9OIHNhcyBvbiBzYXMuU0lUX1NJVFVBVElPTl9JRCA9IGNlcy5zaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0gICAgYW5kIEFDVElPTlRSQUNLRVJfSUQgPSA0MTEzNjcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gICAgICAgYW5kIG52bChzc2IuaWQsIHNzLmlkKSBpbiAoNDc3MTMsNDc3MTIsNDc3MTUsNDc3MTEsNDk0OTIpCg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnNlbGVjdCAqIGZyb20gU0lUX1NJVFVBVElPTiB3aGVyZSBpZCA9IDQ1MDg2OwpzZWxlY3QgKiBmcm9tIGtrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxpc3RhZ2coY2FzZSB3aGVuIHNzLkJBU0VfU0lUVUFUSU9OX0lEIGlzIG5vdCBudWxsCiAgICAgICAgICAgICAgICAgICAgIHRoZW4gc3NiLm5hbWUKICAgICAgICAgICAgICAgICBlbHNlIHNzLm5hbWUgZW5kLCAnICcpIHdpdGhpbiBncm91cCAoKSBhcyBuYW1lLAo=</text>
+        <text encoding="base64">LS0gICAgICAgYW5kIG52bChzc2IuaWQsIHNzLmlkKSBpbiAoNDc3MTMsNDc3MTIsNDc3MTUsNDc3MTEsNDk0OTIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
