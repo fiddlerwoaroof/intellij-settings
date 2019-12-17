@@ -75,12 +75,12 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="11" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" timestamp="1576534702464">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="86" column="95" />
-        <mark key="]" line="87" column="35" />
-        <mark key="." line="87" column="35" />
-        <mark key="^" line="87" column="35" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" timestamp="1576543145634">
+        <mark key="'" line="98" column="57" />
+        <mark key="[" line="126" column="28" />
+        <mark key="]" line="126" column="28" />
+        <mark key="." line="126" column="28" />
+        <mark key="^" line="126" column="28" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/src/main/java/com/cj/insights/ringo/datasources/ProducerMain.java" timestamp="1573780938051">
         <mark key="[" line="52" column="52" />
@@ -119,9 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="448" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
-      <jump line="369" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
-      <jump line="363" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="357" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="345" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="337" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
@@ -219,13 +216,16 @@
       <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
       <jump line="18" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
       <jump line="63" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
+      <jump line="85" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
+      <jump line="93" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
+      <jump line="98" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>nvl(ssb.ID, ss.ID) as order_situation_id_orig, nvl(issb.ID, iss.ID) as order_situation_id_orig,</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29tcGFueS5JRCwg</text>
+        <text>%s</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -245,10 +245,10 @@
         <text>dtP~</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tcGFueS5JRCwg</text>
+        <text>%s</text>
       </register>
       <register name="/" type="4">
-        <text>rs</text>
+        <text encoding="base64">XDxudW1fYWN0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0ICogZnJvbSBTSVRfQURWRVJUSVNFUl9TSVRVQVRJT04gd2hlcmUgU0lUX1NJVFVBVElPTl9JRCA9IDQ2OTEzOwo=</text>
@@ -294,9 +294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rs</last-search>
+      <last-search encoding="base64">XDxudW1fYWN0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern>rs</last-pattern>
+      <last-pattern encoding="base64">XDxudW1fYWN0aW9uc1w+</last-pattern>
       <last-replace>Posting</last-replace>
       <last-substitute>Event</last-substitute>
       <last-dir>1</last-dir>
@@ -304,7 +304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>junit</entry>
         <entry>dependencyM</entry>
         <entry>com.h2data</entry>
         <entry>exec-maven</entry>
@@ -324,6 +323,7 @@
         <entry encoding="base64">XDxkYXRhU291cmNlUHJvdmlkZXJcPg==</entry>
         <entry encoding="base64">XDxqYWNrc29uXD4=</entry>
         <entry>rs</entry>
+        <entry encoding="base64">XDxudW1fYWN0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>s/Foo/Relationship/g</entry>
