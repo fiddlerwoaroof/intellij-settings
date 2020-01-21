@@ -90,13 +90,13 @@
       <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/pom.xml" timestamp="1572561142366">
         <mark key="'" line="0" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" timestamp="1578016512784">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" timestamp="1579642551103">
         <mark key="e" line="128" column="67" />
-        <mark key="'" line="118" column="18" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-        <mark key="^" line="148" column="13" />
+        <mark key="'" line="174" column="59" />
+        <mark key="[" line="191" column="47" />
+        <mark key="]" line="191" column="47" />
+        <mark key="." line="191" column="47" />
+        <mark key="^" line="196" column="99" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/insights/fact-publisher/src/main/java/com/cj/data/fact/api/Fact.java" timestamp="1578094237707">
         <mark key="[" line="64" column="4" />
@@ -126,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="331" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="325" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
       <jump line="319" column="0" filename="$USER_HOME$/git_repos/cj/main/insights/pom.xml" />
@@ -226,13 +225,14 @@
       <jump line="98" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
       <jump line="118" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
       <jump line="42" column="34" filename="$USER_HOME$/git_repos/cj/insights/fact-publisher/pom.xml" />
+      <jump line="176" column="59" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>nvl(ssb.ID, ss.ID) as order_situation_id_orig, nvl(issb.ID, iss.ID) as order_situation_id_orig,</text>
       </register>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -252,7 +252,7 @@
         <text>dtP~</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>source-pl</text>
