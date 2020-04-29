@@ -2,17 +2,104 @@
   <component name="RelativeLineNumbersSettings">
     <option name="enabled" value="false" />
   </component>
-  <component name="VimSettings">
-    <state version="4" enabled="false" />
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>exec-maven</entry>
+        <entry>maven-shade</entry>
+        <entry>maven-asse</entry>
+        <entry>version</entry>
+        <entry encoding="base64">XDxoYWRvb3BcPg==</entry>
+        <entry encoding="base64">XDxzcGFya1w+</entry>
+        <entry encoding="base64">XDxjb21waWxlclw+</entry>
+        <entry>groovy-ecl</entry>
+        <entry encoding="base64">XDxzdXJlZmlyZVw+</entry>
+        <entry encoding="base64">XDxzY2FsYVw+</entry>
+        <entry encoding="base64">XDxjZGhcPg==</entry>
+        <entry encoding="base64">XDxjb25uXD4=</entry>
+        <entry>shopcart =</entry>
+        <entry encoding="base64">XDxzaG9wY2FydFw+</entry>
+        <entry encoding="base64">XDxkYXRhU291cmNlUHJvdmlkZXJcPg==</entry>
+        <entry encoding="base64">XDxqYWNrc29uXD4=</entry>
+        <entry>rs</entry>
+        <entry encoding="base64">XDxudW1fYWN0aW9uc1w+</entry>
+        <entry>compiler-pl</entry>
+        <entry>source-pl</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s/Foo/Relationship/g</entry>
+        <entry encoding="base64">JzwsJz5zL21lL3lvdS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2Zvby9iYXIv</entry>
+        <entry encoding="base64">JzwsJz5zL21lXy95b3VfL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3lvdS9kZXNjcmlwdGlvbi9n</entry>
+        <entry>s/Foo/String/g</entry>
+        <entry>s/name/status/g</entry>
+        <entry>258</entry>
+        <entry encoding="base64">JzwsJz5zL2Nqb2F0L2NhdC9n</entry>
+        <entry encoding="base64">JzwsJz52L2NhdC9k</entry>
+        <entry encoding="base64">JzwsJz5zLywgLywgY2F0Li9n</entry>
+        <entry>s/^/&quot;/g</entry>
+        <entry>s/$/&quot;/g</entry>
+        <entry encoding="base64">JzwsJz5zLyQvKy9n</entry>
+        <entry>s/event/posting/g</entry>
+        <entry>s/ADVERTISER/PUBLISHER/g</entry>
+        <entry encoding="base64">JzwsJz5zL0V2ZW50L1Bvc3Rpbmc=</entry>
+        <entry encoding="base64">JzwsJz4=</entry>
+        <entry>s</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1570820161862">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" timestamp="1572998890606">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="57" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
       </file>
       <file name="/__dummy.xml" timestamp="1573005982107">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/CJ.SIT_SITUATION [@shopcart.db.sj2.cj.com]" timestamp="1570127778506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/data/click-path-analyzer/pom.xml" timestamp="1573006223911">
@@ -21,18 +108,8 @@
         <mark key="^" line="221" column="13" />
         <mark key="." line="221" column="13" />
       </file>
-      <file name="/CJ.SIT_SITUATION_SIT_CONS [Oracle -]" timestamp="1571158102416">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.sql" timestamp="1574467274589">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console.sql" timestamp="1576195633574">
-        <mark key="'" line="25" column="9" />
-        <mark key="[" line="25" column="10" />
-        <mark key="]" line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="25" column="11" />
       </file>
       <file name="$USER_HOME$/demos/fwoar-java-tryme/src/co/fwoar/java/tryme/Foo.java" timestamp="1573514764618">
         <mark key="[" line="11" column="4" />
@@ -66,21 +143,15 @@
         <mark key="." line="86" column="88" />
         <mark key="^" line="86" column="88" />
       </file>
-      <file name="/CJ.CAT_EFFECTIVE_SITUATION [Oracle -]" timestamp="1571158102711">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/__dummy.xhtml" timestamp="1573005981958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8c977d7e-c069-4bde-91ec-20540d45c902/console.sql" timestamp="1572998890606">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="57" />
-        <mark key="]" line="21" column="16" />
-        <mark key="^" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-      </file>
-      <file name="/CJODW.DW_ACTIONFEE [PCJODW]" timestamp="1571697242029">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console.sql" timestamp="1576195633574">
+        <mark key="'" line="25" column="9" />
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="$USER_HOME$/git_repos/cj/main/insights/ringo/src/main/java/com/cj/insights/ringo/datasources/ActionTxnFactProducer.java" timestamp="1573777572010">
         <mark key="'" line="207" column="35" />
@@ -227,6 +298,8 @@
       <jump line="42" column="34" filename="$USER_HOME$/git_repos/cj/insights/fact-publisher/pom.xml" />
       <jump line="176" column="59" filename="$APPLICATION_CONFIG_DIR$/consoles/db/dec8be4a-49fc-4716-9d91-4fd9680929a2/console_1.sql" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="4">
         <text>nvl(ssb.ID, ss.ID) as order_situation_id_orig, nvl(issb.ID, iss.ID) as order_situation_id_orig,</text>
@@ -300,6 +373,8 @@
         <text>w</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search>source-pl</last-search>
       <last-offset />
@@ -309,88 +384,12 @@
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>exec-maven</entry>
-        <entry>maven-shade</entry>
-        <entry>maven-asse</entry>
-        <entry>version</entry>
-        <entry encoding="base64">XDxoYWRvb3BcPg==</entry>
-        <entry encoding="base64">XDxzcGFya1w+</entry>
-        <entry encoding="base64">XDxjb21waWxlclw+</entry>
-        <entry>groovy-ecl</entry>
-        <entry encoding="base64">XDxzdXJlZmlyZVw+</entry>
-        <entry encoding="base64">XDxzY2FsYVw+</entry>
-        <entry encoding="base64">XDxjZGhcPg==</entry>
-        <entry encoding="base64">XDxjb25uXD4=</entry>
-        <entry>shopcart =</entry>
-        <entry encoding="base64">XDxzaG9wY2FydFw+</entry>
-        <entry encoding="base64">XDxkYXRhU291cmNlUHJvdmlkZXJcPg==</entry>
-        <entry encoding="base64">XDxqYWNrc29uXD4=</entry>
-        <entry>rs</entry>
-        <entry encoding="base64">XDxudW1fYWN0aW9uc1w+</entry>
-        <entry>compiler-pl</entry>
-        <entry>source-pl</entry>
-      </history-search>
-      <history-cmd>
-        <entry>s/Foo/Relationship/g</entry>
-        <entry encoding="base64">JzwsJz5zL21lL3lvdS9n</entry>
-        <entry encoding="base64">JzwsJz5zL2Zvby9iYXIv</entry>
-        <entry encoding="base64">JzwsJz5zL21lXy95b3VfL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3lvdS9kZXNjcmlwdGlvbi9n</entry>
-        <entry>s/Foo/String/g</entry>
-        <entry>s/name/status/g</entry>
-        <entry>258</entry>
-        <entry encoding="base64">JzwsJz5zL2Nqb2F0L2NhdC9n</entry>
-        <entry encoding="base64">JzwsJz52L2NhdC9k</entry>
-        <entry encoding="base64">JzwsJz5zLywgLywgY2F0Li9n</entry>
-        <entry>s/^/&quot;/g</entry>
-        <entry>s/$/&quot;/g</entry>
-        <entry encoding="base64">JzwsJz5zLyQvKy9n</entry>
-        <entry>s/event/posting/g</entry>
-        <entry>s/ADVERTISER/PUBLISHER/g</entry>
-        <entry encoding="base64">JzwsJz5zL0V2ZW50L1Bvc3Rpbmc=</entry>
-        <entry encoding="base64">JzwsJz4=</entry>
-        <entry>s</entry>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
