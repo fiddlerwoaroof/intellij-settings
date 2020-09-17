@@ -2,6 +2,9 @@
   <component name="RelativeLineNumbersSettings">
     <option name="enabled" value="false" />
   </component>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
   <component name="VimHistorySettings">
     <history>
       <history-search>
@@ -386,7 +389,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="7" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
